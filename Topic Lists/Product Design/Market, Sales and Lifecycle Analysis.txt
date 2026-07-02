@@ -1,0 +1,47 @@
+1. Market Analysis (20%)
+   - Market segmentation (demographic, geographic, behavioral)  
+   - Market sizing and forecasting techniques  
+   - Competitive landscape analysis (5 Forces, SWOT)  
+   - Market entry strategies and barriers  
+   - Consumer behavior and demand drivers  
+
+2. Sales Strategy and Execution  (20%)  
+   - Sales process modeling (lead to close)  
+   - Sales forecasting and pipeline management  
+   - Sales enablement tools (CRM, sales playbooks)  
+   - Pricing strategies (value-based, penetration, skimming)  
+   - Sales performance metrics (conversion rate, average deal size)  
+
+3. Product Lifecycle Management (PLM)  (20%)
+   - Lifecycle phases (conception, introduction, growth, maturity, decline)  
+   - Lifecycle cost analysis  
+   - Design for lifecycle (durability, repairability, recyclability)  
+   - Lifecycle data integration and digital twins  
+   - End-of-life management and sustainability  
+
+4. Life Cycle Assessment (LCA)  
+   - LCA phases (goal definition, inventory, impact assessment, interpretation)  
+   - Environmental impact metrics (carbon footprint, water use)  
+   - LCA in product design and manufacturing decisions  
+   - LCA software tools and data sources  
+
+5. Sustainable Manufacturing and Value Creation  
+   - Sustainable design principles  
+   - Circular economy models  
+   - Waste reduction and resource efficiency  
+   - Life cycle cost vs. environmental cost trade-offs  
+
+6. New Product Development (NPD) and Entrepreneurial Thinking  
+   - NPD process (idea generation, concept development, testing)  
+   - Prototyping and validation methods  
+   - Risk assessment and innovation management  
+   - Entrepreneurial mindset and decision-making  
+
+7. Case Study Integration 
+   - Real-world industry case studies (market failure, successful lifecycle transition)  
+   - Critical analysis and solution design  
+   - Group-based problem solving and presentation  
+
+8. Digital Tools and Simulation
+   - Use of VR, simulation, and digital twins in sales and lifecycle planning  
+   - Digital platforms for market and sales data visualization

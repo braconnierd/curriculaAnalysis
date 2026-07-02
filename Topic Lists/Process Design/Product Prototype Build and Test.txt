@@ -1,0 +1,44 @@
+1. Introduction to Product Prototyping (30%)
+   - Definition and purpose of prototyping in product development  
+   - Evolution from traditional to digital prototyping  
+   - Role of prototyping in design iteration and validation  
+   - Key phases of the prototyping lifecycle: ideation, concept, form, function, and validation  
+
+2. Material Selection and Properties  (30%)
+   - Mechanical properties: strength, stiffness, toughness, fatigue  
+   - Thermal properties: thermal conductivity, expansion, stability  
+   - Environmental properties: corrosion resistance, UV stability, moisture resistance  
+   - Selection criteria for additive vs. subtractive manufacturing (AM vs. SM)  
+   - Trade-offs in material choice: performance, cost, availability, manufacturability  
+   - Impact of material choice on prototype performance, durability, and cost  
+
+3. Design for Manufacturing (DFM) and Additive Manufacturing (AM)
+   - Geometric constraints in AM: overhangs, overhang angles, layer adhesion, support structures  
+   - Feature optimization for printability and structural integrity (wall thickness, fillets, draft angles)  
+   - AM-specific design rules: minimum feature size, part orientation, infill density, and support requirements  
+   - Integration of AM design rules into early-stage product concepts  
+   - Comparison of DFM principles across manufacturing methods (AM, CNC, injection molding)  
+
+4. Rapid Prototyping Techniques
+   - 3D printing: FDM, SLS, SLM, DLP, and binder jetting – principles, materials, and limitations  
+   - CNC milling: toolpath generation, material compatibility, surface finish, and dimensional accuracy  
+   - Injection molding: feasibility, material limitations, cycle time, and tooling costs  
+   - Toolpath generation and setup procedures: software selection, calibration, and validation  
+   - Comparison of resolution, surface finish, speed, material compatibility, and cost across techniques  
+   - Selection of technique based on prototype purpose (functional, aesthetic, structural)  
+
+5. Prototyping Workflow and Iterative Design
+   - From concept to physical prototype: stages and decision points (going from idea to sketch to CAD to mockup to test to revise)  
+   - Feedback loops and design revisions: identifying failure points and iterative improvements  
+   - Role of digital tools (CAD, CAM, CAE) in workflow efficiency and design continuity  
+   - Version control and documentation of design changes throughout iterations  
+   - Managing design artifacts and maintaining a prototype log  
+
+6. Testing Methods and Validation  
+   - Mechanical testing: tensile, compressive, shear, bending, torsion  
+   - Thermal testing: temperature cycling, thermal shock, heat resistance  
+   - Functional testing: performance under real-world conditions, operation, and user interaction  
+   - Use of load, stress, and durability tests to validate prototype performance  
+   - Data collection methods: sensors, load cells, strain gauges, video recording  
+   - Analysis techniques: statistical evaluation, failure mode identification, trend analysis  
+   - Reporting standards: test protocols, results documentation, compliance with industry norms    

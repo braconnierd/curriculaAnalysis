@@ -1,0 +1,46 @@
+1. Introduction to Statistical Process Control (SPC) 
+   - Definition and purpose of SPC  
+   - Historical context (Deming, Shewhart)  
+   - Role in quality management and continuous improvement  
+   - Link to PDCA cycle (Plan-Do-Check-Act)  
+
+2. Process Design and Measurement Planning  
+   - Specification development  
+   - Critical dimensions and edge quality  
+   - Selection of measurement points (top side, diagonals)  
+   - Consistent layout and orientation (numbered side)  
+   - Sampling strategy
+
+3. Control Chart Construction (X-bar and R Charts)  
+   - Principles of X-bar and R charts  
+   - Sample size selection  
+   - Calculation of UCL, CL, LCL  
+   - Data entry and real-time monitoring in Excel  
+   - Interpretation of control limits  
+
+4. Process Stability and Capability Analysis  
+   - Definition of in-control vs. out-of-control processes  
+   - Detection of random vs. non-random variation  
+   - Capability indices (Cp, Cpk)  
+   - Evaluation of process performance against specifications  
+
+5. Variation Sources and Root Cause Analysis  
+   - Random variation (inherent to process)  
+   - Non-random variation (tool wear, misalignment, human error)  
+   - Evidence-based identification (chart patterns)  
+
+6. Iterative Improvement and Process Optimization  
+   - Feedback loops from trial runs  
+   - Modifications to process design (jig use)  
+   - Implementation of improvements before mass production  
+
+7. Hands-On Laboratory Execution**  
+   - Tool use (rulers, protractors, scissors, jigs)  
+   - Production flow chart development  
+   - Real-time data collection and chart updates  
+   - Team roles and responsibilities  
+
+8. Reporting and Communication of Findings  
+   - Final report structure (title, executive summary, analysis)  
+   - Visual presentation of control charts  
+   - Recommendations to management  

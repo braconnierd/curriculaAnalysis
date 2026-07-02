@@ -1,0 +1,73 @@
+1. Fluid Statics (20%)
+   - Pressure and hydrostatic forces in fluids
+   - Fluid equilibrium and pressure variation with depth
+   - Manometer systems and pressure measurement
+   - Buoyancy and Archimedes’ principle
+   - Hydrostatic forces on submerged surfaces
+
+2. Fluid Dynamics (20%)
+   - Conservation principles for mass, momentum, and energy
+   - Continuity equation and fluid flow balance
+   - Bernoulli’s equation and energy relationships in flow
+   - Introduction to the Navier–Stokes equations
+   - Flow classification including laminar and turbulent regimes
+   - Reynolds number and flow regime characterization
+
+3. Flow Measurement
+   - Principles of fluid flow measurement
+   - Orifice meters, venturi meters, and nozzles
+   - Flow meter calibration and instrumentation
+   - Measurement uncertainty and error analysis
+   - Applications of flow measurement in industrial systems
+
+4. Pipe Flow (20%)
+   - Laminar and turbulent flow in pipes
+   - Friction losses and pressure drop in pipelines
+   - Darcy–Weisbach equation and head loss calculations
+   - Use and interpretation of the Moody chart
+   - Minor losses due to fittings and valves
+   - Flow behavior in pipe networks
+
+5. Compressible Flow
+   - Fundamentals of compressible fluid behavior
+   - Speed of sound and Mach number
+   - Isentropic flow relations
+   - Flow through converging and diverging nozzles
+   - Normal and oblique shock waves
+
+6. Turbulent Flow
+   - Characteristics and scales of turbulence
+   - Transition from laminar to turbulent flow
+   - Energy dissipation in turbulent systems
+   - Reynolds-averaged Navier–Stokes (RANS) equations
+   - Turbulence modeling approaches including the k–ε model
+   - Turbulence behavior in industrial applications
+
+7. Fluid Machinery
+   - Operation and classification of pumps, turbines, and fans
+   - Performance curves and operating characteristics
+   - Head, power, and efficiency relationships
+   - Cavitation phenomena and prevention
+   - Impeller design and system integration
+
+8. Computational Fluid Dynamics (CFD)
+   - Introduction to computational modeling of fluid flow
+   - Governing equations and numerical discretization
+   - Mesh generation and computational domain setup
+   - Boundary conditions and solver selection
+   - Turbulence modeling in CFD simulations
+   - Visualization and post-processing of simulation results
+
+9. Applications in Manufacturing
+   - Fluid systems used in manufacturing environments
+   - Cooling and lubrication systems in production processes
+   - Hydraulic and fluid power systems
+   - Integration of fluid systems with automated manufacturing
+   - Case studies of industrial fluid system design
+
+10. Experimental Fluid Mechanics
+   - Experimental design and laboratory methods
+   - Flow visualization techniques
+   - Pressure and velocity measurement instrumentation
+   - Data acquisition and signal processing
+   - Uncertainty analysis and experimental error propagation

@@ -1,0 +1,80 @@
+1. Fundamentals of CAD (Computer-Aided Design)  (15%)
+   - Introduction to 2D/3D modeling environments (AutoCAD, SolidWorks, Fusion 360)  
+   - Geometric primitives (points, lines, circles, planes, surfaces) and their construction  
+   - Constraints and dimensioning in design (geometric, dimensional, and relational)  
+   - Parametric modeling: parameters, features, and feature trees  
+   - Assembly modeling and component relationships  
+   - Design best practices: tolerancing (GD&T), datum systems, and feature modeling  
+   - File formats (STEP, STL, IGES, X_T) and interoperability across platforms  
+   - Version control and design documentation standards (ISO 19701, ASME Y14.5)  
+
+2. CAM (Computer-Aided Manufacturing) Programming  (15%)
+   - Toolpath generation for milling (2.5D, 3D, contour), turning, and drilling operations  
+   - G-code syntax and interpretation  
+   - Tool selection: tool geometry, material compatibility, and tool life prediction  
+   - Cutting parameters: feed rate, spindle speed and depth of cut  
+   - Tool wear modeling and adaptive parameter adjustment
+   - Machining vibrations and chatter modeling  
+   - Simulation of machining operations: collision detection, toolpath validation, and kinematic analysis  
+   - Post-processing of G-code for specific machine tools  
+
+3. CIM (Computer-Integrated Manufacturing) Systems  (15%)
+   - Integration of CAD/CAM with production planning and control (PPC) systems  
+   - Manufacturing Execution Systems (MES) and their role in real-time process monitoring  
+   - Enterprise Resource Planning (ERP) interfaces and data exchange (SAP, Oracle)  
+   - Data flow in manufacturing systems: design-to-production, from CAD to CNC to final product  
+   - Workflow automation and digital workflow management  
+   - BOM (Bill of Materials) creation and management in CIM environments  
+
+4. Revision Control Fundamentals  
+   - Versioning systems (Git, SVN)  
+   - Branching and merging strategies  
+   - Commit messages and history tracking  
+   - Conflict resolution in collaborative environments  
+   - Repository management (local vs. remote)  
+
+5. Data Management in Manufacturing Systems  
+   - Data types in design and production (CAD, CAM, CAE)  
+   - Data integrity and consistency across systems  
+   - Metadata standards (ISO 19701)  
+   - Data flow in product lifecycle stages  
+
+6. Additive Manufacturing (3D Printing) Design  
+   - Design for Additive Manufacturing (DFAM): lattice structures, overhangs, internal voids, and support generation  
+   - Material selection: thermoplastics (PLA, ABS), engineering resins, metals (Ti, Al), and composites  
+   - Print parameters: layer thickness, temperature, print speed, infill density, and nozzle diameter  
+   - Design considerations for shrinkage, warping, and part strength  
+   - Post-processing: cleaning, sintering, polishing, annealing, and machining
+   - Quality assurance: dimensional accuracy, surface finish, and mechanical testing    
+
+7. Industry 4.0 and Smart Manufacturing  
+   - IoT integration: sensor networks, machine connectivity, and edge devices  
+   - Cloud-based platforms: data storage, access, and collaboration (AWS, Microsoft Azure)  
+   - Data analytics: real-time monitoring, trend analysis, and machine learning applications  
+   - Cyber-physical systems: integration of physical machines with digital control systems  
+   - Edge computing: local processing of data for low-latency control and decision-making  
+   - Interoperability standards: OPC UA, MQTT, and industrial protocols  
+
+8. Human-Centric and Sustainable Manufacturing  
+   - Design for sustainability: material lifecycle analysis, carbon footprint, recyclability  
+   - Energy efficiency in design and manufacturing processes  
+   - User-centered design: usability, accessibility, and human factors in product development  
+   - Ethical considerations: data privacy, AI bias, environmental impact, and labor practices  
+   - Lifecycle assessment (LCA) and circular economy principles  
+
+9. Learning-by-Doing and Simulation-Based Training  (15%)
+   - Hands-on labs with physical tools (CNC machines) and virtual environments (Fusion 360, Mastercam)  
+   - Serious games for CAM programming, error simulation, and troubleshooting scenarios  
+   - Iterative design cycles: prototyping, testing, feedback, and refinement  
+
+10. Cross-Curricular Integration of Engineering and Business  
+   - Cost modeling: material, labor, time, and overhead costs in design and production  
+   - Time-to-market analysis and trade-offs in design decisions  
+   - Return on investment (ROI) evaluation for product and process innovation  
+   - Business case studies: real-world scenarios in manufacturing innovation (lean manufacturing, agile design)  
+   - Market-driven design: balancing technical feasibility with commercial viability  
+
+11. Fundamentals of Model-Based Design (MBD)  
+   - Definition and evolution of MBD  
+   - Core principles: digital models as design anchors  
+   - Role of MBD in reducing design-to-production gaps  

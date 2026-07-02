@@ -1,0 +1,47 @@
+1. Customer Requirements Elicitation  
+   - Identifying customer needs through interviews, surveys, and market analysis  
+   - Translating verbal and implicit needs into measurable, prioritized requirements  
+   - Using VOC (Voice of the Customer) tools to capture functional and emotional needs  
+
+2. Quality Function Deployment (QFD) Matrix Construction  
+   - Building the House of Quality (HoQ) with customer requirements as rows and technical characteristics as columns  
+   - Assigning weights and priorities to customer requirements  
+   - Mapping technical features to customer needs using correlation and impact matrices  
+   - Validating HoQ consistency through cross-functional alignment and stakeholder review  
+
+3. Technical Translation and Design Specification  
+   - Converting customer requirements into engineering specifications  
+   - Defining design parameters, tolerances, and performance metrics  
+   - Linking design outputs to process inputs using functional specifications  
+   - Establishing design robustness and failure modes through failure mode and effects analysis (FMEA) integration  
+
+4. Process Design and Feasibility Analysis  
+   - Developing process flow diagrams (PFDs) and value stream maps  
+   - Evaluating process feasibility using cost, time, and resource constraints  
+   - Identifying potential bottlenecks and non-value-added steps  
+   - Conducting a feasibility assessment for scalability and adaptability under varying operational conditions  
+
+5. Cross-Functional Team Integration  
+   - Establishing roles and responsibilities across design, manufacturing, and operations  
+   - Facilitating communication between engineering, production, and quality teams  
+   - Using collaborative tools (shared digital dashboards) for real-time updates  
+   - Designing team workflows to ensure alignment of goals and shared accountability  
+
+6. Validation and Feedback Loops  
+   - Testing QFD outputs with prototypes or pilot runs  
+   - Collecting feedback from users and stakeholders  
+   - Iteratively refining the HoQ based on real-world performance  
+   - Documenting validation outcomes and incorporating lessons learned into next-phase design  
+
+7. Integration with Statistical Process Control (SPC)  
+   - Using SPC tools (X-bar/R charts, capability analysis) to monitor process stability  
+   - Linking QFD outputs to SPC control limits and process capability indices (Cp, Cpk)  
+   - Ensuring design specifications are achievable under process variation  
+   - Performing process capability studies to validate design-to-process alignment  
+
+8. Implementation and Continuous Improvement  
+   - Developing a roadmap for full-scale production  
+   - Embedding QFD into organizational culture  
+   - Applying PDCA (Plan-Do-Check-Act) cycles for ongoing improvement  
+   - Evaluating long-term performance metrics against initial QFD objectives  
+   - Conducting periodic QFD reviews to adapt to market, technological, and customer shifts

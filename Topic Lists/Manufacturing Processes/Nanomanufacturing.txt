@@ -1,0 +1,134 @@
+1. Fundamentals of Nanomanufacturing (20%)
+   - Definition and scope of nanomanufacturing  
+   - Scale and precision requirements at nanoscale:  
+     - Sub-100 nm feature resolution  
+     - Atomic-level control  
+   - Surface effects:  
+     - Surface tension  
+     - Surface energy  
+     - van der Waals forces  
+   - Thermal management:  
+     - Heat dissipation at nanoscale  
+     - Localized heating  
+   - Defect control:  
+     - Point defects  
+     - Dislocations  
+     - Contamination  
+
+2. Nanomaterials and Their Fabrication (20%)
+   - Types of nanomaterials:  
+     - Nanoparticles (spherical, rod-shaped)  
+     - Nanowires (1D)  
+     - Nanotubes (carbon nanotubes, semiconductor nanotubes)  
+     - Nanolayers (thin films, nanocoatings)  
+   - Synthesis methods:  
+     - Chemical vapor deposition (CVD):  
+       - Plasma-enhanced CVD (PECVD)  
+       - Thermal CVD  
+     - Sol-gel process:  
+       - Sol formation  
+       - Gelation  
+       - Drying  
+       - Thermal treatment  
+     - Hydrothermal synthesis:  
+       - Temperature control  
+       - Pressure control  
+       - Solvent control  
+     - Microwave-assisted synthesis  
+     - Laser ablation  
+     - Precipitation  
+     - Self-assembly  
+   - Properties and performance metrics:  
+     - Surface area-to-volume ratio  
+     - Quantum confinement effects  
+     - Optical properties (plasmon resonance)  
+     - Electrical conductivity  
+     - Mechanical strength  
+     - Thermal stability  
+
+3. Nanofabrication Processes (20%)
+   - Lithography:  
+     - Photolithography:  
+       - UV, deep UV, and extreme UV (EUV)  
+       - Resolution limits  
+       - Photoresist chemistry  
+     - Electron beam lithography (e-beam):  
+       - Scanning electron beam  
+       - Dose control  
+       - Pattern fidelity  
+       - Resist materials  
+   - Etching and deposition techniques:  
+     - Plasma etching:  
+       - Dry etching (reactive ion etching, RIE)  
+       - Wet etching  
+       - Etch selectivity and anisotropy  
+     - Atomic layer deposition (ALD):  
+       - Self-limiting reactions  
+       - Layer thickness control  
+       - Uniformity  
+       - Deposition rate  
+   - Thin film and layer-by-layer assembly:  
+     - Langmuir-Blodgett (LB) films  
+     - Layer-by-layer (LbL) self-assembly:  
+       - Polyelectrolyte multilayers  
+       - Biomolecular layering  
+       - Interfacial control  
+
+4. Additive Manufacturing at Nanoscale
+   - Nanoparticle-based 3D printing:  
+     - Inkjet-based nanoparticle printing  
+     - Laser-assisted nanoparticle deposition  
+     - Suspension-based extrusion with nanoparticle dispersion  
+   - Layer-by-layer additive techniques:  
+     - Sequential deposition with controlled interfacial bonding  
+     - Self-assembly in solution-phase layering  
+   - Process parameters and control:  
+     - Particle size distribution  
+     - Dispersion stability  
+     - Viscosity  
+     - Layer thickness  
+     - Thermal and mechanical stability  
+     - Real-time monitoring of deposition dynamics  
+
+5. Design for Nanomanufacturing
+   - Topology optimization:  
+     - Generative design algorithms  
+     - Finite element constraints  
+     - Integration of mechanical and thermal constraints  
+   - Dimensional tolerances and feature scaling:  
+     - Feature size limits  
+     - Dimensional accuracy  
+     - Nanoscale deviation  
+     - Tolerance stack-up effects  
+   - Integration of design and manufacturability:  
+     - Design for assembly (DFA)  
+     - Design for maintenance (DFM)  
+     - Simulation-driven manufacturability prediction  
+
+6. Simulation and Visualization Tools
+   - Computational Fluid Dynamics (CFD):  
+     - Fluid flow in micro/nano channels  
+     - Thermal gradients and heat transfer  
+   - Finite Element Method (FEM):  
+     - Stress and strain distribution  
+     - Thermal expansion  
+     - Mechanical response  
+   - Digital twins:  
+     - Real-time process replication  
+     - Predictive analytics for failure modes  
+   - Real-time monitoring and modeling:  
+     - Sensor integration and machine learning  
+     - 3D visualization and time-lapse simulation  
+
+7. Sustainability and Green Manufacturing
+   - Energy efficiency:  
+     - Energy use in CVD, lithography, etching, deposition  
+     - Process cycle optimization  
+   - Waste reduction and environmental impact:  
+     - Emissions (volatile organic compounds)  
+     - Byproduct management (solvents, residues)  
+     - Life cycle assessment (LCA)  
+   - Sustainable materials:  
+     - Biodegradable polymers  
+     - Non-toxic precursors  
+     - Recyclable resists  

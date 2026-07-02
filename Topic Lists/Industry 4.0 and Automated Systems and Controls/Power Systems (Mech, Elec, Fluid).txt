@@ -1,0 +1,49 @@
+1. Fundamentals of Power Generation (20%)  
+   - Energy conversion principles (mechanical to electrical)  
+   - Thermodynamic cycles (Rankine, Brayton)  
+   - Prime movers (steam, gas turbines)  
+   - Generator operation and electromagnetic induction  
+   - Power plant layout and system integration  
+
+2. Power Transmission and Distribution 
+   - AC/DC transmission systems  
+   - Voltage transformation and transformer design  
+   - Grid stability and reactive power management  
+   - Line losses and impedance modeling  
+   - Protection schemes (overcurrent, differential)  
+
+3. Mechanical Systems in Power Plants  
+   - Turbine dynamics and shaft alignment  
+   - Bearing and seal systems  
+   - Vibration analysis and fault detection  
+   - Mechanical efficiency and wear modeling  
+
+4. Fluid Dynamics in Power Systems (20%)
+   - Fluid flow in turbines and pumps  
+   - Pressure drop and flow rate modeling  
+   - Hydraulic systems in auxiliary operations  
+   - Fluid-structure interaction in rotating systems  
+
+5. Control Systems in Power Systems  (20%)
+   - Feedback control in generators and turbines  
+   - PID controllers and stability margins  
+   - Real-time monitoring and sensor integration  
+   - Cyber-physical control loops   
+
+6. IoT Integration for Power System Monitoring 
+   - Sensor deployment in turbines, generators, and pipelines  
+   - Real-time data acquisition and edge computing  
+   - Predictive maintenance using anomaly detection  
+   - Cloud-based dashboards and data analytics 
+
+7. Interdisciplinary System Integration  
+   - Synergistic design of mechanical, electrical, and fluid components  
+   - System-level performance optimization  
+   - Fault propagation modeling across subsystems  
+   - Scalable factory-level integration   
+
+8. Smart Manufacturing and Power System Operations  
+   - Digital twins for power plant simulation  
+   - Human-machine interface (HMI) design  
+   - Workforce skill alignment with smart manufacturing   
+   - Skill gap mitigation through hands-on labs

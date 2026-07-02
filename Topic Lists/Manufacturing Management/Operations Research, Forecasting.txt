@@ -1,0 +1,63 @@
+1. Introduction to Operations Research (OR) (20%) 
+   - Definition and scope of OR  
+   - Historical development and key figures  
+   - Applications in supply chain, manufacturing, and logistics  
+   - OR vs. optimization vs. decision science  
+   - Problem formulation: objectives, constraints, variables  
+   - Case study: OR in airline scheduling
+
+2. Mathematical Modeling and Optimization (20%)  
+   - Linear programming (LP) and its applications  
+   - Integer programming (IP) and mixed-integer programming (MIP)  
+   - Nonlinear programming (NLP)  
+   - Goal programming and multi-objective optimization  
+   - Sensitivity analysis and duality  
+   - Software tools: Excel Solver, Gurobi, Python (SciPy)  
+
+3. Forecasting Methods (20%)  
+   - Time series decomposition (trend, seasonality, cycle)  
+   - Classical methods: moving averages, exponential smoothing  
+   - Advanced methods: ARIMA, SARIMA, Holt-Winters  
+   - Regression-based forecasting  
+   - Model validation and error metrics (MAE, RMSE)  
+   - Forecasting in supply chain context  
+
+4. Statistical Process Control (SPC)  
+   - Control charts: X-bar, R, p-charts  
+   - Process capability (Cp, Cpk)  
+   - Sources of variation: random vs. non-random  
+   - Design of experiments (DOE) basics  
+   - Hands-on SPC exercise: “Manufacturing Squares”  
+
+5. Decision Analysis and Risk Modeling  
+   - Decision trees and utility theory  
+   - Expected value and risk assessment  
+   - Scenario analysis and Monte Carlo simulation  
+   - Application in supply chain risk management  
+
+6. Ethics in Operations Research and Forecasting  
+   - Bias in data and model assumptions  
+   - Transparency and accountability in forecasting  
+   - Ethical implications of automation and AI in logistics  
+
+7. Experiential Learning and Simulation  
+   - Business simulation games (supply chain, manufacturing)  
+   - Learning factory environments   
+   - SAP-based logistics simulations  
+
+8. Quality Management and Continuous Improvement  
+   - PDCA cycle and Kaizen  
+   - Root cause analysis (5 Whys, Fishbone)  
+   - Quality function deployment (QFD)  
+   - Competency frameworks for engineering graduates   
+
+9. Integration of OR and Forecasting in Supply Chains  
+   - Demand forecasting and inventory optimization  
+   - Production planning and scheduling  
+   - Real-time decision systems  
+
+10. Capstone Project: End-to-End Supply Chain Simulation  
+   - Design, model, forecast, and optimize a supply chain  
+   - Use of SPC and OR tools  
+   - Present findings with control charts and sensitivity analysis  
+

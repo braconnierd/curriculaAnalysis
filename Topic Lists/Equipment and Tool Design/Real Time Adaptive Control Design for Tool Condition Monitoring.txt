@@ -1,0 +1,51 @@
+1. Fundamentals of Tool Wear and Its Impact on Machining Performance (15%)  
+   - Types of tool wear (flank, crater, edge, notch)  
+   - Wear mechanisms under different cutting conditions (cutting speed, feed rate, depth of cut, tool material, workpiece material)  
+   - Relationship between tool wear and surface finish, dimensional accuracy, and material integrity  
+   - Real-time indicators of tool degradation (vibration, temperature, noise, cutting force)  
+
+2. Real-Time Signal Acquisition and Sensor Integration  (15%) 
+   - Selection of sensors (vibration, temperature, acoustic emission, cutting force, spindle power) based on physical and operational constraints  
+   - Sensor placement and calibration in machining environments (tool holder, workpiece, spindle, machine base)  
+   - Data acquisition systems (DAQ) and interface protocols (USB, CAN, Ethernet, Modbus)  
+   - Noise reduction and signal conditioning techniques (filtering, amplification, anti-aliasing, baseline correction)  
+
+3. Adaptive Control Theory for Dynamic Systems (15%)  
+   - Feedback control fundamentals (PID, LQR, PI, PD) and their limitations in dynamic tool environments  
+   - Model-based control and parameter estimation (system identification, state-space modeling)  
+   - Online parameter adaptation using recursive algorithms (Least Mean Squares (LMS), Kalman Filter, Recursive Least Squares)  
+   - Stability and convergence analysis of adaptive controllers (Lyapunov stability, boundedness, convergence rate)  
+   - Handling of uncertainties and non-linearities in tool wear dynamics  
+
+4. Tool Condition Monitoring (TCM) Algorithms (15%) 
+   - Feature extraction from sensor data (time-domain, frequency-domain, spectral, wavelet-based)  
+   - Machine learning for wear classification (Support Vector Machines (SVM), Artificial Neural Networks (ANN), Random Forests, Convolutional Neural Networks (CNN))  
+   - Threshold-based and anomaly detection methods (statistical process control, Mahalanobis distance, z-score, outlier detection)  
+   - Real-time decision logic for tool replacement (decision trees, rule-based systems, fuzzy logic, confidence thresholds)  
+   - Integration of TCM with condition-based maintenance (CBM) frameworks  
+
+5. Integration of TCM into CNC Machine Control Loops  
+   - Closed-loop control with tool state feedback (real-time tool condition as control variable)  
+   - Dynamic adjustment of cutting parameters (speed, feed, depth of cut) based on tool condition  
+   - Implementation of adaptive feed rate control (feed rate scaling, feed rate modulation)  
+   - Interfacing TCM with CNC machine controllers (G-code, PLC, API-based communication)  
+   - Handling of control trade-offs (stability, surface quality, tool life)  
+
+6. Validation and Experimental Testing  
+   - Design of controlled experiments with known wear states (incremental wear, stepwise degradation)  
+   - Performance evaluation metrics (detection rate, false alarm rate, sensitivity, specificity, repeatability, accuracy)  
+   - Comparison with baseline and reference methods (traditional inspection, static monitoring, other TCM techniques)  
+   - Reproducibility and robustness testing under varying conditions (load, material, environment)  
+
+7. Case Studies in Real-World Machining Environments  
+   - Application in turning, milling, and drilling operations (differences in tool geometry, dynamics, and wear patterns)  
+   - Industry-specific challenges (high-temperature alloys, brittle materials, hard-to-machine composites)  
+   - Failure mode analysis and root-cause identification (tool breakage, surface defects, dimensional deviation)  
+   - Mitigation strategies (tool path optimization, feed rate adaptation, pre-emptive tool change)  
+
+8. Digital Twin and Simulation for TCM Development  
+   - Building virtual models of tools and machines (geometric, dynamic, thermal, wear models)  
+   - Real-time simulation of wear progression (physics-based modeling, wear rate equations, fatigue models)  
+   - Use of CAD/CAE tools for virtual testing (SolidWorks, ANSYS, Abaqus, MATLAB/Simulink, AdvantEdge)  
+   - Integration of digital twin with real-time sensor data (data fusion, model updating, predictive wear estimation)  
+   - Use of digital twin for offline training, scenario testing, and system diagnostics  

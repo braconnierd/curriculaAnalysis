@@ -1,0 +1,112 @@
+1. Fundamentals of Additive Manufacturing (30%)
+   - Definition of Additive Manufacturing 
+   - History of Additive Manufacturing
+   - Evolution of Additive Manufacturing
+   - ISO definition of AM processes (MEX/FFF/FDM, SLM, EBM, SLA)
+   - Energy mechanisms for AM
+   - MEX/FDM heated chamber
+   - Material types per 3D printing process:  
+     - polymer - PLA, ABS, PETG  
+     - metal - stainless steel, titanium, aluminum  
+     - ceramic
+     - composites   
+
+2. Design for Additive Manufacturing Principles (30%)
+   - Geometry constraints and overhangs:  
+     - Maximum overhang angles and support structures  
+     - Design rules to avoid unsupported features  
+   - Lattice structures and topology optimization:  
+     - Principles of lattice design (triangular, tetrahedral, gyroid)  
+     - Topology optimization methods (generative design, density-based algorithms)  
+     - Trade-offs between structural performance & weight & printability  
+   - Part orientation strategies in build direction:  
+     - Effects of orientation on mechanical properties & residual stress, & surface finish  
+     - Selection criteria based on part function, geometry, and material behavior  
+
+3. Materials Science of Additive Manufacturing Materials
+   - Material properties per process:  
+     - Polymers: mechanical strength, thermal stability, degradation behavior  
+     - Metals: yield strength, ductility, fatigue resistance, weldability  
+     - Ceramics: brittleness, thermal expansion, sintering behavior  
+   - Microstructure evolution during printing:  
+     - Layer-by-layer solidification, dendrite formation, grain growth  
+     - Influence of thermal gradients on microstructure  
+   - Porosity control and defect formation:  
+     - Causes of voids, bubbles, and internal defects  
+     - Methods to minimize porosity (optimized layer thickness, scan strategy)  
+   - Thermal stability and post-processing response:  
+     - Behavior under thermal cycling and load conditions  
+     - Role of thermal history in final part performance  
+
+4. Process Physics and Control Parameters
+   - Energy input mechanisms in each AM method:  
+     - FDM: melt extrusion and thermal conduction  
+     - SLM/EBM: laser or electron beam energy deposition  
+     - SLA/DLP: photopolymerization energy density  
+   - Layer thickness vs. resolution and surface quality:  
+     - Trade-offs between layer thickness, surface roughness, and print time  
+     - Effects on dimensional accuracy and feature fidelity  
+   - Scan speed effects on quality:  
+     - Relationship between scan speed and heat input, thermal gradients, and distortion  
+     - Impact on layer adhesion, warping, and residual stress  
+   - Build parameters and their interdependence:  
+     - Interplay between power, scan speed, layer thickness, and cooling rate  
+
+5. Quality Assurance and Post-Processing  
+   - Surface finishing:  
+     - Methods (sanding, polishing, grinding) and their application to different materials  
+     - Surface roughness metrics and tolerances  
+   - Heat treatment for metals:  
+     - Annealing, normalizing, and stress relief processes  
+     - Purpose and impact on microstructure, hardness, and fatigue life  
+   - Dimensional accuracy calibration:  
+     - Methods (CMM, laser scanning) for measuring printed part deviations  
+     - Calibration procedures for AM systems and correction strategies  
+
+6. Simulation and Digital Twin Integration in AM Design  
+   - Finite element modeling (FEM) of thermal gradients:  
+     - Modeling heat distribution during layer deposition  
+     - Prediction of thermal stresses and warping  
+   - Stress distribution during build layers:  
+     - Layer-wise stress accumulation and its impact on part integrity  
+     - Simulation of deformation and failure modes  
+   - Digital twin development for AM:  
+     - Creation of virtual replicas of physical builds  
+     - Real-time monitoring and predictive maintenance integration  
+
+7. Sustainability and Green Manufacturing Applications 
+   - Energy efficiency:  
+     - Comparative energy consumption across AM processes  
+     - Optimization of energy use via process parameters and design  
+   - Material waste reduction:  
+     - Design optimization to minimize support structures and material overuse  
+     - Use of design-for-waste principles and material substitution  
+   - Lifecycle assessment (LCA) of AM parts:  
+     - Environmental footprint from material sourcing to end-of-life  
+     - Comparison with traditional subtractive manufacturing  
+
+8. Industry 4.0 and Smart AM Systems 
+   - IoT integration in monitoring build progress:  
+     - Sensors for temperature, vibration, layer thickness, and structural integrity  
+     - Real-time data collection and transmission  
+   - Real-time feedback loops:  
+     - Closed-loop control systems that adjust parameters mid-print  
+     - Adaptive control based on in-process data  
+   - Integration with cloud platforms and data analytics:  
+     - Storage, visualization, and machine learning for anomaly detection  
+
+9. Hands-on Project-Based Learning with Real-World Applications  
+   - Design a functional prototype using AM:  
+     - Project workflow: ideation → design → simulation → printing → testing  
+   - Use of CAD software (Fusion 360, SolidWorks) 
+
+10. Critical Thinking and Problem-Solving in Manufacturing Contexts
+   - Troubleshooting layer adhesion:  
+     - Causes (poor nozzle temperature, misalignment, material degradation)  
+     - Diagnostic techniques and solutions  
+   - Addressing warping and dimensional instability:  
+     - Root causes (thermal gradients, build plate adhesion)  
+     - Mitigation strategies (support structures, cooling systems, material selection)  
+   - Root-cause analysis and decision-making under uncertainty:  
+     - Applying engineering judgment to resolve AM-specific failure modes  
+     - Evaluating trade-offs between design, cost, and performance  

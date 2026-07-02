@@ -1,0 +1,49 @@
+1. Experimental Design Fundamentals  
+   - Types of experiments (completely randomized, factorial, block, repeated measures)  
+   - Principles of randomization, replication, and blocking  
+   - Design matrices and factor levels  
+
+2. Variance and Error Analysis  
+   - Sources of variation in manufacturing processes  
+   - Measurement error and precision  
+   - Residual analysis and normality testing  
+
+3. Statistical Process Control (SPC)  
+   - X-bar and R charts construction and interpretation  
+   - Control limits (UCL, LCL) calculation  
+   - Process stability and capability (Cp, Cpk)  
+   - Out-of-control signal identification (non-random patterns)  
+
+4. Design of Experiments (DOE) in Manufacturing  
+   - Application of DOE to optimize cutting, cutting speed, material thickness  
+   - Taguchi methods and orthogonal arrays  
+   - Response surface methodology (RSM) for process optimization  
+
+5. Quality Management and Process Improvement  
+   - PDCA cycle integration (Plan-Do-Check-Act)  
+   - Root cause analysis (5 Whys, Fishbone)  
+   - Failure mode and effects analysis (FMEA)  
+
+6. Experimental Tools and Tools Integration  
+   - Use of jigs, templates, and measurement devices (rulers, protractors, pencils)  
+   - Standardization of measurement points (top edge, diagonal)  
+   - Sample selection and systematic sampling (four squares per group)  
+
+7. Data Collection and Analysis in Real-World Settings  
+   - Real-time data entry in Excel templates  
+   - Error handling and data validation  
+   - Visualization of control charts and process trends  
+
+8. Process Capability and Performance Metrics  
+   - Calculation of Cp and Cpk  
+   - Interpretation of capability indices  
+   - Comparison of target vs. specification limits  
+
+9. Iterative Design and Feedback Loops  
+   - Adjusting process parameters based on trial results  
+   - Documenting changes and justifying revisions  
+   - Transition from trial to full-scale production  
+
+10. Communication of Findings and Recommendations  
+   - Executive summary for management  
+   - Final report structure (title, findings, changes, analysis, recommendations)

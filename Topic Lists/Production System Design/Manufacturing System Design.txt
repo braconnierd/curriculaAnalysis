@@ -1,0 +1,54 @@
+1. System Design Fundamentals (20%)
+   - Definition and scope of manufacturing systems  
+   - Components of a manufacturing system (machines, materials, information, people)  
+   - System boundaries and interfaces  
+   - Design objectives: efficiency, flexibility, sustainability  
+
+2. Product-Process Integration  
+   - Design for manufacturing (DFM)  
+   - Design for assembly (DFA)  
+   - Product lifecycle integration  
+   - Interfacing product design with manufacturing processes 
+
+3. Flexibility and Scalability (20%)
+   - Modular design principles 
+   - Standardized interfaces (hardware and software) 
+   - Changeable systems and reconfigurability  
+   - Granularity and complexity in system design 
+   - Scalable architectures for varying production volumes  
+
+4. Sustainable Manufacturing Practices  
+   - Environmental impact assessment in design  
+   - Energy efficiency
+   - Material utilization
+   - Waste reduction  
+   - Circular economy principles in system design
+
+5. Additive Manufacturing Integration  
+   - Applications in prototyping and production  
+   - Design considerations for 3D printing (material, geometry, support)  
+   - Integration with traditional manufacturing systems  
+
+6. Simulation and Modeling  
+   - Use of simulation tools in metal and manufacturing systems  
+   - Dynamic modeling of production flows  
+   - Validation and optimization of system performance
+
+7. Maintenance and Lifecycle Management (20%)  
+   - Predictive and preventive maintenance planning  
+   - Maintenance strategies in learning factory environments 
+   - Integration of maintenance into system design  
+
+8. Human-Centered and Learning Factory Design  
+   - Role of human operators in system performance  
+   - Learning-by-doing environments  
+   - Skill development and hands-on training 
+
+9. Digital Twin and Real-Time Monitoring  
+   - Concept, fidelity and implementation of digital twins  
+   - Real-time data acquisition and feedback loops  
+   - Use in monitoring and optimizing manufacturing systems  
+
+10. Case Studies in Real-World Systems  
+   - Analysis of industrial systems using granular complexity models  
+   - Metal industry applications and performance benchmarks

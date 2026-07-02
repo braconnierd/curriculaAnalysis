@@ -1,0 +1,45 @@
+1. System Design Fundamentals (20%) 
+   - Modularity and scalability in production systems  
+   - Functional decomposition and system boundaries  
+   - Input-output modeling and flow analysis  
+   - Design for manufacturing (DFM) principles
+   - Manufacturing for design  
+   - Granularity in system components  
+
+2. Manufacturing Process Selection and Integration  
+   - Traditional vs. additive manufacturing process comparison  
+   - Process capability analysis and trade-offs  
+   - Integration of AM into hybrid production lines   
+   - Process sequencing and workflow optimization 
+
+3. Test Methodologies and Validation Protocols  
+   - Functional, performance, and reliability testing  
+   - Test case design and failure mode analysis  
+   - Iterative testing loops and feedback integration 
+
+4. Sustainable Design and Lifecycle Integration  
+   - Environmental impact assessment of production systems  
+   - Energy efficiency and material utilization metrics  
+   - Sustainable design principles in system build 
+
+5. Maintenance and Operational Readiness (20%) 
+   - Predictive and preventive maintenance planning  
+   - Maintenance scheduling in learning factory environments 
+   - Condition monitoring and fault detection systems  
+
+6. Human-System Interaction and Operator Training  (20%)
+   - Interface design for control systems  
+   - Training modules for system operation and troubleshooting  
+
+7. Iterative Development and Change Management  
+   - Rapid prototyping and reconfigurable system testing  
+   - Feedback loops for continuous improvement  
+
+8. Data Collection and System Performance Metrics  
+   - Key performance indicators (KPIs) for production systems  
+   - Real-time monitoring and data logging  
+   - Use of IoT and sensors in system evaluation  
+
+9. Case Studies in Real-World Production Systems  
+   - Metal industry case studies 
+   - Sustainable manufacturing case studies 

@@ -1,0 +1,49 @@
+1. Foundations of Quality Management  
+   - Definition and history of quality (Deming, Juran, Crosby)  
+   - Quality philosophy: conformance, fitness for use, customer satisfaction  
+   - Core principles of Total Quality Management (TQM)  
+
+2. Quality Standards and Frameworks  
+   - ISO 9001:2015 structure and implementation  
+   - Quality management system (QMS) lifecycle: planning, operation, monitoring, improvement  
+   - Key elements: documentation, leadership, risk-based thinking  
+
+3. Statistical Process Control (SPC)  
+   - X-bar and R charts: construction, interpretation, control limits  
+   - Process stability and capability (Cp, Cpk)  
+   - Types of variation: common vs. special causes  
+   - Sampling plans: AQL, sampling frequency, sample size selection  
+
+4. Design for Quality (DFQ) and Quality Function Deployment (QFD)  
+   - QFD: House of Quality, customer requirements translation  
+   - Design inputs and outputs for quality integration  
+   - Early integration of quality into product and process design  
+
+5. Root Cause Analysis and Problem Solving  
+   - Fishbone (Ishikawa) diagrams  
+   - 5 Whys and failure mode and effects analysis (FMEA)  
+   - Data collection and analysis techniques  
+
+6. Lean Principles and Continuous Improvement  
+   - Lean tools: value stream mapping, 5S, Kaizen  
+   - PDCA cycle: Plan-Do-Check-Act in quality contexts  
+   - Integration of lean with SPC and QMS  
+
+7. Process Capability and Performance Metrics  
+   - Measurement of process performance (Pp, Ppk)  
+   - Process capability indices and their interpretation  
+   - Benchmarking and performance tracking  
+
+8. Implementation and Management of QMS  
+   - Roles and responsibilities in QMS  
+   - Internal audits and compliance  
+   - Corrective and preventive actions (CAPA)  
+
+9. Case Studies and Practical Applications  
+   - Real-world manufacturing scenarios (“Manufacturing Squares” exercise)  
+   - Hands-on SPC trials with physical products  
+   - Iterative improvement through experimentation  
+
+10. Technology Integration in Quality Management  
+   - Use of Excel and digital tools for SPC and data analysis  
+   - Automation and AI in quality monitoring (ChatGPT in QFD)  

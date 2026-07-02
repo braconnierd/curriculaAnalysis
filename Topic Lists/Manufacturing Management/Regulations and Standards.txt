@@ -1,0 +1,117 @@
+1. Statistical Process Control (SPC) (20%)
+   - Control charts: X-bar, R
+   - Process stability
+   - Capability indices: Cp, Cpk
+   - Sources of variation: random, non-random
+   - Data collection protocols
+   - Interpretation of control charts
+
+2. Quality Management Systems (QMS) (20%)
+   - ISO 9001 standards
+   - Quality planning
+   - Quality assurance
+   - Internal and external audits
+   - Continual improvement: PDCA cycle
+   - Root cause analysis: fishbone diagrams
+   - Documentation requirements
+
+3. Manufacturing Regulations and Compliance (20%)
+   - OSHA safety standards and workplace regulations
+   - EPA environmental regulations: emissions, waste disposal
+   - CE marking requirements
+   - Product safety standards: flammability, electrical safety
+   - Environmental impact assessments
+   - Compliance documentation: records, logs, certificates
+   - Audit readiness procedures
+   - Regulatory updates and monitoring
+
+4. Ethics in Manufacturing Operations
+   - Responsible innovation in product and process development
+   - Safety ethics and worker well-being
+   - Environmental stewardship and sustainability
+   - Intellectual property rights management
+   - Whistleblower protection policies
+   - Ethical decision-making frameworks
+   - Conflict of interest management
+
+5. Supply Chain Financial Impact and Risk Management
+   - Cost of non-compliance with regulations and standards
+   - Inventory cost modeling and optimization
+   - Supply chain risk assessment: supplier failure, disruptions
+   - Financial performance metrics: ROI, cost of quality, throughput efficiency
+   - Resilience planning
+   - Integration of compliance costs into financial planning
+
+6. Design for Manufacturing (DFM) and Process Integration
+   - Product design principles for manufacturability
+   - Manufacturability assessments: tolerances, assembly complexity
+   - Process flow design: assembly, inspection, packaging
+   - Integration of design and production operations
+   - Quality-by-design principles
+   - Quality Function Deployment methodology
+   - Digital tools in DFM: CAD, simulation
+
+7. Hands-On Learning and Experiential Training
+   - Business simulation games: supply chain, inventory, quality control
+   - Learning factory environments: real-time production setups
+   - SAP-based logistics and operations labs
+   - Real-world process execution: mock production lines
+   - Feedback loops and performance evaluation
+   - Reflective practice in experiential learning
+
+8. Continuous Quality Improvement (CQI)
+   - Lean manufacturing principles: value stream mapping, 5S
+   - Kaizen initiatives and implementation
+   - Six Sigma methodologies: DMAIC
+   - Problem-solving methodologies: 5 Whys, PDCA
+   - Team-based improvement cycles
+   - Performance metrics tracking
+   - Root cause analysis in operational settings
+
+9. Project Management in Manufacturing
+   - Project lifecycle management: initiation, planning, execution, monitoring, closure
+   - Scheduling and timeline development: Gantt charts
+   - Resource allocation and budgeting
+   - Risk identification and mitigation
+   - Stakeholder communication strategies
+   - Scope control
+   - Integration of quality and compliance into project planning
+
+10. Interdisciplinary Engineering Education and Industry Collaboration
+   - Industry-university partnerships and co-developed curricula
+   - Scalable learning environments: modular labs, virtual simulations
+   - Integration of real-world case studies into coursework
+   - Student engagement with industry professionals
+   - Curriculum alignment with industry standards and emerging technologies: Industry 4.0, smart manufacturing
+   - Evaluation of educational outcomes against industry benchmarks
+
+4. Lean Manufacturing Principles  
+   - Value stream mapping  
+   - Waste identification (Muda, Muri, Muri)  
+   - 5S methodology  
+   - Continuous improvement (Kaizen)  
+
+5. Engineering Ethics in Manufacturing  
+   - Ethical decision-making in process design  
+   - Safety and environmental compliance  
+   - Responsibility in quality and waste reduction  
+
+6. Product and Process Design (QFD – Quality Function Deployment)  
+   - Customer requirements to technical specifications  
+   - House of quality matrix  
+   - Integration of design, process, and quality  
+
+7. Hands-on Learning and Simulation Games  
+   - Use of business simulation games (manufacturing scenarios)  
+   - Real-time decision-making in dynamic environments  
+   - Team-based problem solving and process optimization  
+
+8. Interdisciplinary Manufacturing Processes  
+   - Integration of mechanical, supply chain, and quality functions  
+   - Collaborative learning environments (industry-university partnerships)  
+   - Scalable learning factory models  
+
+9. Project Management in Manufacturing
+   - Planning, scheduling, and resource allocation  
+   - Risk assessment and mitigation  
+   - Timeline and milestone management  

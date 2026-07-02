@@ -1,0 +1,54 @@
+1. Leadership Foundations (20%) 
+   - Core leadership theories (transformational, situational, servant)  
+   - Leadership styles and their application in project environments  
+   - Emotional intelligence and decision-making under uncertainty  
+   - Ethical leadership and integrity in team dynamics  
+
+2. Project Management Frameworks  
+   - PMBOK, PRINCE2, and Agile project structures  
+   - Project lifecycle phases (initiation, planning, execution, monitoring, closure)  
+   - Scope, time, cost, quality, and risk management  
+   - Stakeholder analysis and communication planning  
+
+3. Team Dynamics and Collaboration (20%)  
+   - Team formation and roles (facilitator, leader, contributor)  
+   - Conflict resolution and group decision-making  
+   - Interpersonal communication and active listening  
+   - Building trust and psychological safety  
+
+4. Project Planning and Design (20%)
+   - Work breakdown structures (WBS) and task decomposition  
+   - Gantt charts, critical path method (CPM), and scheduling  
+   - Resource allocation and capacity planning  
+   - Risk identification and mitigation strategies  
+
+5. Quality Management in Projects  
+   - Quality planning, assurance, and control  
+   - ISO 9001 principles and quality metrics  
+   - Statistical process control (SPC) and process capability  
+   - Root cause analysis and continuous improvement (Kaizen)  
+
+6. Ethical Decision-Making in Leadership  
+   - Case-based ethical dilemmas in project execution  
+   - Professional responsibility and accountability  
+   - Balancing innovation with compliance  
+
+7. Experiential Learning and Simulation  
+   - Designing hands-on project simulations (manufacturing, logistics)  
+   - Using business simulation games to teach leadership and project execution  
+   - Reflective practice and post-experience evaluation  
+
+8. Integration of Technology and Tools  
+   - Digital tools for project tracking (MS Project, Trello)  
+   - Use of AI and data analytics in project monitoring  
+   - Systematic patent analysis for innovation assessment  
+
+9. Evaluation and Continuous Improvement  
+   - Performance metrics and KPIs for project success  
+   - Feedback loops and iterative refinement  
+   - Post-project review and lessons learned  
+
+10. Interdisciplinary Project Execution  
+   - Cross-functional collaboration in engineering and supply chain contexts  
+   - Integration of supply chain operations into project planning  
+   - Real-world case studies from manufacturing and logistics

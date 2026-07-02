@@ -1,0 +1,53 @@
+1. Process Capability Basics  
+   - Definition of process capability  
+   - Key metrics: Cp, Cpk  
+   - Difference between specification limits and process limits  
+   - Importance of process capability in manufacturing  
+
+2. Statistical Process Control (SPC) Foundations  
+   - Types of variation: common vs. special  
+   - Control charts: X-bar and R charts  
+   - How to construct X-bar and R charts using Excel  
+   - Interpretation of control chart signals (points outside UCL/LCL, trends)  
+
+3. Measurement and Sampling Design  
+   - Sampling plans: fixed sample size, systematic sampling  
+   - Sample selection: consistent, repeatable, representative  
+   - Measurement protocols: edge, diagonal, side dimensions  
+   - Tools: rulers, protractors, jigs, templates  
+
+4. Process Design and Flowcharting  
+   - Production workflow design  
+   - Task breakdown and sequence  
+   - Flowchart creation ("Manufacturing Squares")  
+   - Role assignment in team-based production  
+
+5. Data Collection and Experimental Trials  
+   - Trial execution  
+   - Real-time data entry into Excel templates  
+   - Pre-trial validation and plan testing  
+
+6. Process Stability and Capability Analysis  
+   - Determining stability using control charts  
+   - Assessing capability using Cp and Cpk values  
+   - Identifying sources of random vs. non-random variation  
+   - Evidence-based evaluation (outliers, trends)  
+
+7. Root Cause Analysis and Process Improvement  
+   - Identifying variation sources (cutting, alignment)  
+   - Applying corrective actions  
+   - Recommendations for full-scale production  
+
+8. Reporting and Communication**  
+   - Final report structure: title, executive summary, plan, changes, analysis, recommendations  
+   - Visuals: control charts, flowcharts, process diagrams  
+   - Team accountability: names in Excel template  
+
+9. Integration with Quality Management Systems  
+   - Link to quality standards (ISO 9001)  
+   - Role of capability in continuous improvement (PDCA cycle)  
+
+10. Technology and Tools  
+   - Excel-based control chart templates  
+   - Use of jigs and templates in process design  
+   - Digital workflow: data entry, analysis, reporting  

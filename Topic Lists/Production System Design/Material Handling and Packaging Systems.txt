@@ -1,0 +1,50 @@
+1. Fundamentals of Material Handling Systems (30%)
+   - Definition and classification of material handling systems  
+   - Key performance indicators (KPIs): throughput, cycle time, energy consumption  
+   - Types: conveyors, lifts, cranes, automated guided vehicles (AGVs)  
+   - Selection criteria based on load, environment, and cost  
+
+2. Packaging Design Principles (30%)
+   - Functional requirements: protection, integrity, ease of use  
+   - Material selection: sustainability, recyclability, mechanical properties  
+   - Packaging structure: layers, seals, closures  
+   - Regulatory compliance: food, pharmaceutical, hazardous materials  
+
+3. Integration of Material Handling and Packaging in Manufacturing Flow  
+   - Workflow design: sequence, bottlenecks, synchronization  
+   - Interface design between handling and packaging stations  
+   - Layout optimization using lean principles (5S, value stream mapping)  
+
+4. Simulation-Based System Design  
+   - Use of simulation tools (e.g., AnyLogic, FlexSim) for prototyping
+   - Modeling material flow and packaging operations  
+   - Scenario testing: capacity, failure, scalability  
+
+5. Sustainability in Material Handling and Packaging  
+   - Life cycle assessment (LCA) of materials and systems  
+   - Energy efficiency and carbon footprint analysis  
+   - Circular economy principles: reuse, recycling, minimal waste  
+
+6. Additive Manufacturing Applications in Handling and Packaging  
+   - Design of custom handling components using 3D printing  
+   - Rapid prototyping of packaging structures  
+   - Material limitations and environmental impact  
+
+7. Maintenance Planning for Handling and Packaging Systems  
+   - Preventive and predictive maintenance strategies  
+   - Failure modes and effects analysis (FMEA)  
+   - Maintenance scheduling using learning factory environments  
+
+8. Human Factors and Ergonomics in Handling Systems  
+   - Operator interaction with equipment  
+   - Safety standards and risk mitigation  
+   - Design for human usability and fatigue reduction  
+
+9. Digital Twin Implementation in Material Handling Systems  
+   - Real-time monitoring and feedback loops  
+   - Data integration from sensors and IoT devices  
+   - Use in predictive maintenance and performance optimization  
+
+10. Case Studies in Industry 4.0 Environments  
+    - Real-world applications in metal, food, and pharmaceutical industries  
+    - Lessons learned from integrated product and manufacturing systems

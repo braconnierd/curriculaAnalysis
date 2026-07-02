@@ -1,0 +1,44 @@
+1. Problem Identification and Framing  
+   - Defining problems in engineering and manufacturing contexts  
+   - Distinguishing between symptoms and root causes  
+   - Using stakeholder input to frame problems  
+   - Applying the 5 Whys and SCAMPER techniques  
+
+2. Root Cause Analysis (RCA)  
+   - Fishbone (Ishikawa) diagram construction  
+   - Fault tree analysis (FTA) for systemic failures  
+   - Pareto analysis to prioritize issues  
+   - Failure mode and effects analysis (FMEA) fundamentals  
+
+3. Problem Solving Methodologies  
+   - PDCA (Plan-Do-Check-Act) cycle  
+   - Design Thinking phases (Empathize, Define, Ideate, Prototype, Test)  
+   - TRIZ principles for innovation in problem solving  
+
+4. Data Collection and Measurement  
+   - Designing valid and reliable measurement systems  
+   - Selecting appropriate tools (rulers, protractors, jigs)  
+   - Sampling strategies (systematic, random, stratified)  
+   - Measurement uncertainty and repeatability  
+
+5. Statistical Process Control (SPC)  
+   - X-bar and R charts construction and interpretation  
+   - Control limits calculation (UCL, LCL)  
+   - Process stability and capability (Cp, Cpk)  
+   - Using Excel templates for real-time monitoring  
+
+6. Process Improvement and Implementation  
+   - Lean principles (5S, Kaizen)  
+   - Implementing changes in a controlled trial  
+   - Evaluating improvement effectiveness  
+   - Documenting process changes and outcomes  
+
+7. Quality Management Systems (QMS)  
+   - ISO 9001 fundamentals  
+   - Quality culture and professional responsibility  
+   - Role of quality in engineering design and operations  
+
+8. Evaluation and Feedback Loops  
+   - Assessing process performance post-improvement  
+   - Using control charts to detect non-random variation  
+   - Iterative refinement of solutions

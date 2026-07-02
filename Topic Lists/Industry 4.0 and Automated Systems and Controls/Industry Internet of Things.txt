@@ -1,0 +1,57 @@
+1. Fundamentals of IoT in Industrial Environments (15%) 
+   - Definition and evolution of Industry IoT (IIoT)  
+   - Key components: sensors, edge devices, gateways, cloud platforms  
+   - Communication protocols (MQTT, OPC UA, Modbus)  
+   - Data flow architecture: sensor → edge → cloud → analytics  
+
+2. Cyber-Physical Systems (CPS) and Smart Manufacturing (15%) 
+   - CPS architecture: physical components, embedded systems, digital twins  
+   - Integration of physical processes with real-time data  
+   - Role of CPS in production automation and monitoring  
+   - Case study: Learning Factory implementation (Merkel 2017)  
+
+3. Edge Computing in IIoT (15%) 
+   - Edge vs. cloud computing in industrial settings  
+   - Real-time processing requirements  
+   - Deployment models: on-premise, hybrid, fog computing  
+   - Latency and reliability considerations  
+
+4. Data Acquisition and Sensor Integration (15%) 
+   - Sensor types: temperature, vibration, pressure, flow  
+   - Calibration, accuracy, and environmental impact  
+   - Sensor networks and deployment strategies  
+   - Signal conditioning and preprocessing  
+
+5. Industrial Data Analytics and AI  
+   - Time-series analysis of production data  
+   - Predictive maintenance using machine learning  
+   - Anomaly detection and fault diagnosis  
+   - Use of AI models in real-time decision support  
+
+6. Digital Twin Development and Simulation  
+   - Building a digital twin of a production line  
+   - Real-time synchronization with physical systems  
+   - Simulation of operational scenarios and failure modes  
+   - Validation and feedback loops  
+
+7. Security and Privacy in IIoT  
+   - Threats: spoofing, denial-of-service, data breaches  
+   - Authentication, encryption, and access control  
+   - Compliance with industrial standards (ISO 27001, NIST)  
+   - Secure communication protocols  
+
+8. Implementation and Case Studies  
+   - Design of an IoT-enabled learning factory (Dobovicek 2025)  
+   - Integration of IoT applications into engineering curricula (Haider 2014)  
+   - Skills gap analysis and workforce development (Fidan 2025)  
+   - Practical project: design and deploy a small-scale IIoT system  
+
+9. Interdisciplinary Collaboration and Workforce Development  
+   - Roles of mechanical, electrical, software, and data engineers  
+   - Team-based project design  
+   - Bridging academic learning with industry needs  
+
+10. Evaluation and Continuous Improvement  
+   - Metrics for system performance (uptime, efficiency, error rates)  
+   - Feedback loops from industry partners  
+   - Iterative design and system optimization

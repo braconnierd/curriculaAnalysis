@@ -1,0 +1,37 @@
+1. Knowledge Capture in Manufacturing Processes (30%)
+   - Documentation of design specifications, work instructions, and operational procedures  
+   - Standardization of data collection methods (measurement protocols, inspection checklists)  
+   - Use of digital tools (QR codes, embedded sensors) to tag and record process data  
+   - Creation of process memory logs (failure records, troubleshooting logs)  
+
+2. Knowledge Reuse through Process Standardization (30%) 
+   - Development of reusable templates (inspection forms, work instructions)  
+   - Implementation of modular process designs for cross-application  
+   - Role of flowcharts and value stream maps in enabling reuse  
+
+3. Quality Management as a Knowledge Foundation 
+   - Application of statistical process control (SPC) to monitor and improve process consistency  
+   - Use of control charts (X-bar and R charts) to detect variation and ensure stability  
+   - Linking quality data to decision-making and process improvement  
+
+4. Experiential Learning in Knowledge Transfer  
+   - Hands-on production exercises (Manufacturing Squares) to capture real-time knowledge  
+   - Use of simulation games to model knowledge application in supply chains  
+   - Case-based learning to reinforce knowledge transfer across scenarios  
+
+5. Digital Tools for Knowledge Management  
+   - Use of databases, cloud platforms, and ERP systems (SAP) to store and retrieve knowledge  
+   - Integration of AI tools (ChatGPT) for automated knowledge extraction and summarization  
+   - Implementation of systematic patent analysis to identify reusable technologies  
+
+6. Ethical and Sustainable Knowledge Practices  
+   - Integration of engineering ethics in knowledge sharing and reuse  
+   - Ensuring transparency, traceability, and accountability in knowledge transfer  
+
+7. Collaborative Learning Environments  
+   - Facilitating industry-university partnerships for real-world knowledge exchange  
+   - Designing collaborative projects that integrate academic and industrial knowledge  
+
+8. Curriculum Integration of Knowledge Management  
+   - Embedding knowledge capture/reuse into core engineering courses (operations, design)  
+   - Use of interdisciplinary learning factories to simulate real-world knowledge workflows

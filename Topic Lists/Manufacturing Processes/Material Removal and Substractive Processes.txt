@@ -1,0 +1,41 @@
+1. Fundamentals of Material Removal  
+   - Definition and classification of material removal processes  
+   - Energy transfer mechanisms in machining  
+   - Tool-workpiece interaction dynamics  
+   - Cutting forces and chip formation  
+
+2. Cutting Tools and Tool Geometry (20%)
+   - Tool materials (high-speed steel, carbides, ceramics)  
+   - Tool life and wear mechanisms  
+   - Tool angles (cutting edge, rake, clearance)  
+   - Tool coatings and surface treatments  
+
+3. Machining Processes (20%)
+   - Turning (external and internal)  
+   - Milling (face, end, slot)  
+   - Drilling
+   - Boring  
+   - Grinding (surface, cylindrical, centerless)  
+   - Shaping
+   - Planing 
+
+4. Process Parameters and Optimization (20%)
+   - Speed, feed, depth of cut  
+   - Cutting fluid selection and function  
+   - Thermal and vibration analysis  
+   - Optimization using simulation and design of experiments  
+
+5. Tool Wear and Surface Integrity  
+   - Wear models (abrasive, adhesive, diffusion)  
+   - Surface roughness and residual stress  
+   - Microstructural changes during machining  
+
+6. Numerical Control (CAM) and Design for Manufacturability  
+   - CAM software fundamentals (CNC programming)  
+   - G-code and toolpath generation  
+   - DFM principles (tolerance, feature size, assembly)  
+
+7. Process Selection and Decision Models 
+   - Criteria for selecting machining processes  
+   - Cost, accuracy, material, and environmental trade-offs  
+   - Decision trees and process flow diagrams  

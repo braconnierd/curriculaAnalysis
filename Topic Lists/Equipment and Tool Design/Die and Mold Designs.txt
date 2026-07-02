@@ -1,0 +1,61 @@
+1. Fundamentals of Die and Mold Functionality (20%)
+   - Purpose & role of dies & molds in manufacturing  
+   - Types of dies and molds (injection, extrusion, stamping, blow molding)  
+   - Material selection criteria for die and mold components (tool steels, alloys, coatings)  
+   - Failure modes and wear mechanisms (abrasion, fatigue, thermal cracking, adhesion)  
+
+2. Design Principles for Die and Mold Components (20%) 
+   - Geometric design rules (draft angles, wall thickness, undercuts, fillets)  
+   - Tolerance specifications and dimensional control  
+   - Parting lines and gating systems (gate types, runners, sprue, cold/water channels)  
+   - Core and cavity design for symmetry, balance, and stress distribution  
+   - Thermal and mechanical loading considerations (thermal gradients, pressure, vibration)  
+
+3. CAD Modeling of Dies and Molds  
+   - Parametric modeling techniques (sketching, dimensioning, constraints)  
+   - Surface and solid modeling for complex geometries (freeform, swept, extruded surfaces)  
+   - Feature creation (ribs, fillets, chamfers, undercuts, bosses)  
+   - Assembly modeling of multi-part dies (cavity, core, guide, ejector systems)  
+   - Modeling of parting surfaces and mating interfaces  
+
+4. CAE Analysis for Die and Mold Performance  
+   - Stress and strain analysis using Finite Element Analysis (FEA)  
+   - Thermal simulation for heat distribution and temperature gradients  
+   - Flow analysis in injection molding (melt flow, pressure, filling, cooling)  
+   - Validation of design against real-world conditions (simulation vs. prototype performance)  
+
+5. CAM for Die and Mold Manufacturing  
+   - Toolpath generation for CNC machining (milling, turning, drilling)  
+   - Tool selection and cutting parameters (tool geometry, speed, feed, depth of cut)  
+   - Surface finish and machining accuracy (surface roughness, tolerance control)  
+   - Tooling setup (tool offsets, fixturing, tool life estimation)
+   
+6. Manufacturing Processes for Die and Mold Production (20%) 
+   - CNC milling and turning operations (roughing, finishing, contouring)  
+   - Grinding and polishing operations (form grinding, surface grinding, lapping)  
+   - Heat treatment and hardening processes (quenching, tempering, case hardening)  
+   - Quality control and inspection techniques (CMM, coordinate measuring, visual inspection, hardness testing)  
+
+7. Integration with Product Lifecycle and Manufacturing Systems  
+   - Design for manufacturing and assembly (DFMA)
+   - Integration with product design and assembly (part interconnectivity, fit, function)  
+   - Feedback loops between design and production (data-driven iteration, error correction)  
+   - Role of die and mold in product lifecycle stages (concept, design, production, end-of-life)  
+
+8. Digital Manufacturing Tools and Prototyping  
+   - Use of 3D printers and rapid prototyping (FDM, SLA, SLS for mold prototypes)  
+   - Digital twin applications in die and mold simulation (virtual twin, real-time data integration)  
+   - Real-time monitoring and adaptive design (sensor-based feedback, closed-loop control)  
+
+9. Case Studies in Die and Mold Design  
+   - Industry examples (automotive components, consumer goods, medical devices)  
+   - Failure analysis and root cause identification  
+   - Iterative design improvements (redesign cycles, optimization, cost reduction)  
+   - Comparative analysis of design solutions across applications
+   - Additive manufacturing as a preform (cooling advantages)  
+
+10. Safety, Maintenance, and Sustainability  
+   - Operational safety in mold handling (lockout/tagout, personal protective equipment)  
+   - Maintenance schedules and wear monitoring (vibration analysis, surface inspection)  
+   - Sustainable materials and energy-efficient designs (recyclable steels, low-temperature processes)  
+   - Lifecycle environmental impact assessment (carbon footprint, scrap reduction)

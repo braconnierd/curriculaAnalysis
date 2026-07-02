@@ -1,0 +1,49 @@
+1. Atomic Structure and Bonding (15%)
+   - Electron configuration and periodic trends
+   - Ionic, covalent, and metallic bonding
+   - Crystal structures (FCC, BCC, and HCP)
+   - Polymer and ceramic microstructures
+   - Defects (point, line, planar, and volume defects)
+
+2. Phase Equilibria and Diagrams (15%)
+   - Binary and ternary phase diagrams (Fe–Fe3C, Cu–Ni, and Al–Si)
+   - Weldability and critical cooling curves
+   - Solidification processes
+   - Eutectic and peritectic reactions
+
+3. Mechanical Behavior of Materials (15%)
+   - Stress–strain relationships
+   - Yield strength, ductility, and toughness
+   - Elasticity and plasticity
+   - Viscoelasticity, creep, and fatigue
+   - Low-cycle and high-cycle fatigue behavior
+
+4. Failure Analysis and Critical Thinking (15%)
+   - Fracture mechanics
+   - Root cause analysis
+   - Failure criteria including leak-before-break and proof testing
+   - Failure case studies and failure-based learning
+
+5. Thermal and Environmental Effects
+   - Thermal expansion and thermal stress
+   - Thermal stability of materials
+   - Corrosion mechanisms
+   - Corrosion prevention techniques
+
+6. Processing and Microstructure Development
+   - Manufacturing processes (casting, forging, extrusion, and rolling)
+   - Heat treatment processes (annealing, quenching, and tempering)
+   - Surface hardening methods (carburizing and nitriding)
+   - Shot peening and microstructure modification
+
+7. Computational and Simulation Tools
+   - Finite element methods (FEM)
+   - Discrete element methods (DEM)
+   - Molecular dynamics simulations
+   - Simulation of micro- and nano-scale material behavior
+
+8. Sustainable and Green Materials Design
+   - Life cycle assessment of materials
+   - Recyclability and environmental impact
+   - Principles of sustainable materials design
+   - Green manufacturing practices

@@ -1,0 +1,50 @@
+1. Foundations of Inspection and Testing  
+   - Definition of inspection vs. testing  
+   - Types of inspection: attribute vs. variable  
+   - Sampling plans (AQL, OC curves)  
+   - Sampling strategies: random, systematic, stratified  
+
+2. Statistical Process Control (SPC) Principles  
+   - Control charts: X-bar and R charts  
+   - Process stability and capability (Cp, Cpk)  
+   - Common and special cause variation  
+   - Data collection protocols and measurement systems analysis (MSA)  
+
+3. Measurement and Calibration  
+   - Tool selection (rulers, protractors, digital calipers)  
+   - Calibration procedures and traceability  
+   - Measurement uncertainty and repeatability  
+
+4. Design of Inspection Procedures  
+   - Flowchart development for inspection tasks  
+   - Standardized measurement points (top edge, diagonal)  
+   - Sample selection logic (fixed four squares per group)  
+   - Role assignment in team-based inspection  
+
+5. Validation of Test Methods  
+   - Test method verification (does it meet specifications?)  
+   - Validation against design requirements
+   - Error analysis: random vs. non-random variation  
+
+6. Process Capability Analysis  
+   - Calculation of Cp and Cpk  
+   - Interpretation of capability indices  
+   - Comparison of process performance to specification limits  
+
+7. Feedback Loops and Continuous Improvement  
+   - PDCA cycle application (Plan-Do-Check-Act)  
+   - Identifying root causes of variation  
+   - Implementation of corrective actions  
+
+8. Tools and Technology Integration  
+   - Use of Excel for control chart generation  
+   - Digital tools for real-time data entry and monitoring  
+   - Jig design and application in consistent production  
+
+9. Quality Management Frameworks  
+   - Integration of QFD (Quality Function Deployment)  
+   - Role of quality in engineering design decisions  
+
+10. Ethical and Practical Considerations  
+   - Accuracy of measurements under real-world conditions  
+   - Documentation and traceability of inspection records  

@@ -1,0 +1,43 @@
+1. Process Design Fundamentals  (20%)
+   - Definition and scope of process development  
+   - Flowcharting and process mapping (value stream mapping)  
+   - Inputs, outputs, and constraints in process design  
+   - Design for manufacturability (DFM) and design for assembly (DFA)  
+   - Iterative design cycles and feedback loops  
+
+2. Fundamentals of Process Research  (20%)
+   - Definition and scope of process research  
+   - Research methodologies in engineering design (qualitative, quantitative, mixed methods)  
+   - Role of process research in innovation cycles (design-to-production, feedback loops)  
+   - Literature review and critical analysis of existing processes (gap identification and comparative evaluation)  
+
+3. Design Thinking and Problem Framing (20%)
+   - Identifying user needs and real-world problems through stakeholder interviews and observation  
+   - Empathizing, defining, and ideating in design (mind mapping, brainstorming, and divergent thinking)  
+   - Translating problems into actionable design challenges with measurable outcomes  
+   - Validating design solutions through user testing and feedback iteration
+
+4. Human-Centric Design in Industry 5.0  
+   - User experience and human factors in process design (ergonomics, accessibility, cognitive load)  
+   - Ethical considerations in automation and design (bias in AI, job displacement, transparency)  
+   - Inclusive design principles (diversity, equity, accessibility in product and process design)  
+   - Social and cultural implications of automated processes (human-machine collaboration, trust, accountability) 
+
+5. Additive Manufacturing Process Development  
+   - Material selection and layer-by-layer process logic  
+   - Print parameters: temperature, speed, layer thickness  
+   - Design for additive manufacturing (DfAM): lattice structures, overhangs, support generation  
+   - Post-processing and dimensional accuracy  
+
+6. Test Methodology and Validation  
+   - Test planning: objectives, scope, resources  
+   - Types of tests: functional, stress, durability, environmental  
+   - Test data collection and instrumentation  
+   - Failure analysis and root cause identification  
+
+7. Evaluation and Performance Metrics  
+   - KPIs for process efficiency and test reliability  
+   - Benchmarking against industry standards  
+   - Assessment of learning gains through test outcomes
+
+ 

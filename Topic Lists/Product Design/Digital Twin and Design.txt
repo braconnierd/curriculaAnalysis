@@ -1,0 +1,42 @@
+1. Foundations of Digital Twin (20%)
+   - Definition and evolution from Industry 4.0 to Industry 5.0  
+   - Core components: physical object, virtual replica, data exchange, real-time feedback  
+   - Lifecycle alignment with product and manufacturing phases
+
+2. Digital Twin in Product Design and Development (20%) 
+   - Design-to-manufacturing integration via digital twin  
+   - Real-time simulation of design performance  
+   - Feedback loops for iterative design optimization 
+
+3. Digital Twin and Manufacturing Process Integration (20%)
+   - Linking digital twin to CAD, CAE, CAM  
+   - Process simulation and validation  
+   - Error detection and predictive maintenance
+
+4. Life Cycle Assessment (LCA) and Sustainability in Digital Twins  
+   - Embedding environmental impact analysis in digital twin models  
+   - Real-time monitoring of carbon footprint and resource use  
+   - Sustainable design decisions via digital twin feedback  
+
+5. Learning-by-Doing and Hands-On Digital Twin Experiences
+   - Lab-based implementation of digital twin prototypes  
+   - Use of simulation tools (ANSYS, Siemens NX)  
+   - Student-led design projects with real-time data feedback 
+
+6. Design for Additive Manufacturing (DFAM) in Digital Twins  
+   - Topology optimization and material behavior simulation  
+   - Integration of DFAM constraints into digital twin models
+
+7. Digital Twin and Geometric Dimensioning & Tolerancing (GD&T)  
+   - Precision modeling and tolerance analysis in virtual environments  
+   - Real-time validation of design fit and manufacturability
+
+8. Industry 5.0 and Human-Centric Digital Twin Applications  
+   - Role of human-in-the-loop decision-making in digital twin systems  
+   - Collaboration between engineers, operators, and end-users  
+   - Human-machine interaction in real-time adaptive systems
+
+9. Cross-Disciplinary Integration  
+   - Value creation through digital twin-driven innovation  
+   - New product development using digital twin-enabled design and testing  
+   - Entrepreneurial thinking in product lifecycle management  

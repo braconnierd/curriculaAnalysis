@@ -1,0 +1,46 @@
+1. Foundational Principles of Engineering and Business Ethics (20%)
+   - Definition and scope of ethics in engineering and business  
+   - Core ethical frameworks (utilitarianism, deontology, virtue ethics)  
+   - Ethical decision-making models (ethical dilemma analysis)  
+   - Role of professional codes of conduct (ASCE, IEEE, ISO)  
+
+2. Ethical Decision-Making in Engineering Design and Development  (20%)
+   - Identifying stakeholders and their interests  
+   - Risk assessment and mitigation in design phases  
+   - Balancing innovation with safety and sustainability  
+   - Case studies: design failures due to ethical lapses (Therac-25)  
+
+3. Ethics in Supply Chain and Operations Management  (20%)
+   - Fair labor practices and human rights in supply chains  
+   - Environmental sustainability and ESG compliance  
+   - Transparency and traceability in sourcing  
+   - Ethical procurement and vendor selection  
+
+4. Ethical Implications of Automation and AI in Manufacturing  
+   - Bias in algorithmic decision-making  
+   - Job displacement and workforce equity  
+   - Data privacy and intellectual property in AI systems  
+   - Accountability in autonomous systems  
+
+5. Ethical Leadership and Organizational Culture  
+   - Leadership responsibilities in ethical governance  
+   - Building ethical organizational cultures  
+   - Whistleblowing and internal reporting mechanisms  
+   - Power dynamics and ethical accountability  
+
+6. Ethical Issues in Intellectual Property and Innovation  
+   - Patent misuse and infringement  
+   - Open-source vs. proprietary innovation  
+   - Ethical use of data in R&D  
+   - Systematic patent analysis for ethical innovation  
+
+7. Ethics in Quality Management and Continuous Improvement  
+   - Integrity in quality assurance processes  
+   - Avoiding falsification of data  
+   - Ethical use of statistical process control (SPC)  
+   - Responsibility in process optimization  
+
+8. Ethical Case Studies and Real-World Applications  
+   - Industry-specific case studies (automotive, aerospace)  
+   - Simulation-based ethical scenarios (business games)  
+   - Group debriefs and reflective analysis

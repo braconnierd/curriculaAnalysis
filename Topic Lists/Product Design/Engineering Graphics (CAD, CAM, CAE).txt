@@ -1,0 +1,42 @@
+1. Geometric Dimensioning and Tolerancing (GD&T) 
+   - Fundamentals of GD&T symbols and principles  
+   - Feature control frames and datum references  
+   - Tolerance stack-up and assembly fit analysis  
+   - Application in machine element design
+
+2. Engineering Drawing Standards and Practices  
+   - ISO and ASME standards for technical drawings  
+   - View selection, sectioning, and projection techniques  
+   - Dimensioning conventions and callout formats  
+   - Annotation, title blocks, and revision control 
+
+3. CAD (Computer-Aided Design) Fundamentals (20%)
+   - 2D sketching and constraint-based modeling  
+   - 3D modeling: extrusion, revolution, sweeping  
+   - Parametric modeling and feature trees  
+   - File formats (STEP, IGES), interoperability  
+
+4. CAM (Computer-Aided Manufacturing) Integration (20%)
+   - Toolpath generation and machining operations  
+   - CNC programming basics (G-code)  
+   - Simulation and verification of toolpaths  
+   - Material removal and cutting strategies   
+
+5. CAE (Computer-Aided Engineering) Applications (20%) 
+   - Finite element analysis (FEA) for stress and deformation  
+   - Simulation of thermal and fluid dynamics  
+   - Validation of design against performance criteria  
+
+6. Product Lifecycle Management (PLM)  
+   - Lifecycle phases: concept to end-of-life  
+   - Data flow, digital twins, and traceability  
+   - Integration of design, manufacturing, and sustainability 
+
+7. Sustainable Manufacturing and Life Cycle Assessment (LCA)  
+   - Environmental impact analysis (energy, emissions)  
+   - Material selection and lifecycle cost modeling  
+   - Sustainable design principles   
+
+8. Manufacturing Process Analysis and Case Studies  
+   - Unit process analysis and workflow mapping  
+   - Case study integration in learning factory environments  

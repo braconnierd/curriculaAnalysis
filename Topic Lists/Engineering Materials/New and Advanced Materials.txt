@@ -1,0 +1,54 @@
+1. Fundamentals of Advanced Materials (15%) 
+   - Atomic structure and bonding  
+   - Crystallography and phase diagrams  
+   - Classification of metals, ceramics, polymers, composites  
+   - Microstructure-property relationships  
+   - Defects and their impact on performance  
+
+2. Nanomaterials and Nanostructured Systems (15%)  
+   - Synthesis methods (CVD, sol-gel, hydrothermal, ball milling, plasma, electrospinning)  
+   - Characterization (TEM, AFM, XRD, SEM, Raman spectroscopy)  
+   - Applications in electronics and catalysis (nanowires, nanocatalysts, nanoelectrodes)  
+   - Stability and scalability challenges (agglomeration, environmental degradation, cost)  
+
+3. Smart and Responsive Materials (15%)
+   - Shape memory alloys (Ni-Ti, Cu-Zn-Al) and their mechanisms  
+   - Piezoelectric and piezoresistive materials (PZT, PVDF, GaN) and their applications  
+   - Self-healing polymers (dynamic covalent bonds, reversible networks, microcapsules)  
+   - Environmental responsiveness (temperature, pH, light, humidity, mechanical stress) and mechanisms  
+
+4. Additive Manufacturing (AM) Materials  
+   - Metal AM feedstocks (Ti-6Al-4V, Inconel, stainless steels) and their processing behavior  
+   - Polymer AM feedstocks (PLA, ABS, PEEK, PA12) and their thermal and mechanical properties  
+   - Ceramic AM feedstocks (Al2O3, Si3N4) and limitations  
+   - Material selection for AM processes (SLM, SLS, FDM, binder jetting) based on thermal stability, flow behavior, and post-processing needs  
+   - Post-processing and defect mitigation (heat treatment, densification, surface finishing)  
+   - Fatigue and mechanical performance under cyclic loading and real-world service conditions  
+
+5. Sustainable and Green Materials (15%)
+   - Life cycle assessment (LCA) of material production, use, and end-of-life  
+   - Recyclability and biodegradability of polymers and composites  
+   - Bio-based materials (bioplastics from starch, cellulose, lignin; bio-composites from agricultural waste)  
+   - Circular economy principles in material design and manufacturing  
+   - Environmental impact of material extraction, processing, and disposal  
+
+6. Computational Modeling and Simulation in Materials Design  
+   - Finite element analysis (FEA) of stress, strain, thermal, and fatigue behavior  
+   - Molecular dynamics (MD) simulations of atomic-scale interactions and phase transitions  
+   - Density functional theory (DFT) for electronic structure, bonding, and thermodynamic properties  
+   - Predictive modeling at micro/nano scales (defect formation, diffusion, phase stability)  
+   - Integration of simulation with experimental data for material optimization  
+
+7. Materials Testing and Failure Analysis  
+   - Tensile, compressive, flexural, and fatigue testing protocols  
+   - Fracture mechanics and crack propagation analysis  
+   - Non-destructive evaluation (NDE) techniques (ultrasonic testing, X-ray computed tomography, thermography)  
+   - Root cause analysis of material failure (environmental, mechanical, thermal, manufacturing-induced)  
+   - Correlation of test results with microstructural and compositional features  
+
+8. Integration of Materials with Manufacturing Processes  
+   - Design for manufacturability (DFM) principles in material selection and geometry  
+   - Process-material compatibility (thermal expansion, phase stability, surface reactivity)  
+   - Tooling and interface design for joining, forming, and machining  
+   - Optimization of material-process-geometry interactions to minimize defects and cost  
+

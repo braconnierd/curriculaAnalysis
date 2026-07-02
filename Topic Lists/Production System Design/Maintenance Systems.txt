@@ -1,0 +1,48 @@
+1. Maintenance Strategy Selection (20%)
+   - Preventive vs. Predictive vs. Reactive Maintenance  
+   - Decision frameworks for strategy selection based on asset criticality and cost  
+   - Lifecycle cost analysis in strategy evaluation  
+
+2. Maintenance Planning and Scheduling (20%)
+   - Work order generation and prioritization  
+   - Time-based vs. condition-based scheduling  
+   - Integration with production planning systems  
+
+3. Condition Monitoring and Diagnostics
+   - Vibration, thermal, and acoustic monitoring  
+   - Signal processing and anomaly detection  
+   - Use of sensors and IoT in real-time monitoring  
+
+4. Failure Mode and Effects Analysis (FMEA) 
+   - Failure mode identification and impact assessment  
+   - Risk prioritization and mitigation strategies  
+   - Integration with product lifecycle design  
+
+5. Maintenance System Design and Integration (20%)
+   - Modular and scalable maintenance architectures  
+   - Interfacing with manufacturing systems (MES, PLCs)  
+   - Digital twin applications in maintenance planning  
+
+6. Sustainability in Maintenance 
+   - Environmental impact of maintenance activities  
+   - Energy efficiency and waste reduction in maintenance operations  
+   - Lifecycle thinking in maintenance decisions  
+
+7. Additive Manufacturing in Maintenance 
+   - On-demand spare part fabrication  
+   - Rapid prototyping for repair and replacement  
+   - Material selection and quality assurance  
+
+8. Simulation-Based Maintenance System Development 
+   - Dynamic modeling of maintenance workflows  
+   - Scenario testing under varying operational conditions  
+   - Granularity complexity in system design and response  
+
+9. Human Factors and Training in Maintenance 
+   - Skill development and competency mapping  
+   - Safety protocols and procedural compliance  
+   - Learning factory environments for hands-on training  
+
+10. Performance Metrics and KPIs
+   - MTBF, MTTR, availability, and downtime analysis  
+   - Benchmarking and continuous improvement cycles

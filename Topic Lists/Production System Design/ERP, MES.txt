@@ -1,0 +1,42 @@
+1. Fundamentals of ERP and MES Systems  (30%)
+   - Definition and scope of ERP and MES  
+   - Core components of ERP (finance, HR, supply chain, production)  
+   - Core components of MES (production planning, execution, quality, maintenance)  
+   - Differences between ERP and MES in function and data flow  
+   - Integration architecture: ERP-MES interface protocols (MES-ERP data exchange)  
+
+2. Manufacturing Process Modeling and Simulation (30%)
+   - Flowcharting and process mapping of manufacturing operations  
+   - Simulation tools for production line design (AnyLogic, FlexSim)  
+   - Validation of process models against real-world data  
+   - Role of simulation in identifying bottlenecks and optimizing throughput  
+
+3. Real-Time Production Monitoring and Control  
+   - Sensors, IoT integration, and real-time data acquisition  
+   - MES functions in monitoring machine status, OEE, and downtime  
+   - Real-time alerts and corrective actions  
+
+4. Quality Management in MES  
+   - In-line quality inspection and defect tracking  
+   - Integration with quality standards (ISO 9001, Six Sigma)  
+   - Root cause analysis and corrective action loops  
+
+5. Maintenance and Predictive Analytics  
+   - Preventive and predictive maintenance workflows  
+   - Condition monitoring and failure prediction using MES  
+   - Integration with CMMS (Computerized Maintenance Management Systems)  
+
+6. Sustainable Manufacturing and Circular Design  
+   - Lifecycle assessment in production planning  
+   - Material efficiency, waste reduction, and energy use tracking  
+   - Sustainable design principles in MES/ERP workflows   
+
+7. Human-Machine Interaction and Decision Support  
+   - User interface design in ERP/MES dashboards  
+   - Decision support tools for operators and managers  
+   - Training modules for system usability  
+
+8. Case Studies in Metal Industry Applications  
+   - Real-world implementation of ERP/MES in metal fabrication  
+   - Challenges in scalability and data interoperability  
+   - Lessons learned from simulation-based design  

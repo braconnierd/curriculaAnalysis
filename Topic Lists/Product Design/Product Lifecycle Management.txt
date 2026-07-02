@@ -1,0 +1,49 @@
+1. Product Lifecycle Overview (30%) 
+   - Definition and scope of Product Lifecycle Management (PLM)  
+   - Stages: Concept, Design, Manufacturing, Operation, End-of-Life  
+   - Role of PLM in cross-functional integration  
+
+2. PLM Frameworks and Models  
+   - ISO 15928 and other standard frameworks  
+   - Integration of life cycle assessment (LCA) within PLM  
+   - Digital twin and data flow in PLM  
+
+3. Design for Lifecycle (DfL) (30%)
+   - Design for manufacturability, assembly, and disassembly  
+   - Sustainable design principles and material selection  
+   - Early integration of environmental and performance metrics  
+
+4. Manufacturing Process Integration 
+   - Linking design to manufacturing processes (CNC, CAM)  
+   - Process planning and tolerance analysis  
+   - Role of GD&T in ensuring design-to-manufacturing alignment  
+
+5. Operations and Performance Monitoring  
+   - Real-time data collection and feedback loops  
+   - Predictive maintenance and performance analytics  
+   - Use of digital tools (IoT, sensors) in operational phases  
+
+6. End-of-Life and Sustainability  
+   - Recycling, remanufacturing, and circular economy  
+   - Lifecycle cost analysis and environmental impact assessment  
+   - Regulatory compliance and ESG integration  
+
+7. Digital Tools and Platforms 
+   - PLM software (Siemens Teamcenter, PTC)  
+   - Simulation, BIM, and digital twins  
+   - Data interoperability and cloud-based PLM  
+
+8. Human Factors and Learning  
+   - Experiential learning in PLM (case studies, simulations)  
+   - Gamification (LCA game) for motivation and retention  
+   - Active learning and problem-based design  
+
+9. Entrepreneurial and Innovation Integration  
+   - New product development (NPD) processes  
+   - Iterative design and prototyping  
+   - Bridging innovation with lifecycle thinking  
+
+10. Curriculum Design and Industry Alignment  
+   - Industry-aligned course structure  
+   - Case studies from real-world manufacturing  
+   - Integration of learning factories and simulation environments

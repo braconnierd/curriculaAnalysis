@@ -1,0 +1,43 @@
+1. MRL (Manufacturing Readiness Level) (20%)
+   - Definition and evolution of MRL  
+   - MRL scale (1–9) and criteria for each level  
+   - Key evaluation metrics (design, process, materials, testing)  
+   - MRL 4–6 in aerospace and automotive applications  
+   - Gap analysis between current capabilities and MRL targets  
+
+2. TRL (Technology Readiness Level) (20%)
+   - TRL scale (1–9) and definitions  
+   - TRL vs. MRL  
+   - TRL assessment in R&D and prototyping phases  
+   - Tools for TRL evaluation (checklists, expert panels)  
+
+3. New Process Development (20%)
+   - Process design principles (lean, agile, digital)  
+   - Feasibility analysis and simulation (digital twins)  
+   - Risk assessment and mitigation in process scaling  
+   - Validation through pilot runs and performance metrics  
+
+4. New Product Introduction (NPI) 
+   - NPI phases
+   - Cross-functional team roles and responsibilities  
+   - Integration with MRL/TRL assessments  
+   - Market readiness and customer feedback loops  
+
+5. Digital Twin and Simulation in MRL/TRL Evaluation  
+   - Role of digital twins in process and product validation  
+   - Real-time monitoring and predictive analytics  
+   - Use in assessing MRL/TRL at intermediate stages  
+
+6. Human-Centric Design in New Process and Product Development  
+   - User needs and experience in NPI  
+   - Sustainability and ethical considerations  
+   - Design for additive manufacturing and human factors  
+
+7. Learning-by-Doing and Simulation-Based Assessment  
+   - Hands-on labs using CAM and VR tools  
+   - Evaluation of student performance in MRL/TRL tasks  
+   - Feedback mechanisms and iterative improvement  
+
+8. Industry 4.0 Integration: Real-World Application  
+   - IoT, data analytics, and automation in MRL/TRL  
+   - Case studies from manufacturing ecosystems

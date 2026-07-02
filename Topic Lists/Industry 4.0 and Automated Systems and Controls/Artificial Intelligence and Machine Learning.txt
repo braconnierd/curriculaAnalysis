@@ -1,0 +1,108 @@
+1. Fundamentals of Artificial Intelligence and Machine Learning (20%)
+   - Mathematical foundations:
+       - Linear algebra (vectors, matrices, matrix operations, eigenvalues, singular value decomposition)
+       - Probability theory (probability distributions, Bayes' theorem, conditional probability, random variables)
+       - Calculus (derivatives, partial derivatives, gradients, chain rule, optimization techniques)
+   - Machine learning paradigms:
+       - Supervised learning (classification, regression, label assignment)
+       - Unsupervised learning (clustering, dimensionality reduction, association rules)
+       - Reinforcement learning (policy gradients, reward shaping, exploration vs. exploitation)
+   - Model evaluation fundamentals: 
+       - Performance metrics (accuracy, precision, recall, F1-score, ROC-AUC)
+          - Interpretation, trade-offs, and application-specific use cases
+       - Validation strategies (cross-validation techniques)
+          - k-fold, stratified k-fold, leave-one-out methods
+       - Data partitioning strategies:
+          - Train/validation/test splits, stratification, sample size considerations
+       - Generalization challenges:
+          - Overfitting (signs, diagnosis, mitigation strategies)
+          - Bias-variance tradeoff (sources, visualization, and balancing strategies)
+
+2. Data Handling and Preprocessing Techniques (20%)
+   - Data acquisition methods:
+       - Sensor data, web scraping, APIs, database integration
+   - Data cleaning and preparation:
+       - Missing data imputation, outlier detection, noise reduction
+   - Data annotation and labeling strategies:
+       - Manual labeling, semi-supervised labeling, annotation protocols
+   - Feature engineering approaches:
+       - Domain-specific features, polynomial features, interaction terms, binning
+   - Feature selection techniques:
+       - Filter methods, wrapper methods, embedded methods, recursive feature elimination
+   - Dimensionality reduction methods:
+       - Principal Component Analysis (PCA)
+       - Linear Discriminant Analysis (LDA)
+       - t-distributed Stochastic Neighbor Embedding (t-SNE)
+   - Feature importance and interpretability:
+       - Model-based importance, permutation importance, SHAP values
+   - Data pipeline architectures:
+       - ETL processes (extraction, transformation, loading bath processing)
+       - Streaming data pipelines (real-time ingestion, data flow design, buffer management)
+   - IoT data integration and real-time processing:
+       - Sensor data formats, communication protocols, timestamp handling
+       - Latency constraints, streaming frameworks, data throughput considerations
+
+3. Algorithmic Models and Implementation strategies (20%)
+    - Linear models:
+       - Linear regression (least squares, assumptions, residual analysis)
+       - Logistic regression (sigmoid function, maximum likelihood estimation, binary and multiclass classification)
+       - Gradient descent optimization (batch, stochastic, mini-batch, convergence criteria)
+       - Regularization techniques (L1, L2, ridge, lasso, elastic net)
+    - Tree-based learning models:
+       - Decision trees (splitting criteria, information gain, Gini impurity, tree depth control)
+       - Random forests (bootstrapping, bagging, out-of-bag estimation)
+       - Gradient boosting methods (GBMs, loss functions, tree construction, AdaBoost)
+       - Ensemble learning strategies (voting, stacking, model averaging)
+    - Neural network fundamentals:
+       - Perceptrons (single-layer networks, activation functions, learning rules)
+       - Feedforward neural networks (layer structures, forward propagation)
+       - Backpropagation algorithm (chain rule application, gradient computation, error propagation)
+       - Activation functions (sigmoid, ReLU, tanh, leaky ReLU, softmax)
+       - Loss functions (mean squared error, cross-entropy, hinge loss)
+       - Optimization techniques (momentum, Adam, learning rate scheduling)
+    - Deep learning architectures:
+       - Convolutional Neural Networks (CNNs)
+          - Convolutional layers, pooling layers, activation layers, kernel operations
+       - Recurrent Neural Networks (RNNs)
+          - Hidden states, recurrence mechanisms, vanishing gradient problem
+       - Layer types and architectures:
+          - Dense, convolutional, recurrent, and normalization layers
+       - Training pipelines:
+          - Data loading, batch processing, training loops, validation metrics
+
+4. Deployment and Evaluation in Real-Time Systems
+    - Integration with IoT and cyber-physical systems:
+        - Sensor data acquisition, edge devices, communication protocols
+    - Edge computing strategies:
+        - On-device inference, latency reduction, computational resource constraints
+    - Real-time inference considerations:
+        - Response time requirements, model size optimization, hardware acceleration
+    - Model monitoring and maintenance:
+        - Performance drift detection, health checks, alerting mechanisms
+    - Drift detection techniques:
+        - Concept drift, data drift, statistical testing methods
+    - Continuous learning and retraining pipelines:
+        - Automated retraining, trigger conditions, model version control
+    - Feedback and control loops in production:
+        - Closed-loop control systems, adaptive learning, system responsiveness
+    - Real-time decision-making systems:
+        - Latency thresholds, decision confidence levels, operational robustness
+
+5. Interdisciplinary and Industrial Applications
+    - AI in smart manufacturing:
+        - Predictive maintenance (failure prediction, time-series analysis, anomaly detection)
+        - Quality control (defect classification, image-based inspection, real-time monitoring)
+        - Anomaly detection (unsupervised learning, clustering, autoencoders)
+        - Fault diagnosis (symptom analysis, root cause identification, diagnostic trees)
+    - Cyber-physical production systems:
+        - Real-time decision-making, low-volume production (LVP) systems
+        - State estimation, sensor fusion, and system control
+    - Digital twin technologies:
+        - Simulation models, real-time system mirroring, continuous model updating
+        - Data fusion and predictive system behavior analysis
+    - Learning and LVP environments:
+        - Learning factories, cyber-physical integration, human–machine interaction
+
+6. Pedagogical Framework and Learning Outcomes
+    - Skill development objectives:
+        - System integration (AI–physical system interoperability)

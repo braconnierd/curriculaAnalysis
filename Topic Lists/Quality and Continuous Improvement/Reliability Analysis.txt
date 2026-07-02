@@ -1,0 +1,48 @@
+1. Fundamentals of Reliability 
+   - Definition and importance of reliability in engineering systems  
+   - Failure modes and effects analysis (FMEA): identification of failure modes, effects, severity, occurrence, and detection  
+   - Reliability metrics: mean time between failures (MTBF), mean time to failure (MTTF), failure rate (λ), and reliability function R(t)  
+
+2. Reliability Models and Distributions  
+   - Exponential distribution (constant failure rate): probability density function, cumulative distribution function, reliability function, and applications in systems with memoryless failure  
+   - Weibull distribution (shape, scale parameters): probability density function, cumulative distribution function, reliability function, shape parameter interpretation (β: infant mortality, useful life, wear-out), and applications in mechanical and electronic components  
+   - Normal and log-normal distributions in reliability: probability density functions, reliability function, use in modeling component lifetime under normal operating conditions and in degradation modeling  
+   - Applications of reliability models to mechanical and electronic components: fitting models to real-world data, interpreting model outputs, and selecting appropriate distributions based on failure data  
+
+3. System Reliability and Series-Parallel Structures 
+   - Series and parallel system configurations: definition, behavior under failure, and implications for system performance  
+   - System reliability equations: derivation and application of reliability equations for series, parallel, and mixed configurations  
+   - Block diagram construction and analysis: creating block diagrams to represent system architecture, identifying subsystems, and using diagrams to compute system reliability  
+
+4. Failure Mechanisms and Degradation  
+   - Common degradation paths: wear, fatigue, corrosion, creep, thermal degradation, and material fatigue  
+   - Environmental and operational influences: impact of temperature, humidity, vibration, load, and stress on degradation rates  
+   - Inspection and monitoring strategies: scheduled inspections, condition-based monitoring, sensor integration, and data collection protocols for early failure detection  
+
+5. Reliability Testing and Data Collection 
+   - Accelerated life testing (ALT): principles of stress acceleration, test design, and extrapolation to normal operating conditions  
+   - Test planning and sample size determination: selection of test duration, sample size, test conditions, and statistical justification  
+   - Data recording and error minimization: systematic data collection, traceability, measurement uncertainty, and avoiding bias in data  
+
+6. Reliability Prediction and Modeling  
+   - Empirical and analytical prediction methods: regression-based models, statistical fitting, and parametric models  
+   - Use of historical data and failure databases: analysis of failure data from past systems, use of databases such as NASA, MIL-HDBK-217, and industry-specific databases  
+   - Integration with design and material selection: impact of material properties, design parameters (stress, temperature), and geometry on failure probability  
+
+7. Reliability in Design and Manufacturing  
+   - Design for reliability (DFR) principles: integration of reliability into design phases, redundancy, fault tolerance, and robustness  
+   - Process control and quality assurance links: connection between statistical process control (SPC), quality assurance, and reliability outcomes  
+   - Role of QFD (Quality Function Deployment) in reliability integration: translating customer requirements into design features that support reliability  
+
+8. Reliability Improvement and Maintenance
+   - Preventive and predictive maintenance: scheduling, inspection intervals, and condition monitoring strategies  
+   - Root cause analysis and corrective actions: techniques such as 5 Whys, fishbone diagrams, and failure mode analysis to identify root causes  
+   - Continuous improvement cycles (PDCA): implementation of Plan-Do-Check-Act cycles in reliability management and system performance enhancement  
+
+9. Case Studies and Practical Applications  
+   - Real-world examples from mechanical and manufacturing systems: case studies of failure in turbines, bearings, electrical systems, and production lines  
+   - Application of reliability concepts in product lifecycle: reliability during design, manufacturing, operation, and end-of-life phases  
+
+10. Tools and Software for Reliability Analysis  
+   - Use of spreadsheets for reliability calculations: implementation of formulas for MTBF, Weibull parameters, system reliability, and FMEA tables  
+   - Introduction to reliability software: user interface and functionality of Weibull++, Reliability Toolbox (MATLAB), and other industry-standard tools; data input, model fitting, reliability prediction, and reporting capabilities 

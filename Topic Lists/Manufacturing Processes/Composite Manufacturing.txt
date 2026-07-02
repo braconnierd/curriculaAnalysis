@@ -1,0 +1,35 @@
+1. Fundamentals of Composite Materials (30%)
+   - Molecular structure and bonding in composites  
+   - Classification: fiber-reinforced, polymer-matrix, ceramic-matrix  
+   - Properties: strength, stiffness, thermal stability, fatigue behavior  
+   - Failure mechanisms and fracture analysis  
+
+2. Composite Manufacturing Processes  
+   - Hand lay-up and vacuum bagging  
+   - Resin transfer molding (RTM)  
+   - Compression molding  
+   - Autoclave curing  
+   - Pultrusion and filament winding  
+   - Process parameters: temperature, pressure, time, resin content  
+
+3. Design for Manufacturing (DfM) in Composites (30%)
+   - Geometric considerations: part geometry, draft angles, wall thickness  
+   - Material selection based on performance and cost  
+   - Integration of DfM with CAD/CAM tools  
+   - Tolerance and assembly design  
+
+4. Additive Manufacturing of Composites  
+   - 3D printing of polymer matrix composites (PMCs)  
+   - Layer-by-layer deposition and fiber alignment  
+   - Post-processing: curing, surface finishing  
+   - Challenges: warping, porosity, interfacial bonding  
+
+5. Simulation and Visualization Tools  
+   - Process simulation: thermal, mechanical, flow  
+   - Real-time visualization of curing and layer formation  
+   - Use of CAE software (ANSYS, Abaqus, COMSOL)  
+
+6. Sustainable and Green Manufacturing  
+   - Life cycle assessment (LCA) of composite systems  
+   - Recycling and end-of-life strategies  
+   - Energy efficiency and emissions reduction 

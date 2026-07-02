@@ -1,0 +1,80 @@
+1. Fluid Mechanics Fundamentals  (20%)
+   - Fluid properties (density, viscosity, surface tension, compressibility, ideal gas)
+   - Fluid statics (pressure, hydrostatic pressure distribution, manometers, barometers, hydrostatic forces on submerged surfaces)  
+   - Conservation laws (mass, momentum, energy) 
+   - Fluid dynamics (continuity equation, Bernoulli’s equation, energy equation, momentum equation)
+   - Buoyancy  
+   - Flow classification (laminar vs. turbulent, transitional flow, Reynolds number, critical Reynolds number)
+   - Transition from laminar to turbulent flow in pipes and boundary layers  
+   
+
+2. Fluid Flow in Pipes and Ducts (20%)  
+   - Pipe flow equations (Hazen-Williams equation, Darcy-Weisbach equation)  
+   - Friction losses (major losses), minor losses (valves, elbows, fittings)  
+   - Flow regimes in pipes (laminar, transitional, turbulent)  
+   - Pressure drop calculations (along a pipe, in ducts, with elevation changes)  
+   - Flow velocity and flow rate relationships in circular and non-circular ducts  
+
+3. Open Channel Flow  (20%)
+   - Flow types (subcritical, supercritical, critical flow)  
+   - Critical depth, Froude number, flow regime classification  
+   - Manning’s equation, energy slope, normal depth  
+   - Flow in open channels (uniform, non-uniform, gradually varied, rapidly varied flows)  
+
+4. Compressible Flow  (3.33%)
+   - Isentropic flow, Mach number, speed of sound  
+   - Nozzle and diffuser performance (converging, converging-diverging nozzles, diffusers)  
+   - Shock waves and expansion waves (normal shocks, oblique shocks, expansion fans)  
+   - Flow behavior at high Mach numbers (shock tubes, supersonic flow)  
+
+5. Boundary Layer Theory  
+   - Boundary layer formation and development  
+   - Blasius solution (laminar boundary layer), boundary layer thickness (δ, δ*, δ)  
+   - Boundary layer equations (momentum integral equation)  
+   - Separation and transition (flow separation, transition from laminar to turbulent)  
+   - Boundary layer effects on drag and heat transfer  
+
+6. Turbulent Flow Modeling (3.33%)
+   - Turbulence models (Reynolds-averaged Navier-Stokes, k-ε, k-ω, SST models)  
+   - Turbulent viscosity, eddy viscosity, turbulent diffusivity  
+   - Modeling of turbulent shear stress and Reynolds stress  
+
+7. Fluid Machinery  
+   - Pumps (centrifugal pumps, positive displacement pumps: piston, gear, screw)  
+   - Turbines (impulse turbines, reaction turbines, Pelton, Francis, Kaplan)  
+   - Fans and blowers (centrifugal, axial, cross-flow)  
+   - Performance curves (head vs. flow, efficiency vs. flow)  
+   - Efficiency, power, and loss analysis in fluid machinery  
+
+8. Fluid-Structure Interaction (FSI)  
+   - Coupling between fluid and solid bodies (fluid-structure interaction)  
+   - Dynamic response of structures under fluid loading  
+   - Vibration analysis in fluid-structure systems  
+   - Applications in aerospace, civil, and mechanical engineering  
+
+9. Computational Fluid Dynamics (CFD)  (3.33%)
+   - CFD fundamentals (meshing, grid generation, discretization methods: finite volume, finite element)  
+   - Solvers (pressure-based, density-based, coupled solvers)  
+   - Turbulence modeling in CFD (implementation of k-ε, k-ω, LES, RANS)  
+   - Post-processing and visualization (streamlines, velocity vectors, pressure contours, vorticity)  
+   - Validation and verification of CFD simulations  
+
+10. Applications in Manufacturing  
+   - Cooling systems (heat exchangers, cooling channels, liquid cooling)  
+   - Lubrication systems (lubricant flow, film thickness, boundary lubrication)  
+   - Injection molding (melt flow, pressure distribution, gate design)  
+   - Process simulation using software (ANSYS Fluent, OpenFOAM, COMSOL)  
+   - Design optimization of fluid systems using simulation tools  
+
+11. Experimental Fluid Dynamics  
+   - Flow visualization techniques (Particle Image Velocimetry (PIV), dye tracing, laser schlieren)  
+   - Pressure measurement techniques (manometers, pressure transducers, piezometers)  
+   - Lab setup and instrumentation (flow loops, sensors, data acquisition)  
+   - Error analysis and uncertainty quantification in experimental measurements  
+
+12. Sustainability and Green Fluid Systems  
+   - Energy efficiency in fluid systems (reduction of friction losses, optimization of flow paths)  
+   - Environmental impact of fluid use (emissions, fluid recycling, waste reduction)  
+   - Sustainable design principles (low-impact fluid systems, renewable energy integration)  
+   - Life cycle assessment of fluid systems  
+   - Use of green fluids and environmentally benign materials in engineering applications

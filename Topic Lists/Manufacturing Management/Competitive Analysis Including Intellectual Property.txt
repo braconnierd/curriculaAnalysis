@@ -1,0 +1,46 @@
+1. Competitive Market Analysis (20%) 
+   - Market structure: perfect competition, oligopoly, monopoly
+   - Porter’s Five Forces
+   - SWOT analysis
+   - Competitive positioning: value proposition, differentiation
+   - Industry trends and disruption: digitalization, automation
+
+2. Competitive Intelligence (CI) Collection and Analysis (20%)
+   - Primary vs. secondary data sources
+   - Patent databases: USPTO, WIPO, Google Patents
+   - Financial disclosures: 10-K, earnings calls
+   - Social media and online reviews
+   - Reverse engineering of products and services
+
+3. Intellectual Property (IP) and Competitive Advantage (20%)
+   - Types of IP: patents, trademarks, copyrights, trade secrets
+   - Patentability criteria: novelty, non-obviousness, utility
+   - IP lifecycle: filing, maintenance, enforcement
+   - IP portfolio strategy and risk management
+   - IP due diligence in mergers and acquisitions and new product development
+
+4. IP Analysis and Competitive Benchmarking
+   - Systematic patent analysis: mapping, clustering, gap analysis
+   - Patent landscaping and competitive mapping
+   - Patent families and technological domains
+   - Use of AI tools such as ChatGPT in patent analysis
+
+5. IP Strategy and Innovation Management
+   - Innovation pipelines and IP alignment
+   - Open innovation and IP licensing
+   - IP protection in emerging technologies: artificial intelligence, biotechnology
+   - Ethical considerations in IP use and sharing
+
+6. Case-Based and Experiential Learning in Competitive Analysis
+   - Real-world case studies: Tesla, Apple, Siemens
+   - Business simulation games: supply chain, market entry
+   - Hands-on IP analysis projects: patent review of a product
+
+7. Ethical and Legal Dimensions of Competitive Analysis
+   - Compliance with anti-competitive laws: antitrust
+   - Ethical use of data and intellectual property
+   - Conflict of interest and confidentiality
+
+8. Integration with Supply Chain and Operations
+   - How supply chain decisions affect competitive positioning
+   - Impact of operational efficiency on IP-driven innovation

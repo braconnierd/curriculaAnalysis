@@ -1,0 +1,43 @@
+1. Facility Planning Fundamentals  
+   - Definition and scope of facility planning  
+   - Key objectives: efficiency, cost, safety, sustainability  
+   - Evolution from traditional to flexible facility design 
+   - Role of granularity in facility design 
+
+2. Plant Layout Design Principles (30%)
+   - Types of layouts: product, process, cellular, fixed-position   
+   - Layout selection criteria: workflow, space utilization, scalability  
+   - Impact of layout on operational efficiency and changeability 
+
+3. Workflow and Material Flow Analysis  
+   - Flow diagrams: value stream mapping, material flow charts  
+   - Bottleneck identification and mitigation  
+   - Integration with product lifecycle  
+
+4. Space Utilization and Capacity Planning (30%)
+   - Space allocation models for equipment, storage, personnel  
+   - Capacity vs. demand analysis  
+   - Dynamic space allocation in changing production   
+
+5. Sustainability in Facility Design  
+   - Energy efficiency, waste reduction, emissions  
+   - Sustainable material selection and lifecycle impact  
+   - Integration of green building standards (LEED, BREEAM)  
+
+6. Simulation in Manufacturing System Design  
+   - Use of simulation tools for layout validation 
+   - Scenario testing: load, failure, changeability  
+   - Simulation for educational 4.0 environments 
+
+7. Additive Manufacturing Integration  
+   - Role of 3D printing in prototyping and layout testing 
+   - Rapid iteration of facility designs using additive manufacturing  
+
+8. Maintenance and Operational Readiness  
+   - Maintenance plan development in learning factory settings  
+   - Layout design for accessibility and maintenance access  
+
+9. Changeability and Flexibility in Facility Design  
+   - Designing for future product changes  
+   - Granularity complexity model application  
+

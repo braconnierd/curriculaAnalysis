@@ -1,0 +1,52 @@
+1. Tool Material Properties and Selection (20%)
+   - Hardness, wear resistance, thermal stability, toughness  
+   - Comparison of tool material (HSS, carbides, ceramics)  
+   - Microstructure and heat treatment effects  
+   - Environmental and cost considerations
+   - Coatings  
+
+2. Tool Geometry and Its Impact on Cutting Performance (20%)
+   - Cutting edge angle (rake angle, clearance angle)  
+   - Effect of geometry on chip formation and tool life  
+   - Tool face and flank wear mechanisms  
+   - Optimization of geometry for specific materials  
+
+3. Cutting Forces and Tool Dynamics (20%)
+   - Force modeling in turning, milling, drilling  
+   - Influence of feed rate, depth of cut, and speed  
+   - Vibration and chatter analysis  
+   - Dynamic stability and tool deflection  
+
+4. Tool Life Prediction and Wear Models  
+   - Abrasive and thermal wear mechanisms  
+   - Use of Taylor’s tool life equation  
+   - Empirical and predictive models for tool life  
+   - Influence of coolant and cutting parameters  
+
+5. Material Compatibility and Tool Selection  
+   - Selection based on workpiece material (steel, aluminum, composites)  
+   - Case studies: machining of cast iron vs. titanium  
+   - Effect of material microstructure and other parameters on surface finish
+
+6. Tool Design for Specific Machining Operations  
+   - Turning, milling, drilling tool design
+   - Tool holder and shank design considerations  
+   - Integration with CNC systems 
+
+7. Digital Tool Design and Simulation
+   - CAD for tool design  
+   - Simulation of cutting processes and tool performance  
+   - Use of finite element analysis (FEA) for stress and deformation  
+
+8. Safety, Maintenance, and Tool Handling  
+   - Tool storage, inspection, and replacement protocols  
+   - Personal protective equipment (PPE) and safety standards  
+   - Preventive maintenance schedules  
+
+9. Case Studies in Tool Selection  
+   - Real-world industrial scenarios  
+   - Decision trees for tool selection based on constraints  
+
+10. Evaluation of Tool Performance Metrics 
+   - Surface finish, dimensional accuracy, tool life  
+   - Cost-benefit analysis of tool selection

@@ -1,0 +1,79 @@
+1. Statistical Process Control (SPC)
+   - Control charts (X-bar, R)
+   - Process stability and control
+   - Capability indices (Cp, Cpk)
+   - Sources of variation (random vs. non-random)
+   - Data collection protocols
+   - Interpretation of control charts
+
+2. Quality Management & Continuous Improvement 
+   - ISO 9001 principles
+   - PDCA cycle
+   - Six Sigma methodologies
+   - Root cause analysis (5 Whys, Fishbone)
+   - Kaizen practices
+   - Quality audits
+
+3. Field Service Operations & Maintenance
+   - Preventive maintenance scheduling
+   - Failure mode and effects analysis (FMEA)
+   - Service workflow design
+   - Technician training and competency development
+   - Digital service tools (IoT diagnostics)
+
+4. Consumer Behavior & Product Lifecycle
+   - Customer decision-making drivers
+   - Product adoption processes
+   - Customer feedback loops
+   - Product lifecycle stages (introduction to obsolescence)
+   - Service and support expectations
+
+5. Supply Chain Operations & Financial Impact
+   - Cost of quality (internal and external)
+   - Inventory turnover analysis
+   - Lead time measurement and reduction
+   - Cost-benefit analysis of service interventions
+   - Financial performance metrics (ROI, CAPEX)
+
+6. Engineering Ethics in Service Delivery
+   - Safety and risk responsibility
+   - Transparency in service practices
+   - Liability and accountability
+   - Equity in service access
+   - Ethical decision-making frameworks
+
+7. Systematic Patent Analysis & Intellectual Property (IPR)
+   - Patent mapping and landscape analysis
+   - Innovation tracking
+   - Intellectual property strategies for service products
+   - Competitive intelligence
+
+8. Hands-On Learning & Simulation Games
+   - Business simulation games
+   - Manufacturing and service scenario modeling
+   - Role-playing exercises
+   - Real-time decision-making
+   - Feedback and performance evaluation
+
+9. Interdisciplinary Process Design & Integration
+   - Design for serviceability
+   - Modular system design
+   - Integration of quality and logistics functions
+   - Learning factory and lab-based models
+
+10. Project Management in Service Delivery
+    - Project scope definition
+    - Timeline and resource planning
+    - Risk identification and mitigation
+    - Stakeholder communication
+    - Agile and hybrid project management methods
+
+11. Collaborative Learning Environments
+    - Industry-university partnerships
+    - Shared problem-solving approaches
+    - Real-world case study integration
+
+12. Experiential Learning in Logistics & Manufacturing
+    - SAP-based logistics simulations
+    - Field service training exercises
+    - Data-driven operational decision-making

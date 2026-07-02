@@ -1,0 +1,44 @@
+1. Fundamentals of Machine Vision (15%)
+   - Definition and scope of machine vision
+   - Key components including cameras, lenses, and illumination
+   - Signal acquisition and image formation
+   - Image resolution, frame rate, and dynamic range
+
+2. Image Processing and Preprocessing (15%)
+   - Noise reduction (Gaussian filtering and median filtering)
+   - Contrast enhancement and histogram equalization
+   - Image binarization and thresholding
+   - Edge detection including Canny and Sobel methods
+   - Morphological operations (dilation, erosion, opening, and closing)
+
+3. Feature Extraction and Object Detection (15%)
+   - Shape and size analysis
+   - Contour detection and image segmentation
+   - Template matching and pattern recognition
+   - Machine learning-based detection using support vector machines and convolutional neural networks
+
+4. Calibration and Alignment (15%)
+   - Camera calibration including intrinsic and extrinsic parameters
+   - 3D reconstruction and depth estimation
+   - Coordinate system alignment in production environments
+
+5. Real-Time Processing and Embedded Systems
+   - Real-time image processing pipelines (SLAM)
+   - Hardware acceleration using field-programmable gate arrays and graphics processing units
+   - Embedded vision systems including Raspberry Pi and NXP platforms
+   - Latency and throughput optimization
+
+6. Integration with IoT and Smart Manufacturing
+   - IoT communication protocols (MQTT and OPC UA)
+   - Data flow from machine vision systems to control systems
+   - Feedback loops in automated production lines
+   - Edge computing in vision systems
+
+7. Quality Control and Defect Detection
+   - Defect classification including cracks, scratches, and color variations
+   - Automated inspection workflows
+
+8. Case Studies in Industrial Applications
+   - Real-world examples from learning factories
+   - End-to-end machine vision system deployment in production
+   - Failure analysis and troubleshooting

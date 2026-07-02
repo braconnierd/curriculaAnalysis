@@ -1,0 +1,34 @@
+1. Fundamental Polymer Chemistry  (20%)
+    - Structure of polymer chains (linear, branched, cross-linked)  
+    - Monomer types and polymerization mechanisms (addition, condensation)  
+    - Polymerization kinetics and reaction conditions  
+    - Molecular weight distribution and its impact on properties  
+    - Chain end effects and stereochemistry  
+
+2. Polymer Classification and Properties (20%) 
+    - Thermoplastics vs. thermosets vs. elastomers  
+    - Glass transition temperature (Tg) and melting point (Tm)  
+    - Mechanical, thermal, and optical properties  
+    - Density, crystallinity, and morphology  
+
+3. Polymer Processing Techniques  (20%)
+    - Extrusion, injection molding, blow molding, thermoforming  
+    - Die design, flow behavior, and processing parameters  
+    - Cooling and solidification dynamics  
+    - Defects and quality control in processing  
+
+4. Performance and Applications  
+    - Selection of polymers for specific applications (packaging, automotive)  
+    - Environmental and functional requirements  
+    - Case studies in real-world product design  
+
+5. Safety, Health, and Environmental Impact  
+    - Hazardous materials in polymer production  
+    - Emissions and waste management  
+    - Regulatory standards (RoHS, REACH)  
+
+6. Plastic Recycling and Sustainability  
+    - Types of plastic waste and contamination  
+    - Mechanical vs. chemical recycling  
+    - Feedstock degradation and reprocessing challenges  
+    - Life cycle analysis of polymer products  

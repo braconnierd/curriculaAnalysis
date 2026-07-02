@@ -1,0 +1,69 @@
+1. Stress and Strain (10%) 
+   - Definition of stress and strain  
+   - Normal and shear stress  
+   - Hooke’s Law and elastic deformation  
+   - Stress-strain diagrams (tensile, compressive)  
+   - Yield, ultimate, and failure points  
+
+2. Axial Loading (10%) 
+   - Axial stress and strain  
+   - Axial deformation  
+   - Stress concentration and safety factors  
+
+3. Torsion (10%) 
+   - Torque and shear stress  
+   - Torsional shear stress distribution  
+   - Polar moment of inertia  
+   - Angle of twist  
+
+4. Bending (10%) 
+   - Bending moment and shear force  
+   - Flexural stress distribution  
+   - Moment of inertia and section modulus  
+   - Beam deflection (elastic and plastic)  
+
+5. Shear Stress and Shear Strain (10%)
+   - Shear stress in beams  
+   - Shear strain and shear modulus  
+   - Shear flow in thin-walled sections  
+
+6. Thin-Walled Pressure Vessels  
+   - Hoop, longitudinal, and radial stresses  
+   - Failure modes under pressure  
+   - Design considerations for thin-walled structures  
+
+7. Deflection of Beams  
+   - Integration methods for deflection  
+   - Moment-area method  
+   - Superposition principle  
+
+8. Mechanical Properties of Materials  
+   - Tensile, compressive, and fatigue properties  
+   - Yield strength, ultimate strength, ductility  
+   - Hardness and toughness  
+
+9. Failure Theories  
+   - Maximum shear stress theory  
+   - von Mises yield criterion  
+   - Failure under complex stress states  
+
+10. Energy Methods  
+   - Castigliano’s theorem  
+   - Strain energy in axial, torsion, and bending  
+
+11. Stress Transformation  
+   - Principal stresses and planes  
+   - Mohr’s circle  
+   - Stress state representation  
+
+12. Composite Materials and Anisotropy  
+   - Behavior under multi-axial loading  
+   - Layered and fiber-reinforced composites  
+
+13. Experimental Techniques  
+   - Tensile testing  
+   - Strain gauges and digital image correlation  
+
+14. Design Applications and Case Studies  
+   - Real-world beam and shaft design  
+   - Failure analysis in engineering components

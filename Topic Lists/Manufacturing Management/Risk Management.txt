@@ -1,0 +1,58 @@
+1. Risk Identification and Assessment (20%)  
+   - Sources of risk in engineering and supply chain systems  
+   - Hazard identification using checklists and failure mode analysis (FMEA)  
+   - Risk categorization: operational, financial, technical, environmental  
+   - Quantitative vs. qualitative risk assessment methods  
+
+2. Risk Analysis Tools and Techniques (20%)  
+   - Failure Mode and Effects Analysis (FMEA)  
+   - Fault Tree Analysis (FTA)  
+   - Monte Carlo simulation for probabilistic risk modeling  
+   - SWOT analysis in supply chain context  
+
+3. Risk Mitigation and Response Planning (20%) 
+   - Contingency planning and emergency response protocols  
+   - Redundancy design and backup systems  
+   - Risk transfer mechanisms (insurance, outsourcing)  
+   - Business continuity planning (BCP)  
+
+4. Risk Communication and Stakeholder Engagement  
+   - Transparent reporting of risk to management and public  
+   - Stakeholder risk perception and feedback loops  
+   - Risk communication in supply chain operations  
+
+5. Ethical and Regulatory Compliance in Risk Management  
+   - Legal and regulatory frameworks (ISO 31000, OSHA)  
+   - Ethical dilemmas in risk decision-making  
+   - Responsibility of engineering professionals in risk governance  
+
+6. Integration of Risk Management in Design and Operations  
+   - Risk-informed design processes  
+   - Embedding risk assessment in product and process development  
+   - Risk management in lean and agile manufacturing  
+   - Cross-functional risk coordination (design, operations, logistics)  
+   - Integration with quality management and supply chain resilience  
+
+7. Real-Time Monitoring and Decision Support Systems  
+   - Use of sensors and IoT for real-time risk detection  
+   - Digital twins for predictive risk modeling  
+   - Data analytics for early warning systems  
+
+8. Case-Based and Experiential Learning in Risk Management  
+   - Simulated risk scenarios in supply chain and manufacturing  
+   - Business simulation games for risk response training  
+   - Hands-on risk experiments using learning factories  
+   - Experiential learning projects using systematic patent analysis to enhance awareness of patent-based intellectual property rights (IPR)  
+   - Case-based undergraduate operations research course implementation  
+   - Integrative statistical process control exercises (Manufacturing Squares)  
+
+9. Evaluation and Continuous Improvement of Risk Processes 
+   - Post-event review and root cause analysis  
+   - KPIs for risk performance  
+   - Iterative refinement of risk management plans  
+
+10. Interdisciplinary Risk Management in Engineering Systems  
+   - Cross-functional risk coordination (design, operations, logistics)  
+   - Integration with quality management and supply chain resilience  
+   - Synergies between risk management and lean manufacturing principles  
+   - Application of risk-informed design in intelligent and sustainable engineering systems  

@@ -1,0 +1,51 @@
+1. Fundamentals of Casting and Molding  
+   - Definition and classification of casting vs. molding  
+   - Historical evolution and industrial significance  
+   - Material compatibility with casting/molding processes  
+   - Basic principles of fluid dynamics in molten metal flow
+
+2. Types of Casting Processes  (20%)
+   - Sand casting (green, dry, vibratory)  
+   - Die casting (hot, cold)  
+   - Investment casting (lost wax)  
+   - Centrifugal casting  
+   - Continuous casting  
+   - Comparative analysis of process efficiency, cost, and application
+
+3. Types of Molding Processes  (20%)
+   - Compression molding  
+   - Injection molding  
+   - Transfer molding  
+   - Blow molding  
+   - Thermoforming  
+   - Process selection based on material and part geometry
+
+4. Mold Design and Tooling  (20%)
+   - Mold cavity design and draft angles  
+   - Core design and support structures  
+   - Material selection for molds (steel, aluminum, ceramics)  
+   - Tooling lifecycle and maintenance
+
+5. Material Behavior in Casting and Molding  
+   - Solidification behavior and shrinkage  
+   - Thermal expansion and contraction  
+   - Microstructure development and defects (porosity, shrinkage, hot tearing)  
+   - Effect of alloy composition on solidification
+
+6. Defect Analysis and Quality Control  
+   - Common defects and root cause analysis  
+   - Non-destructive testing (NDT) methods (ultrasonic, X-ray)  
+   - Statistical process control (SPC) in casting
+
+7. Simulation and Visualization Tools  
+   - Use of CAE software (ANSYS, SolidWorks) for flow and solidification modeling  
+   - Virtual prototyping and process simulation
+
+8. Sustainable and Green Manufacturing Practices  
+   - Energy efficiency in casting/molding  
+   - Waste reduction and recyclability  
+   - Environmental impact assessment
+
+9. Industry 4.0 Integration  
+   - IoT sensors in monitoring casting processes  
+   - Real-time data acquisition and feedback loops

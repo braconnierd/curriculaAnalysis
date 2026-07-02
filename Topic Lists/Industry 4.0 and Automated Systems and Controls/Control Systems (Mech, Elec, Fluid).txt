@@ -1,0 +1,75 @@
+1. Mathematical Modeling of Dynamic Systems (15%)
+   - First-order and second-order linear differential equations
+   - Transfer functions and Laplace transforms
+   - Modeling of mechanical systems using Newton’s laws, mass-spring-damper systems
+   - Modeling of electrical systems using Ohm’s law and Kirchhoff’s laws, RLC circuits
+   - Modeling of fluid systems using Bernoulli’s equation and conservation of mass, fluid flow in pipes and tanks
+   - Derivation of system equations from physical laws and constitutive relations
+   - Linearization of nonlinear systems around operating points
+
+2. Time Domain Analysis (15%)
+   - Step, ramp, and impulse responses of first- and second-order systems
+   - Time response characteristics: rise time, settling time, overshoot, and steady-state error
+   - Stability analysis for addressing chattering
+   - Stability analysis using root locus method, construction of root locus plots
+   - Effect of damping ratio and natural frequency on time response
+   - Analysis of transient and steady-state behavior in mechanical, electrical, and fluid systems
+
+3. Frequency Domain Analysis (15%)
+   - Frequency response of first- and second-order systems, magnitude and phase
+   - Bode plots: magnitude and phase plots, asymptotic approximations, gain and phase crossover frequencies
+   - Nyquist plots: construction, stability via encirclement of critical point, Nyquist stability criterion
+   - Root locus in frequency domain context, relationship to frequency response
+   - Gain and phase margins: definition, computation, and interpretation for stability
+   - Use of frequency response for system performance evaluation and controller design
+
+4. Feedback Control Systems (15%)
+   - Open-loop vs. closed-loop systems: advantages, limitations, and applications
+   - Feedback principles: negative feedback, error signal generation, feedback path
+   - Block diagram representation of feedback systems
+   - Closed-loop transfer function derivation
+   - Performance metrics in closed-loop systems: steady-state error, sensitivity, robustness
+   - Design of PID controllers: proportional (P), integral (I), and derivative (D) terms
+   - Tuning methods for PID controllers: Ziegler-Nichols, Cohen-Coon, and trial-and-error
+   - Effect of each PID term on system response: overshoot, stability, steady-state error
+
+5. System Identification and Parameter Estimation
+   - Experimental data collection: sensor calibration, actuator response, noise considerations
+   - Use of sensors and actuators in real-world physical systems, temperature, pressure, position, velocity
+   - Model fitting techniques: parametric and non-parametric models
+   - Parameter estimation methods: least squares estimation, maximum likelihood estimation
+   - Validation of identified models: residual analysis, model accuracy, generalization
+   - Application of system identification in adaptive control and real-time monitoring
+
+6. Digital Control Systems
+   - Discrete-time systems: difference equations and sampling process
+   - Sampling theory: Nyquist rate, aliasing, hold circuits, zero-order and first-order
+   - Z-transform: definition, properties, and application to discrete-time system analysis
+   - Digital representation of continuous-time systems via sampling
+   - Digital PID controller design and implementation
+   - Implementation of digital controllers in embedded systems and IoT platforms
+   - Real-time execution and timing considerations in digital control loops
+
+7. Cyber-Physical Systems
+   - Interactions between physical processes and digital control loops
+   - Real-time data processing: latency, bandwidth, and system responsiveness
+   - Integration of digital control with physical hardware in production environments
+   - Fault detection mechanisms: anomaly detection, threshold-based monitoring
+   - Adaptive control strategies in dynamic environments
+   - Role of cyber-physical systems in smart manufacturing and industrial automation
+
+8. Applications in Smart Manufacturing
+   - Control of robotic arms: position, velocity, and trajectory control
+   - Control of fluid flow in pipelines: pressure regulation, flow rate control
+   - Control of electrical circuits: voltage, current, and power regulation
+   - Integration with IoT sensors and real-time monitoring platforms
+   - Case studies: temperature control in industrial processes, pressure regulation in fluid systems, motion control in automated systems
+   - Implementation of control logic in embedded systems and PLCs
+
+9. Design and Implementation Projects
+   - Hands-on design of a control system for a mechanical, electrical, or fluid system
+   - Use of simulation tools MATLAB/Simulink and LabVIEW for modeling, simulation, and controller design
+   - Development of a complete control system from problem definition to implementation
+   - Prototype testing: physical setup, data acquisition, performance evaluation
+   - Performance metrics: accuracy, response time, robustness, and stability
+   - Documentation and presentation of results including error analysis and improvement strategies

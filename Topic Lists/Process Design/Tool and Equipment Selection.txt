@@ -1,0 +1,40 @@
+1. Tool and Equipment Selection Fundamentals (20%) 
+   - Definition and scope of tool/equipment selection  
+   - Role in manufacturing process efficiency  
+   - Decision-making frameworks (cost-benefit, lifecycle, performance)  
+   - Key performance indicators (KPIs) for tool selection  
+
+2. Material Properties and Tool Compatibility  (20%)
+   - Mechanical properties (strength, hardness, ductility)  
+   - Thermal and wear behavior of materials  
+   - Matching tool materials to workpiece materials  
+   - Effect of material microstructure on tool life  
+
+3. Process Requirements and Tool Functionality (20%) 
+   - Cutting, forming, joining, and assembly processes  
+   - Tool geometry and its impact on process outcomes  
+   - Tool stiffness, alignment, and vibration control  
+   - Tool integration with process flow  
+
+4. Sustainability and Environmental Impact  
+   - Tool lifecycle analysis (acquisition, use, disposal)  
+   - Energy consumption and emissions during operation  
+   - Reusability, recyclability, and material sourcing  
+   - Alignment with Industry 4.0 and Industry 5.0 sustainability goals  
+
+5. Human Factors and Ergonomics  
+   - Operator interaction with tools  
+   - Safety and risk assessment in tool use  
+   - Training needs and skill development  
+   - Cognitive load and decision support  
+
+7. Cost, Maintenance, and Availability  
+   - Capital and operational cost analysis  
+   - Maintenance schedules and failure rates  
+   - Tool availability and supply chain considerations  
+   - Total cost of ownership (TCO) modeling  
+
+9. Evaluation and Feedback Loops  
+   - Performance metrics post-deployment  
+   - Data collection and analysis for improvement  
+   - Iterative refinement of selection models

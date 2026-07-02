@@ -1,0 +1,54 @@
+1. Materials Science in Ceramics (15%)
+   - Ceramic composition and phase diagrams  
+   - Silica, alumina, and oxide chemistry  
+   - Microstructure-property relationships  
+   - Thermal expansion and brittleness  
+   - Porosity and density measurement  
+   - Environmental degradation and stability  
+
+2. Ceramic Processing Techniques (15%)
+   - Powder production (dry/wet milling, sieving)  
+   - Pelletizing and shaping (pressing, extrusion, slip casting)  
+   - Green body handling and defects  
+   - Drying and shrinkage control  
+   - Firing cycles (sintering, reduction, oxidation)  
+   - Temperature profiles and thermal gradients  
+
+3. Sintering and Density Optimization (15%)
+   - Diffusion mechanisms in ceramics  
+   - Sintering kinetics and activation energy  
+   - Porosity reduction and grain growth  
+   - Microstructural evolution during firing  
+
+4. Ceramic Design and Form Development (15%)
+   - Functional design (structural, aesthetic, thermal)  
+   - Design for manufacturability (DFM)  
+   - Tooling and mold design  
+   - Surface finishing and texture  
+
+5. Quality Control and Testing  
+   - Mechanical testing (compressive strength, flexural strength)  
+   - Dimensional accuracy and tolerancing  
+   - Failure analysis and fracture mechanics  
+   - Non-destructive testing (X-ray, ultrasonic)  
+
+6. Sustainable and Green Ceramics 
+   - Energy efficiency in firing  
+   - Waste reduction and recycling  
+   - Low-impact raw materials  
+   - Life cycle assessment (LCA)  
+
+7. Digital Tools and Simulation**  
+   - CAD modeling of ceramic parts  
+   - CAE simulation of sintering and stress  
+   - Digital twin applications in ceramic processing  
+
+8. Hands-on Laboratory and Failure Analysis  
+   - Lab safety and equipment operation  
+   - Experimental design and iterative prototyping  
+   - Failure investigation and root cause analysis  
+
+9. Industry Integration and Case Studies  
+   - Real-world applications (tiles, bioceramics, aerospace)  
+   - Industry 4.0 integration (IoT, sensors in kilns)  
+   - Academic-industry collaboration models 

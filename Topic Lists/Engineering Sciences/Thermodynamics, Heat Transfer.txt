@@ -1,0 +1,52 @@
+1. Fundamental Laws of Thermodynamics (20%)  
+   - First Law (Energy Conservation)  
+   - Second Law (Entropy and Irreversibility)  
+   - Third Law (Absolute Zero)  
+   - Applications in closed and open systems  
+   - Thermodynamic cycles (Carnot, Rankine, Brayton)  
+   - Work and heat transfer in real systems  
+
+2. Properties of Pure Substances and Phase Equilibrium (20%)   
+   - P-v, T-v, T-s diagrams  
+   - Saturation and superheated states  
+   - Phase change processes (vaporization, condensation)  
+   - Thermodynamic tables and property interpolation  
+
+3. Heat Transfer Mechanisms (20%) 
+   - Conduction (Fourier’s Law, 1D steady-state)  
+   - Convection (Natural and Forced, Nusselt number)  
+   - Radiation (Stefan-Boltzmann Law, emissivity)  
+   - Dimensional analysis (Biot, Nusselt, Rayleigh numbers)  
+
+4. Transient Heat Conduction  
+   - One-dimensional transient problems  
+   - Heisler charts and analytical solutions  
+   - Boundary layer effects  
+
+5. Heat Exchangers and Fluid Flow  
+   - Types (shell-and-tube, plate, cross-flow)  
+   - Log mean temperature difference (LMTD)  
+   - Effectiveness-NTU method  
+   - Fouling and pressure drop  
+
+6. Thermodynamic Analysis of Engineering Systems  
+   - Power cycles (gas turbines, steam cycles)  
+   - Refrigeration cycles (Vapor Compression)  
+   - Real-world efficiency comparisons  
+
+7. Integration with Manufacturing Processes 
+   - Thermal management in additive manufacturing  
+   - Heat transfer in forming and joining processes  
+   - Design for thermal performance  
+
+8. Computational Tools and Simulation  
+   - Use of CFD and thermodynamic software (ANSYS, MATLAB)  
+   - Validation of simulation results  
+
+9. Critical Thinking and Problem Solving in Thermodynamics  
+   - Case-based analysis of real-world systems  
+   - Error identification and root cause analysis  
+
+10. Sustainability and Green Design Applications 
+   - Energy efficiency in systems  
+   - Life cycle analysis (LCA) basics

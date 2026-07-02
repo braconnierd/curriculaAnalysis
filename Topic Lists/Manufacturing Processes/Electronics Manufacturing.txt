@@ -1,0 +1,34 @@
+1. Foundations of Electronics Manufacturing  (20%)
+   - History and evolution of electronics manufacturing  
+   - Key milestones in semiconductor and circuit development  
+   - Role of miniaturization and integration  
+   - Materials science in electronics (metals, semiconductors, insulators)  
+
+2. Design for Manufacturing (DFM) in Electronics  
+   - DFM principles for PCBs and components  
+   - Tolerancing, assembly constraints, and manufacturability  
+   - Design for testability and repairability  
+
+3. Electronics Assembly Processes  (20%)
+   - Soldering techniques (wave, reflow, hand)  
+   - Surface mount technology (SMT) and through-hole assembly  
+   - Automated assembly lines and pick-and-place machines  
+   - Quality control in assembly (visual, X-ray, AOI)  
+
+4. Circuit and System Integration  (20%)
+   - PCB design and layout (tools: Altium, KiCad, Eagle)  
+   - Signal integrity and power distribution  
+   - Interconnectivity and thermal management  
+
+5. Additive Manufacturing in Electronics  
+   - 3D printing of conductive materials and circuitry  
+   - Applications in prototyping and custom components  
+   - Material limitations and reliability  
+
+6. Quality Assurance and Failure Analysis  
+   - Defect identification (shorts, opens, delamination)  
+   - Root cause analysis and failure mode modeling  
+
+7. Sustainable and Green Manufacturing Practices  
+   - E-waste reduction, energy efficiency, and lifecycle analysis  
+   - Green design principles in electronics  

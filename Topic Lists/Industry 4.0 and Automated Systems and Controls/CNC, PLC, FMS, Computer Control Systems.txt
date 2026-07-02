@@ -1,0 +1,49 @@
+1. Fundamentals of CNC (Computer Numerical Control) (20%)
+   - Coordinate systems and tool paths  
+   - G-code and M-code syntax and structure  
+   - Tool selection, tool wear, and tool life  
+   - CNC machine types (lathes, mills, routers)  
+   - Machine setup, calibration, and diagnostics  
+   - Error sources and compensation (thermal, mechanical)  
+
+2. PLC Programming and Logic (20%)
+   - Ladder logic fundamentals  
+   - Boolean algebra and logic gates  
+   - Input/output (I/O) configuration and addressing  
+   - Sequential function charts (SFC)  
+   - Real-time control and timing functions  
+   - Fault detection and alarm handling  
+
+3. FMS (Flexible Manufacturing Systems) Architecture (20%) 
+   - System components: conveyors, robots, workstations  
+   - Communication protocols (Modbus, EtherNet/IP)  
+   - Scheduling and job routing algorithms  
+   - System integration and interoperability  
+   - Scalability and modular design  
+
+4. Computer Control Systems in Manufacturing  
+   - Real-time operating systems (RTOS)  
+   - Feedback control loops (PID control)  
+   - Sensor integration and signal conditioning  
+   - Human-machine interface (HMI) design  
+   - System stability and response time  
+
+5. IoT Integration in Smart Manufacturing  
+   - Edge computing in production environments  
+   - Data acquisition and telemetry  
+   - Cloud-based monitoring and analytics  
+   - Predictive maintenance using sensor data  
+   - Cybersecurity in IoT-enabled systems  
+
+6. Cyber-Physical Systems (CPS) and Interoperability  
+   - CPS architecture: physical components and digital control 
+   - Data storage and standardization of data architectures 
+   - Data flow and synchronization between CNC, PLC, and FMS  
+   - Standardization (ISO 13849, IEC 61508)  
+   - Fault tolerance and system resilience  
+
+7. Case Studies in Learning Factory Implementation  
+   - End-to-end operation of a scalable learning factory  
+   - Role of interdisciplinary teams in system design  
+   - Hands-on integration of CNC, PLC, and FMS  
+   - Evaluation of performance metrics (cycle time, throughput)

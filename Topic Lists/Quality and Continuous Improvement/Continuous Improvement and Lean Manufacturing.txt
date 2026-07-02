@@ -1,0 +1,58 @@
+1. Core Principles of Continuous Improvement (CI)
+   - Definition and history of CI  
+   - PDCA (Plan-Do-Check-Act) cycle  
+   - Kaizen philosophy and implementation  
+   - Root cause analysis (5 Whys, Fishbone)  
+   - Change management in CI  
+
+2. Lean Manufacturing Foundations  
+   - Value stream mapping (VSM)  
+   - Waste identification (Muda, Muri, Muri)  
+   - Flow and pull systems  
+   - Just-in-Time (JIT) production  
+   - Standardized work and work cells  
+
+3. Statistical Process Control (SPC)  
+   - X-bar and R charts  
+   - Process capability (Cp, Cpk)  
+   - Control limits and process stability  
+   - Sampling plans (AQL, sampling size)  
+   - Measurement system analysis (MSA)  
+
+4. Problem-Solving and Root Cause Analysis  
+   - Failure mode and effects analysis (FMEA)  
+   - Pareto analysis  
+   - Cause-and-effect diagrams (Fishbone)  
+   - Data collection and validation  
+
+5. Implementation of Lean Tools in Manufacturing  
+   - 5S methodology (Sort, Set in order, Shine, Standardize, Sustain)  
+   - Value stream mapping (VSM) in real-world settings  
+   - Kaizen events and rapid improvement cycles  
+   - Visual management and signage  
+
+6. Process Design and Optimization  
+   - Design of experiments (DOE) basics  
+   - Process flow diagrams (PFDs)  
+   - Layout optimization and ergonomics  
+   - Tooling and jigs (function, design, use)  
+
+7. Data-Driven Decision Making  
+   - Data collection protocols  
+   - Excel-based SPC templates  
+   - Interpretation of control charts  
+   - Process capability analysis  
+
+8. Integration of CI and Lean in Engineering Education  
+   - Hands-on experiments (Manufacturing Squares)  
+   - Game-based learning in process control  
+   - Interdisciplinary application of CI tools  
+
+9. Evaluation and Feedback Loops  
+   - Performance metrics (OEE, cycle time)  
+   - Team-based reflection and reporting  
+   - Final process improvement recommendations  
+
+10. Ethical and Sustainable Practices in CI  
+   - Environmental impact of waste reduction  
+   - Safety and quality in improvement cycles  

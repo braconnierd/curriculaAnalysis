@@ -1,0 +1,79 @@
+1. Introduction to Machine Design (15%)  
+   - Definition and scope of machine design  
+   - Historical evolution and industrial relevance  
+   - Role in product lifecycle and manufacturing systems  
+
+2. Mechanical Elements and Components (15%)  
+   - Bearings: types (ball, roller, journal), load capacity, lubrication, failure modes  
+   - Gears: types (spur, helical, bevel, worm), gear ratios, tooth strength, backlash  
+   - Shafts: design considerations, torsional and bending stresses, support configurations  
+   - Couplings: types (rigid, flexible, universal), misalignment tolerance, failure modes  
+   - Stress analysis of common components: axial, bending, torsional loading  
+   - Failure modes and fatigue considerations: pitting, wear, fracture, stress concentration  
+
+3. Statics and Dynamics of Machines (15%)  
+   - Force and moment equilibrium: free-body diagrams, reaction forces, statics principles  
+   - Kinematics of linkages and mechanisms: degrees of freedom, linkages (four-bar, slider-crank), motion analysis  
+   - Dynamic loading: inertial forces, accelerations in moving parts  
+   - Vibration analysis: natural frequencies, damping, resonance, isolation techniques  
+   - Dynamic stress and strain in rotating and reciprocating components  
+
+4. Material Selection and Properties  
+   - Mechanical properties: tensile strength, yield strength, ductility, hardness, toughness  
+   - Material behavior under various conditions: temperature, humidity, cyclic loading  
+   - Selection criteria for applications: load type, environment, cost, service life  
+   - Impact of material processing on performance: heat treatment, forging, casting, extrusion  
+   - Common engineering materials: steels (carbon, alloy), aluminum alloys, polymers, composites  
+
+5. Stress and Strain Analysis (15%) 
+   - Tensile, compressive, and shear stress: definitions, units, stress distribution  
+   - Hooke’s law and linear elastic behavior: stress-strain relationship, modulus of elasticity  
+   - Strain: axial, lateral, shear strain, strain gauges and measurement  
+   - Mohr’s circle: construction, use in determining principal stresses and maximum shear stress  
+   - Principal stresses and stress transformation: plane stress, 3D stress states  
+   - Stress concentration factors: notches, fillets, abrupt changes in geometry  
+
+6. Failure Theories and Design Safety  
+   - Von Mises failure theory: yield condition for ductile materials  
+   - Tresca failure theory: maximum shear stress criterion for ductile materials  
+   - Comparison of failure theories: applicability, accuracy in different material types  
+   - Factor of safety: definition, determination, application in design margins  
+   - Design safety in variable loading: conservative vs. optimized approaches  
+   - Fatigue and creep in long-term operation: S-N curves, endurance limit, stress cycles, creep strain over time  
+
+7. Manufacturing Processes and Tooling   
+   - Machining: turning, milling, drilling, grinding, precision requirements  
+   - Casting: sand casting, die casting, solidification, shrinkage defects  
+   - Forming: forging, extrusion, rolling, sheet metal forming  
+   - Joining: welding, brazing, soldering, adhesive bonding  
+   - Tool wear: mechanisms (adhesion, diffusion, abrasion), tool life prediction  
+   - Tool selection: material, geometry, coating, application-specific choices  
+   - Process limits: tolerances, surface finish, dimensional deviations  
+   - Tolerancing and dimensional accuracy: ISO standards, GD&T (Geometric Dimensioning and Tolerancing), fit and clearance  
+
+8. Machine Motion
+   - Motors
+   - Controllers
+
+9. CAD/CAM and Simulation Tools  
+   - 3D modeling and part generation: parametric modeling, sketching, feature creation  
+   - CAE for stress and thermal analysis: finite element analysis (FEA), thermal simulation, meshing, result interpretation  
+   - CAM for toolpath and machining simulation: toolpath generation, cutting parameters, simulation of tool motion  
+   - Integration of CAD-CAM-CAE in design workflow: seamless transition from concept to manufacturing  
+   - Use of simulation to validate design performance under load and thermal conditions  
+
+10. Product Lifecycle and Manufacturing Integration  
+   - Design for manufacturability (DFM): minimizing complexity, reducing processing steps, optimizing material use  
+   - Design for assembly (DFA): modularity, alignment, accessibility, ease of disassembly  
+   - Integration with production systems: compatibility with automation, robotics, assembly lines  
+   - Lifecycle cost considerations: design-to-cost, maintenance, repairability  
+   - Sustainability and environmental impact: recyclability, energy efficiency, material choices  
+
+11. Case Studies in Machine Design  
+   - Real-world applications: fiber extrusion systems, mini-mill systems  
+   - Design challenges in fiber extrusion: material flow, temperature control, pressure management  
+   - Design iterations: problem identification, prototype development, testing, refinement  
+   - Problem-solving through design cycles: iterative design, failure analysis, feedback loops  
+   - Application of core principles: integration of materials, mechanics, manufacturing, and safety in real systems  
+   - Evaluation of design outcomes: performance metrics, cost, manufacturability, reliability  
+

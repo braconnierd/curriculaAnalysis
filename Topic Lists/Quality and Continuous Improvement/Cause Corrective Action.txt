@@ -1,0 +1,45 @@
+1. Root Cause Analysis (RCA)  
+   - Define root cause vs. symptom  
+   - Apply 5 Whys, Fishbone (Ishikawa), Fault Tree Analysis  
+   - Identify data sources for RCA in manufacturing settings  
+   - Case study: RCA in a paper square cutting defect 
+
+2. Variation Classification (Random vs. Non-Random)  
+   - Identify sources: equipment, operator, material, environment  
+   - Use control charts to distinguish variation types 
+
+3. Measurement Systems & Data Collection  
+   - Select appropriate tools (rulers, protractors, jigs)  
+   - Standardize measurement protocols (top-side orientation, edge alignment)  
+   - Minimize measurement error  
+
+4. Process Capability Assessment  
+   - Compute Cpk, Ppk using X-bar and R charts  
+   - Interpret capability indices  
+   - Use control charts to detect non-random variation 
+
+5. Evaluation of Process Stability & Capability  
+   - Assess stability via control chart patterns   
+   - Evaluate capability against specifications  
+
+6. Corrective Action Design & Implementation  
+   - Develop action plans with SMART criteria  
+   - Sequence of action: Identify → Plan → Execute → Verify  
+   - Tools: PDCA cycle, Control Plans, Corrective Action Logs  
+   - Validate action effectiveness through repeat testing  
+
+7. Hands-On Experimental Design  
+   - Design trial runs with sample size   
+   - Use Excel templates to generate real-time control charts  
+
+8. Team Roles & Responsibilities in Problem Solving  
+   - Assign roles: planner, executor, verifier, recorder  
+   - Ensure accountability in production and testing   
+
+9. Feedback Loops & Continuous Improvement  
+   - Establish feedback mechanisms post-action  
+   - Integrate lessons into process design 
+
+10. Quality Management Frameworks 
+   - Apply QFD (Quality Function Deployment) to design processes  
+   - Map customer requirements to process outputs 

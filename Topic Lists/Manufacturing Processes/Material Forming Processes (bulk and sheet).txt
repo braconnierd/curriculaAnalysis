@@ -1,0 +1,50 @@
+1. Fundamentals of Material Forming (20%)
+   - Deformation mechanisms (plasticity, strain hardening)  
+   - Stress-strain relationships  
+   - Flow curves and yield criteria  
+   - Material behavior under load (ductility, brittleness)  
+
+2. Bulk Forming Processes (20%)
+   - Rolling (hot, cold, continuous)  
+   - Extrusion (forward, backward, hydrostatic)  
+   - Forging (open-die, closed-die, impression die)  
+   - Press working (bending, pressing)  
+   - Process parameters and tool design  
+
+3. Sheet Metal Forming Processes (20%)
+   - Rolling (sheet production)  
+   - Drawing (deep drawing, progressive)  
+   - Bending (press bending, roll bending)  
+   - Blanking and punching  
+   - Formability limits and springback  
+
+4. Process Selection and Optimization  
+   - Criteria for process selection (cost, efficiency, material, geometry)  
+   - Trade-offs between process types  
+   - Decision models (process selection model)  
+
+5. Design for Manufacturing (DFM)  
+   - Geometric considerations (draft angles, wall thickness)  
+   - Tolerancing and dimensional accuracy  
+   - Material selection for forming  
+
+6. Simulation and Visualization Tools  
+   - Finite element analysis (FEA) of forming processes  
+   - Real-time process visualization  
+   - Use of software (DEFORM, ANSYS)  
+
+7. Failure Analysis and Mitigation  
+   - Crack propagation, necking, void formation  
+   - Root cause analysis in forming defects  
+   - Quality control and inspection techniques  
+
+8. Sustainable and Green Manufacturing  
+   - Energy efficiency in forming  
+   - Waste reduction strategies  
+   - Lifecycle assessment of materials  
+
+9. Additive Manufacturing in Forming Contexts  
+   - Layer-by-layer material deposition  
+   - Sintering and fusion processes  
+   - Post-processing for mechanical integrity  
+   - Integration with traditional forming  

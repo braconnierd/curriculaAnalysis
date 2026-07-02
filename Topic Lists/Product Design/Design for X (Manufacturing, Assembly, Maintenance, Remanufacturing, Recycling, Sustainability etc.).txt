@@ -1,0 +1,57 @@
+1. Design for Manufacturing (DFM) (30%)
+   - Feature identification and simplification  
+   - Material selection for manufacturability  
+   - Tolerancing and geometric dimensioning (GD&T)  
+   - Surface finish and machining considerations  
+   - Tooling and fixture compatibility  
+   - Process flow integration (CNC, injection molding)  
+
+2. Design for Assembly (DFA) (30%)
+   - Modularity and standardization  
+   - Interchangeability and alignment  
+   - Minimizing assembly steps and tools  
+   - Accessibility and ergonomics  
+
+3. Design for Maintenance (DFMnt)  
+   - Accessibility of components  
+   - Diagnostic and service points  
+   - Replaceable parts and modular design  
+   - Condition monitoring integration  
+
+4. Design for Remanufacturing (DFR)  
+   - Disassembly design and part identification  
+   - Condition assessment and repairability  
+   - Part standardization and labeling  
+   - Lifecycle data integration  
+
+5. Design for Recycling (DFRc)  
+   - Material recyclability and end-of-life design  
+   - Separability of materials  
+   - Avoidance of hazardous substances  
+   - Packaging and labeling for recovery  
+
+6. Design for Sustainability (DFS)  
+   - Life Cycle Assessment (LCA) integration  
+   - Energy efficiency and emissions  
+   - Circular economy principles  
+   - Environmental impact modeling  
+
+7. Digital Twin and Simulation-Based Design  
+   - Real-time monitoring and feedback  
+   - Virtual prototyping for manufacturing processes  
+   - Digital twin integration in design phases  
+
+8. Experiential and Hands-On Learning  
+   - Learning Factory environments  
+   - CAD/CAE/CAM integration  
+   - CNC and additive manufacturing labs  
+
+9. Industry 4.0 and 5.0 Integration  
+   - IoT and data-driven design  
+   - Human-centric design in smart systems  
+   - Sustainability and digital transformation  
+
+10. Cross-Curricular and Entrepreneurial Design  
+   - Business-technical integration  
+   - New product development (NPD)  
+   - Value creation and innovation

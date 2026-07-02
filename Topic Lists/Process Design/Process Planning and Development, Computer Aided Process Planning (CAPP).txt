@@ -1,0 +1,28 @@
+1. Fundamentals of Process Planning (30%)
+   - Definition and objectives of process planning  
+   - Role of process planning in product lifecycle  
+   - Types of processes: machining, forming, joining, assembly  
+   - Selection criteria for process routes  
+
+2. Process Planning Methodologies (30%)
+   - Traditional vs. modern process planning approaches  
+   - Flowcharting and process mapping techniques  
+   - Decision trees for process selection  
+   - Use of design for manufacturability (DFM) principles  
+
+3. Computer-Aided Process Planning (CAPP) Systems  
+   - Architecture of CAPP systems  
+   - Input data: part geometry, materials, tolerances  
+   - CAPP software modules: route generation, tool selection, operation sequencing  
+   - Integration with CAD and CAM systems  
+   - Case studies of CAPP implementation in real manufacturing   
+
+4. Additive Manufacturing and Design Innovation 
+   - Process planning for 3D printing (layer-by-layer, support structures)  
+   - Design for additive manufacturing (DFAM) principles  
+   - Material selection and print parameters in process planning  
+
+5. Cross-Curricular Integration
+   - Linking process planning with business and economics (cost, lead time)  
+   - Simulation-based learning for real-world manufacturing scenarios  
+   - Interdisciplinary project design (engineering + business)

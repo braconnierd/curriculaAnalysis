@@ -1,0 +1,52 @@
+1. Problem Identification and Framing (20%)
+   - Defining manufacturing problems using real-world scenarios  
+   - Identifying root causes via 5 Whys and Fishbone diagrams  
+   - Translating vague issues into measurable objectives  
+
+2. Data Collection and Measurement Systems (20%) 
+   - Designing measurement protocols for physical dimensions and process variables  
+   - Selecting appropriate tools (rulers, calipers, protractors) and units (mm, degrees)  
+   - Establishing consistent sampling methods (fixed-number, systematic sampling)  
+
+3. Statistical Process Control (SPC)  
+   - Constructing X-bar and R charts using Excel  
+   - Interpreting control limits and detecting out-of-control points  
+   - Distinguishing random vs. non-random variation  
+
+4. Process Design and Flowcharting (20%) 
+   - Developing step-by-step production workflows  
+   - Creating flowcharts with task sequences and work assignments  
+   - Designing jig/fixture integration for repeatability  
+
+5. Quality Management Principles  
+   - Applying ISO 9001 and PDCA cycles  
+   - Defining quality metrics (dimensional accuracy, defect rates)  
+   - Evaluating process capability (Cp, Cpk)  
+
+6. Supply Chain Impact on Financial Outcomes  
+   - Linking process inefficiencies to cost overruns and revenue loss  
+   - Analyzing lead time, inventory, and defect costs  
+
+7. Iterative Improvement and Continuous Quality Enhancement  
+   - Applying Lean principles (5S, Kaizen)  
+   - Designing feedback loops for process refinement  
+
+8. Experiential Learning and Hands-On Simulation  
+   - Using game-based simulations (business games) to model decision-making  
+   - Implementing SAP-based logistics scenarios for real-time feedback  
+
+9. Ethical Decision-Making in Manufacturing  
+   - Assessing trade-offs between cost, quality, and environmental impact  
+   - Evaluating compliance with safety and sustainability standards  
+
+10. Project Management in Manufacturing 
+   - Planning timelines, resource allocation, and risk mitigation  
+   - Applying project management tools (Gantt charts, milestones)  
+
+11. Systematic Innovation and Patent Analysis  
+   - Using patent databases to identify emerging technologies  
+   - Evaluating innovation pathways for future manufacturing  
+
+12. Collaborative Learning and Industry Integration 
+   - Facilitating team-based problem solving with industry partners  
+   - Using learning factories for real-world process exposure

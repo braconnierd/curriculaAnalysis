@@ -1,0 +1,51 @@
+1. Fundamentals of Cyber-Physical Systems (CPS) (20%) 
+   - Definition and evolution of CPS  
+   - Core components: physical systems, cyber components, integration layers  
+   - Architecture of CPS: sensing, actuation, communication, control  
+   - Real-world examples: smart manufacturing, autonomous vehicles, smart grids  
+
+2. Embedded Systems and Real-Time Control (20%) 
+   - Microcontroller architecture and programming (C, C++)  
+   - Real-time operating systems (RTOS)  
+   - Scheduling and timing constraints  
+   - Hardware-software co-design  
+
+3. Internet of Things (IoT) in CPS (20%)  
+   - IoT device communication protocols (MQTT, REST, CoAP, Zigbee)  
+   - Device identification and data transmission  
+   - Edge computing in IoT deployments  
+   - Scalability and network reliability  
+
+4. Cybersecurity in CPS Environments  
+   - Threat modeling for physical-cyber interfaces  
+   - Vulnerability analysis in sensor and actuator networks  
+   - Secure communication protocols (TLS, DTLS)  
+   - Authentication and key management (PKI, mutual authentication)  
+   - Intrusion detection in real-time systems  
+
+5. System Integration and Interoperability  
+   - Standards (OPC UA, MQTT, IEEE 802.15.4)  
+   - Middleware and data exchange formats  
+   - Heterogeneous system integration challenges  
+   - Case studies: smart factory integration  
+
+6. Fault Tolerance and Resilience  
+   - Redundancy design in control loops  
+   - Failure detection and recovery mechanisms  
+   - Safe state transitions in physical systems  
+   - Human-in-the-loop safety considerations  
+
+7. Case Studies in Smart Manufacturing  
+   - Implementation of CPS in production lines  
+   - Role of learning factories in hands-on training  
+   - Interdisciplinary skill development  
+
+8. Human Factors and Operational Safety  
+   - Operator interaction with CPS  
+   - Decision-making under cyber threats  
+   - Training and cognitive load in CPS environments  
+
+9. Future Trends and Emerging Technologies  
+   - AI-driven CPS decision-making  
+   - Digital twins and simulation in CPS  
+   - Cyber-physical security in 5G and edge environments

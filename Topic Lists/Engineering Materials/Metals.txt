@@ -1,0 +1,50 @@
+1. Foundational Science of Metals (20%)
+    - Atomic structure and bonding in metals  
+    - Crystal structures (FCC, BCC, HCP) and their properties  
+    - Defects in metals (dislocations, vacancies, grain boundaries)  
+    - Phase diagrams (binary, ternary) and equilibrium states  
+    - Thermodynamics of phase transformations  
+
+2. Mechanical Behavior of Metals (20%)
+    - Stress-strain relationships and elastic/plastic deformation  
+    - Yield strength, tensile strength, ductility  
+    - Hardening mechanisms (work hardening, strain hardening)  
+    - Fatigue and fracture mechanics  
+    - Creep and stress relaxation under high temperature  
+
+3. Processing and Fabrication Techniques (20%)
+    - Casting (sand, die, investment)  
+    - Rolling, extrusion, forging  
+    - Welding (arc, TIG, MIG) and joining processes  
+    - Heat treatment (annealing, quenching, tempering)  
+    - Surface treatments (galvanizing, coating, nitriding)  
+
+4. Material Selection and Design  
+    - Properties vs. applications (strength, corrosion, cost)  
+    - Selection criteria for structural and functional components  
+    - Life cycle analysis of metal components  
+
+5. Quality Control and Testing  
+    - Non-destructive testing (ultrasonic, X-ray, eddy current)  
+    - Tensile, hardness, impact testing  
+    - Microstructural analysis (optical, SEM)  
+
+6. Sustainability and Environmental Impact  
+    - Recycling of metals and energy efficiency in processing  
+    - Emissions and waste management in metal production  
+    - Lifecycle environmental footprint  
+
+7. Industry Applications and Case Studies  
+    - Real-world examples in automotive, aerospace, construction  
+    - Failure analysis in industrial metal components  
+    - Integration of metals in smart manufacturing systems  
+
+8. Pedagogical Implementation  
+    - Hands-on lab sessions with metal samples and tools  
+    - Video-based instruction for processes (welding, heat treatment)  
+    - Use of simulations and virtual labs for phase diagrams and deformation  
+
+9. Skill Development  
+    - Problem-solving in material selection  
+    - Critical thinking in failure analysis  
+    - Communication of technical findings

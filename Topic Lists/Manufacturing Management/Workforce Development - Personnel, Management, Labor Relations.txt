@@ -1,0 +1,53 @@
+1. Workforce Planning and Analysis  (20%)
+   - Labor market trends and skill gaps  
+   - Workforce forecasting methods (regression, scenario analysis)  
+   - Competency mapping and job role breakdowns  
+   - Organizational needs assessment  
+
+2. Human Resource Management (HRM) in Workplaces  
+   - Recruitment and selection processes  
+   - Onboarding and orientation programs  
+   - Performance appraisal and feedback systems  
+   - Employee retention strategies  
+   - Diversity, equity, and inclusion (DEI) in hiring  
+
+3. Labor Relations and Collective Bargaining (20%)  
+   - Legal foundations of labor law (NLRA, labor contracts)  
+   - Union formation and negotiation processes  
+   - Conflict resolution and mediation techniques  
+   - Workplace communication and grievance procedures  
+
+4. Personnel Development and Training  
+   - Needs assessment for training programs  
+   - Designing and delivering training modules  
+   - Skill development in technical and soft skills  
+   - E-learning and blended learning platforms  
+
+5. Management of Workforce Operations (20%)
+   - Shift scheduling and workload distribution  
+   - Supervisory leadership and team dynamics  
+   - Safety and compliance management  
+   - Workforce motivation and engagement  
+
+6. Ethics and Governance in Workforce Practices  
+   - Ethical decision-making in personnel decisions  
+   - Fair labor practices and anti-discrimination policies  
+   - Accountability and transparency in HR operations  
+
+7. Performance Management and Continuous Improvement  
+   - KPIs and performance metrics  
+   - Feedback loops and improvement cycles (PDCA)  
+   - Quality management integration (ISO 9001)  
+
+8. Technology and Workforce Integration  
+   - Digital tools for HR and labor management  
+   - AI-driven workforce analytics  
+   - Automation and its impact on job roles  
+
+9. Case-Based and Experiential Learning  
+   - Real-world case studies in labor disputes and HR decisions  
+   - Simulation games for labor relations and workforce planning  
+
+10. Policy and Regulatory Compliance  
+   - Compliance with labor laws and regulations  
+   - Risk assessment in workforce operations

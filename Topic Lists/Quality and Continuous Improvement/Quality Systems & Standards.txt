@@ -1,0 +1,49 @@
+1. Foundations of Quality Systems  
+   - Definition and evolution of quality systems  
+   - Core principles of quality (customer focus, leadership, engagement, decision-making, involvement)  
+   - Historical development of quality: Shewhart, Deming, Juran, Crosby, Taylor, and modern evolution  
+   - Quality vs. conformance: distinction between quality as a state of excellence and conformance to specifications  
+
+2. Quality Standards and Frameworks  
+   - ISO 9001: core structure (context, leadership, planning, support, operation, performance evaluation, improvement), clause-by-clause breakdown, and implementation roadmap  
+   - ISO 13485: applicability to medical devices, specific requirements for design, production, and quality management in healthcare environments  
+   - ISO 14001: environmental management systems and integration with quality systems  
+   - Application of quality standards in engineering design and manufacturing: from concept to production, including documentation, traceability, and compliance  
+
+3. Statistical Process Control (SPC)  
+   - X-bar and R charts: data collection, construction, interpretation, and use in monitoring process stability  
+   - Control limits calculation: upper control limit (UCL) and lower control limit (LCL) derivation using sample means and ranges  
+   - Process capability indices: Cp (potential capability), Cpk (actual capability), interpretation of values, and process performance assessment  
+   - Types of variation: common cause vs. special cause variation, identification, and response strategies  
+   - Real-time monitoring applications: use of SPC in manufacturing environments ("Manufacturing Squares" exercise) to demonstrate process control and decision-making  
+
+4. Design for Quality (DFQ) and Quality Function Deployment (QFD)  
+   - QFD principles: the House of Quality, customer requirement translation, and prioritization of features  
+   - Integration of QFD with product and process design: from concept to design specifications  
+   - Use of AI tools (ChatGPT) in QFD for engineering design: automation of customer requirement mapping, feature prioritization, and design feedback  
+   - DFQ principles: minimizing defects through design, cost, and process integration  
+
+5. Lean Manufacturing and Continuous Improvement  
+   - Lean principles: value stream mapping, identification and elimination of waste (Muda, Muri, Muri), flow optimization  
+   - PDCA cycle (Plan-Do-Check-Act) as a structured learning and improvement framework  
+   - Role of Problem-Based Learning (PBL) in lean education: fostering critical thinking, real-world problem solving, and team-based decision making   
+   - Vertical integration of quality concepts across engineering curricula: alignment of quality principles in design, manufacturing, and operations courses
+
+6. Quality Tools and Techniques  
+   - Flowcharts: purpose, construction, and use in process mapping and analysis  
+   - Check sheets: data collection tools for defect tracking and process monitoring  
+   - Pareto analysis: identifying the most significant issues using the 80/20 rule and prioritization  
+   - Root cause analysis: 5 Whys technique, Fishbone (Ishikawa) diagram, and application in failure investigation  
+   - Failure Mode and Effects Analysis (FMEA): structure (failure mode, severity, occurrence, detection), risk priority number (RPN), and implementation in design and process stages  
+
+7. Quality in Engineering Education and Professional Practice  
+   - Competency development in engineering graduates: expected competencies in quality, problem solving, and decision making 
+   - Role of hands-on activities ("Manufacturing Squares") in skill acquisition: experiential learning, process understanding, and real-world application  
+   - Gamification in teaching SPC: use of game-based learning to enhance engagement, retention, and performance  
+   - Integration of quality education into mechanical engineering curricula: context of Mechanics 4.0 and digital transformation
+
+8. Implementation and Evaluation of Quality Systems  
+   - Process design and validation: ensuring processes meet quality objectives and are robust under variation  
+   - Monitoring and auditing quality systems: internal audits, audit checklists, and compliance verification  
+   - Feedback loops and iterative improvement: mechanisms for collecting data, identifying gaps, and implementing corrective actions  
+   - Evaluation metrics: key performance indicators (KPIs), non-conformance rates, customer satisfaction, and system effectiveness 

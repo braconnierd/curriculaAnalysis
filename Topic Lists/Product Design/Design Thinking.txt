@@ -1,0 +1,49 @@
+1. Design Thinking Foundations 
+   - Origins and evolution of design thinking  
+   - Core principles: empathy, definition, ideation, prototyping, testing  
+   - Historical context in engineering and innovation education  
+
+2. Empathy and User Research (20%) 
+   - Observation techniques and ethnographic methods  
+   - Conducting interviews and user journey mapping  
+   - Identifying pain points and unmet needs  
+
+3. Problem Definition and Framing (20%)
+   - Structured problem statement development  
+   - Using design thinking frameworks
+   - Avoiding assumptions and bias in problem framing  
+
+4. Ideation and Brainstorming (20%)
+   - Techniques: mind mapping, SCAMPER, forced connections  
+   - Constraints and creativity under limitations  
+   - Evaluating idea feasibility and diversity  
+
+5. Prototyping and Rapid Iteration  
+   - Low-fidelity prototyping (paper, 3D printing, LEGO®-based)  
+   - Iterative feedback loops and failure analysis  
+   - Prototyping in real-world contexts (manufacturing environments)  
+
+6. Testing and Validation  
+   - User testing and feedback collection  
+   - Metrics for success and usability  
+   - Validating against sustainability and performance goals  
+
+7. Sustainable Design Integration  
+   - Life Cycle Assessment (LCA) basics and application  
+   - Environmental and social impact evaluation  
+   - Sustainable material and process selection  
+
+8. Implementation and Scalability 
+   - Transition from concept to real-world deployment  
+   - Risk assessment and resource planning  
+   - Industry alignment and scalability models  
+
+9. Case Studies in Design Thinking 
+   - Real-world manufacturing case studies  
+   - Applying design thinking to existing industrial challenges  
+   - Reflection and critique of outcomes  
+
+10. Digital Tools and Environments  
+   - Use of VR, simulation, and digital twins in prototyping  
+   - Gamification and interactive learning (LCA game)  
+   - Digital platforms for collaboration and feedback

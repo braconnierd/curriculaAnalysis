@@ -1,0 +1,43 @@
+1. Environmental Systems and Principles (20%)
+   - Energy flow and material cycles  
+   - Ecosystem services and biodiversity  
+   - Climate systems and feedback loops  
+   - Environmental carrying capacity  
+
+2. Sustainable Design Principles (20%)
+   - Design for sustainability (DfS)  
+   - Life cycle assessment (LCA) methodology  
+   - Cradle-to-cradle design  
+   - Material selection and substitution  
+
+3. Environmental Impact Assessment (EIA) (20%)
+   - EIA process and stakeholder engagement  
+   - Risk assessment in environmental systems  
+   - Predictive modeling of environmental effects  
+
+4. Pollution Prevention and Waste Management  
+   - Zero-waste design principles  
+   - Waste stream analysis and sorting  
+   - Recycling and reuse technologies  
+   - Emission control in manufacturing  
+
+5. Sustainable Manufacturing Processes  
+   - Additive manufacturing (3D printing) environmental footprint  
+   - Energy efficiency in machining and forming  
+   - Water and solvent reduction in processes  
+
+6. Safety in Environmental Operations  
+   - Hazard identification and risk mitigation  
+   - Maintenance safety protocols  
+   - Emergency response planning in industrial settings  
+
+7. Simulation and Modeling for Sustainability  
+   - Dynamic simulation of environmental systems  
+   - Scenario modeling for sustainability outcomes  
+   - Optimization of resource use via simulation  
+
+8. Policy, Regulation, and Compliance  
+   - International environmental treaties (Paris Agreement)  
+   - National environmental regulations  
+   - Compliance frameworks for industrial operations  
+

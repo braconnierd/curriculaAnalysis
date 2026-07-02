@@ -1,0 +1,44 @@
+1. Foundational Materials Science  (30%)
+    - Structure and properties of polymers, metals, and ceramics  
+    - Molecular structure and chain orientation in polymers  
+    - Phase transitions and crystallinity  
+    - Mechanical behavior under load (tensile, compressive, shear)  
+    - Failure mechanisms in traditional and composite materials  
+
+2. Composite Material Design Principles (30%)
+    - Matrix and reinforcement selection (glass, carbon, aramid)  
+    - Fiber alignment and orientation effects  
+    - Interfacial bonding and adhesion mechanisms  
+    - Design for load transfer and stress distribution  
+    - Selection criteria based on application (aerospace, automotive, biomedical)  
+
+3. Manufacturing Processes for Composites  
+    - Hand lay-up and vacuum-assisted resin transfer molding (VARTM)  
+    - Compression molding and injection molding  
+    - Automated fiber placement (AFP) and tape laying  
+    - Process parameters: temperature, pressure, time, resin viscosity  
+    - Quality control and defect detection (voids, delamination)  
+
+4. Mechanical and Environmental Performance  
+    - Strength, stiffness, and durability under dynamic loading  
+    - Fatigue and creep behavior  
+    - Environmental degradation (moisture, UV, temperature)  
+    - Long-term performance in real-world conditions  
+
+5. Testing and Evaluation Methods  
+    - Tensile, compressive, and shear testing  
+    - Impact and fracture testing  
+    - Non-destructive evaluation (NDT): ultrasonic, X-ray, thermography  
+    - Data analysis and failure mode identification  
+
+6. Lifecycle and Sustainability  
+    - Material sourcing and recyclability  
+    - End-of-life considerations and circular design  
+    - Environmental impact of manufacturing and disposal  
+    - Life cycle assessment (LCA) basics  
+
+7. Skill Development and Industry Alignment  
+    - Hands-on lab work with composite materials  
+    - Use of simulation software (ANSYS, Abaqus)  
+    - Problem-solving and design thinking in real-world scenarios  
+    - Integration of video-based tutorials for process visualization  

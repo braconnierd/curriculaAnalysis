@@ -1,0 +1,52 @@
+1. Fundamentals of Metrology  
+   - Definition and scope of metrology  
+   - Units and systems (SI, imperial)  
+   - Traceability and calibration standards  
+   - Measurement uncertainty and error types (systematic, random)  
+   - Accuracy, precision, resolution, repeatability, reproducibility  
+
+2. Instrumentation Principles  
+   - Types of measuring instruments (rulers, calipers, protractors, digital tools)  
+   - Mechanical vs. electronic instruments  
+   - Sensitivity, range, and resolution  
+   - Instrument calibration and verification procedures  
+
+3. Measurement Techniques and Tools  
+   - Linear measurement (length, width, edge alignment)  
+   - Angular measurement (diagonals, angles)  
+   - Surface finish and edge quality assessment  
+   - Use of jigs and templates in alignment and consistency  
+
+4. Error Analysis and Uncertainty Propagation  
+   - Sources of measurement error (tool wear, human error, environmental)  
+   - Error propagation in multi-step measurements  
+   - Mitigation strategies for variation  
+
+5. Statistical Process Control (SPC)  
+   - X-bar and R charts construction and interpretation  
+   - Control limits (UCL, LCL) calculation  
+   - Process stability and capability (Cp, Cpk)  
+   - Detection of random vs. non-random variation  
+   - Use of Excel-based templates for real-time monitoring  
+
+6. Quality Management and Process Design  
+   - Quality standards (ISO 9001, design specifications)  
+   - Specification limits vs. tolerance bands  
+   - Process capability analysis (Cp, Cpk)  
+   - Design of experiments (DoE) for process optimization  
+
+7. Application in Manufacturing Processes  
+   - Hands-on production trials (“Manufacturing Squares”)  
+   - Flowchart design for production and inspection  
+   - Sampling strategies (systematic sampling)  
+   - Iterative improvement via PDCA cycle  
+
+8. Process Improvement and Feedback Loops  
+   - Root cause analysis (5 Whys, fishbone)  
+   - Implementation of corrective actions  
+   - Recommendations for full-scale production  
+
+9. Integration of Quality and Engineering Practice  
+   - Role of quality in engineering design and decision-making  
+   - Professional competency in quality assurance (Venig)  
+   - Vertical integration of quality concepts across engineering courses (Ker)  

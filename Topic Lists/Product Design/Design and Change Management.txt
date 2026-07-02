@@ -1,0 +1,48 @@
+1. Foundations of Design and Change Management (20%)
+   - Definition and evolution of design and change management  
+   - Historical context: from industrial design to systems thinking  
+   - Systems thinking
+   - stakeholder alignment
+   - iterative design  
+   - design thinking frameworks (IDEO)
+   - change management models (Kotter, ADKAR)  
+
+2. Design Thinking and Human-Centered Innovation  (20%)
+   - Empathize, define, ideate, prototype, test cycle  
+   - Application in real-world manufacturing scenarios  
+   - Role of user research and co-creation  
+
+3. Change Management in Manufacturing Systems  
+   - Organizational resistance and mitigation strategies  
+   - Implementation phases: planning, communication, execution, evaluation  
+
+4. Sustainable Design and Lifecycle Thinking  
+   - Life Cycle Assessment (LCA) methodology and tools  
+   - Environmental and social impact analysis  
+   - Integration of sustainability into design decisions  
+
+5. Product Lifecycle Management (PLM) Systems  (20%)
+   - PLM workflow: design, production, service, disposal  
+   - Digital tools and data integration  
+   - Interdisciplinary coordination across design and operations  
+
+6. Technical Design Fundamentals  
+   - Geometric Dimensioning and Tolerancing (GD&T) principles  
+   - GD&T in design-to-manufacturing translation  
+   - Error analysis and tolerance stack-up  
+
+7. Digital Tools and Simulation in Design  
+   - Use of CAD, CAM, and simulation software  
+   - Virtual Reality (VR) and augmented reality in prototyping  
+
+8. Entrepreneurial Design and New Product Development  
+   - From idea to market-ready product  
+   - Risk assessment, validation, and iteration  
+
+9. Evaluation and Feedback Loops  
+   - Metrics for design success and change effectiveness  
+   - Iterative improvement using data and user feedback  
+
+10. Case-Based and Experiential Learning  
+   - Real-world manufacturing case studies  
+   - Learning factories and simulation environments

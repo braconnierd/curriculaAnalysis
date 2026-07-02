@@ -1,0 +1,46 @@
+1. Fundamentals of Process Documentation (15%)
+   - Definition and purpose of process documentation  
+   - Types of process documentation (flowcharts, checklists, SOPs, work instructions)  
+   - Role in product lifecycle and manufacturing systems  
+   - Standards (ISO 9001, ISO 15504, IATF16949) and compliance  
+
+2. Process Flow Modeling and Representation (15%)
+   - Flow diagram creation (value stream mapping, process flow diagrams)  
+   - Activity sequencing and logic (start/end, decision points, loops)  
+   - Use of simulation tools in modeling (AnyLogic, FlexSim)  
+   - Digital twin integration in process documentation  
+
+3. Changeable and Adaptive Process Design (15%)
+   - Granularity and complexity in process design  
+   - Modular process structures and reconfigurability  
+   - Dynamic documentation for evolving processes  
+   - Feedback loops and real-time updates  
+
+4. Sustainable Design and Manufacturing Integration
+   - Environmental impact assessment in process documentation  
+   - Lifecycle analysis (LCA) and documentation requirements  
+   - Sustainable material and energy use tracking  
+   - Embedding circular economy principles in process records  
+
+5. Additive Manufacturing Process Documentation  
+   - 3D printing process parameters and material logs  
+   - Post-processing and quality control documentation  
+   - Digital file management (STL, G-code) and traceability  
+   - Calibration and validation records  
+
+6. Maintenance and Operational Planning (15%)
+   - Maintenance plan development and documentation  
+   - Preventive, predictive, and corrective maintenance records  
+   - Failure mode and effects analysis (FMEA) integration  
+   - Condition monitoring data logging  
+
+7. Digital Tools and Education 4.0 Applications
+   - Use of cloud-based platforms (SAP, Siemens NX)  
+   - Real-time data capture and process monitoring  
+   - Augmented reality (AR) for process visualization  
+   - Interoperability of documentation systems  
+
+8. Evaluation and Validation of Process Documentation
+   - Audit trails and compliance checks  
+   - Peer review and stakeholder validation  
+   - Performance metrics and KPIs tied to documentation

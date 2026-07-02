@@ -1,0 +1,38 @@
+1. Particle Equilibrium and Free-Body Diagrams (15%) 
+   - Types of forces (gravitational, normal, friction, tension)  
+   - Vector resolution and components  
+   - Static equilibrium conditions (ΣF = 0, ΣM = 0)  
+   - Free-body diagram construction and validation  
+
+2. Rigid Body Kinematics (15%) 
+   - Translation, rotation, and general motion  
+   - Angular displacement, velocity, and acceleration  
+   - Rotational kinematics equations  
+   - Relative motion analysis  
+
+3. Rigid Body Dynamics (15%) 
+   - Newton’s second law for rigid bodies  
+   - Moment of inertia and mass moment of inertia  
+   - Rotational kinetic energy  
+   - Work-energy principle  
+   - Impulse and momentum  
+
+4. Planar Motion and Center of Mass  (15%) 
+   - Center of mass and centroid  
+   - Motion of systems of particles  
+   - Moment of inertia of composite bodies  
+
+5. Mechanical Systems and Constraints  
+   - Degrees of freedom and constraint equations  
+   - Idealized mechanical systems (pulleys, gears, linkages)  
+   - Virtual work and Lagrange’s equations (introductory)  
+
+6. Dynamic Analysis of Machines  
+   - Vibration fundamentals (free, damped, forced)  
+   - Natural frequency and damping ratio  
+   - Response to harmonic loads  
+
+7. Design for Manufacturability and Simulation  
+   - CAD/CAE integration in design  
+   - Simulation of static and dynamic loads  
+   - Failure analysis and stress visualization  

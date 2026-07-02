@@ -1,0 +1,57 @@
+1. Fundamentals of Capacity Planning (20%)
+   - Definition and scope of capacity planning  
+   - Key performance indicators (KPIs) in capacity planning  
+   - Relationship between capacity and throughput  
+   - Demand forecasting methods (time series, regression)  
+
+2. Capacity Requirements Planning (CRP) and Master Production Scheduling (MPS) (20%)
+   - CRP process and workflow  
+   - Integration of MPS with capacity constraints  
+   - Workload balancing and resource allocation  
+   - Capacity planning in multi-stage and multi-product environments  
+
+3. Capacity Utilization and Bottleneck Analysis (20%)
+   - Identification of bottleneck operations  
+   - Utilization metrics and efficiency ratios (utilization rate, efficiency index)  
+   - Sensitivity analysis of capacity changes under varying load conditions  
+   - Impact of bottlenecks on overall system throughput and lead time  
+
+4. Simulation-Based Capacity Design  
+   - Introduction to discrete-event simulation  
+   - Modeling manufacturing flows and capacity constraints  
+   - Validation and scenario testing in metal industry contexts  
+   - Use of simulation to evaluate capacity trade-offs under different production scenarios  
+
+5. Sustainable Capacity Planning   
+   - Environmental impact of capacity decisions (resource consumption, waste generation)  
+   - Energy efficiency and emissions in capacity design (power usage per unit output)  
+   - Lifecycle assessment integration (LCA) in capacity planning decisions  
+   - Sustainable capacity optimization under environmental regulations and constraints  
+
+6. Additive Manufacturing and Capacity Flexibility 
+   - Role of 3D printing in dynamic capacity adjustment (on-demand, modular production)  
+   - Design for manufacturability and capacity scalability in additive processes  
+   - Case studies on rapid prototyping and on-demand production in small-batch and custom manufacturing  
+   - Capacity flexibility in response to changing product demand and design iterations  
+
+7. Learning Factory Environment and Capacity Development
+   - Maintenance planning as a capacity management component (preventive and corrective maintenance)   
+   - Real-time monitoring and adaptive capacity response in simulated production environments  
+
+8. Granularity and Complexity in Capacity Design  
+   - Granularity levels in manufacturing systems (machine, workstation, process, facility)  
+   - Complexity modeling of capacity configurations (interdependencies, variability, uncertainty)  
+   - Scalability and adaptability across production scales (from pilot to mass production)  
+   - Trade-offs between granularity and system complexity in capacity design  
+
+9. Capacity Planning in Dynamic and Uncertain Environments 
+   - Resilience and adaptability of capacity plans under external shocks  
+   - Response to demand volatility and supply disruptions (supplier failure, demand spikes)  
+   - Scenario planning and risk mitigation strategies (buffer capacity, diversification)  
+   - Real-time capacity adjustment mechanisms in volatile markets  
+
+10. Evaluation and Validation of Capacity Plans  
+   - Performance benchmarking against KPIs (utilization rate, throughput, cycle time)  
+   - Feedback integration from real-world operations (production data, performance logs)  
+   - Continuous improvement cycles (PDCA, Kaizen) in capacity planning  
+   - Validation of simulation outputs against actual performance metrics and field data

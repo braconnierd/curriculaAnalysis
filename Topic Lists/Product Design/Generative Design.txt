@@ -1,0 +1,42 @@
+1. Generative Design Fundamentals (20%)
+   - Definition and evolution of generative design  
+   - Core principles: optimization, constraints, parameters, and feedback loops  
+   - Comparison with traditional design methods  
+   - Role of algorithms and AI in generative design  
+
+2. Algorithmic Thinking and Programming for Design (20%)
+   - Basic programming in design environments (Grasshopper, MATLAB)  
+   - Parametric modeling and scripting  
+   - Input-output logic in generative systems  
+   - Debugging and iterative refinement  
+
+3. Digital Twin and Simulation in Generative Design 
+   - Real-time simulation of design performance  
+   - Integration of digital twins with generative feedback  
+   - Use of simulation to validate design outputs  
+
+4. Sustainability and Life Cycle Assessment (LCA) Integration (20%) 
+   - Environmental impact assessment in generative design  
+   - Embedding LCA metrics into design parameters  
+   - Optimization for material efficiency and carbon footprint  
+
+5. Geometric Dimensioning and Tolerancing (GD&T) in Generative Outputs  
+   - GD&T as a constraint in generative design  
+   - Validation of generative outputs against tolerancing standards  
+   - Interdisciplinary integration with manufacturing feasibility  
+
+6. Manufacturing Process Integration  
+   - Compatibility of generative outputs with CNC, CAM, and additive manufacturing  
+   - Process feasibility analysis and tooling constraints  
+   - Case studies in real-world manufacturing workflows  
+
+7. Human-Computer Interaction and User-Centered Design  
+   - Designing interfaces for generative design tools  
+   - User feedback loops and iterative design  
+   - Role of gamification in design exploration  
+
+8. Evaluation and Validation of Generative Design Outcomes   
+   - Metrics for performance, durability, and manufacturability  
+   - Comparative analysis with hand-designed alternatives  
+   - Peer review and experiential assessment  
+

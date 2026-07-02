@@ -1,0 +1,75 @@
+1. Cyber-Physical Systems (20%)
+   - Definition and architecture of cyber-physical systems 
+   - Integration of physical and digital components  
+   - Real-time data exchange and feedback loops  
+   - Case study: LVP learning factory implementation  
+
+2. Sensors and Actuators (20%)
+   - Types: mechanical, optical, thermal, pressure, capacitive, inductive, magnetic 
+   - Signal conditioning and noise reduction (amplification, filtering, analog-to-digital conversion)  
+   - Calibration, accuracy, resolution, and repeatability
+      - DAQ specifications (sampling rates)
+      - Resolution (8 bits vs. 12 bits vs. 16 bits)
+   - Environmental effects on sensor performance (temperature, vibration, humidity)  
+   - Actuator types and characteristics (electromechanical, pneumatic, hydraulic, stepper, servo)  
+   - Force, torque, position, velocity, and displacement feedback in actuation
+   - Signal analysis and processing
+   - Multiplexing  
+   - Application in feedback control systems  
+
+3. Embedded Systems and Microcontrollers  (20%)
+   - Architecture of microcontrollers (Arduino, Raspberry Pi, STM32, ESP32)  
+   - Key components: CPU, memory (RAM, ROM, flash), I/O ports, peripherals  
+   - Programming in C/C++ and Python (for basic scripting and interfacing)  
+   - Real-time operating systems (RTOS) basics (task scheduling, interrupts, memory management)  
+   - Hardware-software co-design
+   - Development environments (IDEs, compilers, debuggers)  
+   - Peripheral interface protocols (I2C, SPI, UART, GPIO)  
+
+4. Control Systems  
+   - Classical control theory: PID controllers, tuning  
+   - Feedback loops: open-loop vs. closed-loop systems  
+   - Stability analysis: Routh-Hurwitz criterion, Nyquist stability criterion, Root Locus criterion  
+   - Frequency domain analysis: Bode plots, gain and phase margins
+   - Time domain analysis: Step and impulse responses  
+   - Digital control and sampling theory: sampling theorem, aliasing, hold circuits  
+   - Discrete-time system modeling and Z-transforms  
+
+5. IoT Integration  
+   - Communication protocols: MQTT, HTTP, TCP/IP, CoAP, LoRa, Zigbee, REST 
+   - Protocol comparison: reliability, bandwidth, latency, power consumption  
+   - Edge computing and data processing: local decision-making, data filtering, preprocessing  
+   - Cloud integration: API usage, data storage, retrieval, and access
+   - Fog (edge vs. cloud computing and storage)  
+   - Data visualization tools: dashboards, real-time monitoring, alerting  
+   - Deployment in smart manufacturing environments  
+
+6. Mechatronic System Design  
+   - System modeling and simulation using MATLAB/Simulink, LabVIEW, or similar tools  
+   - Functional decomposition and block diagram design  
+   - Component selection and integration: trade-offs in performance, cost, size, power  
+   - Interfacing sensors, actuators, and controllers  
+   - Fault detection, diagnostics and prognostics: anomaly detection, self-diagnostic routines  
+   - Design process flow: requirement analysis → concept → simulation → prototyping → testing  
+
+7. Smart Manufacturing and Industry 4.0 Applications  
+   - Digital twins and virtual prototyping: real-time simulation of physical systems
+      - Application of digital twins within mechatronics (design)  
+   - Predictive maintenance: condition monitoring, anomaly detection, machine learning models  
+   - Human-machine interaction in production: HMI design, user interfaces, ergonomics  
+   - Integration of mechatronic systems into automated production lines  
+   - Case study: scalable learning factory  
+
+8. Safety, Reliability, and Standards  
+   - Key safety standards: ISO 13849 (safety of machinery), IEC 61508 (functional safety)  
+   - Fail-safe design principles: safe states, emergency shutdown, redundancy  
+   - System redundancy and fault tolerance strategies  
+   - Risk assessment methods: FMEA (Failure Mode and Effects Analysis), HAZOP  
+   - Safety-critical system validation and certification  
+
+9. Project-Based Learning  
+   - Design and implementation of a mechatronic system (autonomous mobile platform, robotic arm, smart sensor node)  
+   - Team-based development: role assignment, collaboration, version control  
+   - Documentation: technical reports, system schematics, code comments, user manuals  
+   - Iterative design and prototyping process  
+   - Presentation and peer review: defense of design, demonstration of functionality, critical evaluation  

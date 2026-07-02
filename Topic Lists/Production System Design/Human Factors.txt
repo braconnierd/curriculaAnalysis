@@ -1,0 +1,55 @@
+1. Human-Centered Design Principles (20%)
+   - Cognitive load and mental models  
+   - User-centered design (UCD) workflows  
+   - Design for usability and accessibility  
+   - Inclusive design and diversity in human performance  
+
+2. Human Performance and Error Analysis  
+   - Error types: slips, lapses, mistakes, violations  
+   - Human reliability and failure modes  
+   - Cognitive and physical limitations under stress  
+   - Decision-making under uncertainty  
+
+3. Ergonomics and Physical Interaction (20%)
+   - Postural stress and musculoskeletal disorders  
+   - Workstation design and reach analysis  
+   - Thermal and environmental comfort  
+   - Fatigue modeling and work-rest cycles  
+
+4. Human-System Interface Design (20%)
+   - Interface clarity and information hierarchy  
+   - Visual and auditory feedback design including AR and VR
+   - Haptic and multimodal feedback  
+   - Interface consistency and learnability  
+
+5. Cognitive Workload and Task Design  
+   - Task decomposition and cognitive load theory  
+   - Workload assessment tools (NASA-TLX)  
+   - Task sequencing and workflow optimization  
+   - Decision support systems and automation boundaries  
+
+6. Safety and Risk Management in Human-System Interaction  
+   - Hazard identification and risk assessment  
+   - Safety-critical interface design  
+   - Emergency response procedures and human factors  
+   - Human error mitigation strategies  
+
+7. Training, Skill Development, and Human Performance Improvement  
+   - Skill acquisition models (skill acquisition curve)  
+   - Feedback loops and performance monitoring  
+   - Simulation-based training environments  
+   - Maintenance and operational training in learning factories  
+
+8. Human Factors in Automation and Cyber-Physical Systems  
+   - Human-automation interaction (HAI)  
+   - Trust and confidence in automated systems 
+   - Ethical and practical considerations (Future of Work)
+   - Data privacy and security in vision systems  
+   - Maintenance, calibration, and system reliability 
+   - Human-in-the-loop (HITL) design principles  
+   - System transparency and explainability   
+
+9. Evaluation and Validation of Human Factors Design  
+   - Usability testing and field trials  
+   - Iterative design and prototyping  
+   - Metrics for human performance and satisfaction

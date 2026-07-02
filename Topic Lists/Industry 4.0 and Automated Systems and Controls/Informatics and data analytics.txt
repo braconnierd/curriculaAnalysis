@@ -1,0 +1,49 @@
+1. Fundamentals of Data and Information (20%)
+   - Definition of data, information, and knowledge
+   - Data types: structured, unstructured, and semi-structured
+   - Data lifecycle: acquisition, storage, processing, and disposal
+
+2. Data Collection and Sensing 
+   - Sensors and sensor networks in industrial environments
+   - Real-time data acquisition from IoT devices
+   - Calibration, accuracy, and noise in sensor data
+
+3. Data Preprocessing and Cleaning (20%)
+   - Handling missing values, outliers, and inconsistencies
+   - Data normalization and transformation
+   - Filtering and aggregation techniques
+
+4. Data Transmission, Storage, and Management (20%)
+   - Relational and NoSQL databases
+   - Communication protocols including JSON and XML
+   - Cloud storage architectures including AWS and Azure
+   - Data warehousing and metadata management
+
+5. Data Analytics Techniques
+   - Descriptive analytics including summary statistics and visualizations
+   - Predictive analytics including regression, classification, and time series
+   - Prescriptive analytics including optimization and decision modeling
+
+6. Machine Learning in Industrial Contexts
+   - Supervised and unsupervised learning
+   - Model training, validation, and deployment
+   - Applications of machine learning in predictive maintenance and quality control
+
+7. Cyber-Physical Systems and IoT Integration
+   - Architecture of cyber-physical systems
+   - Real-time data flow from physical systems to digital platforms
+   - Edge computing and latency considerations
+
+8. Data Visualization and Communication
+   - Tools including Tableau, Power BI, and Python libraries such as Matplotlib and Seaborn
+   - Design principles for effective dashboards
+   - Communicating insights to non-technical stakeholders
+
+9. Ethical and Security Considerations
+   - Data privacy regulations including GDPR and HIPAA
+   - Cybersecurity in industrial data systems
+   - Bias in data and machine learning model outputs
+
+10. Capstone Project: End-to-End Data Analytics in a Smart Manufacturing Environment
+   - Design, implement, and evaluate a data-driven solution using real-world industrial data
+   - Integration of IoT systems, analytics pipelines, and decision-making frameworks

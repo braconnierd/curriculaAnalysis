@@ -1,0 +1,55 @@
+1. Fundamentals of Biomanufacturing  (20%)
+   - Definition, scope, history
+   - Key applications: pharmaceuticals, biomaterials, tissue engineering
+   - Evolution of biomanufacturing from traditional to modern processes  
+   - Regulatory frameworks and compliance standards (FDA, EMA, ISO)  
+
+2. Biological Systems and Biomimicry  (20%)
+   - Cellular structures and functions relevant to biomanufacturing 
+   - Biomimetic design principles: self-assembly, morphogenesis, energy efficiency  
+   - Natural systems as models for process design (bacterial colonies, plant root systems)  
+   - Bio-inspired materials and process architectures  
+
+3. Materials Science for Biomanufacturing  (20%)
+   - Bio-compatible materials: polymers (PLA, PCL, PEG), ceramics (hydroxyapatite), composites (bio-ceramic-polymer blends)
+   - Material selection criteria: biocompatibility, mechanical properties, degradation kinetics, scalability  
+   - Material lifecycle analysis: environmental impact, energy consumption, end-of-life disposal  
+   - Characterization techniques: spectroscopy, microscopy, mechanical testing  
+
+4. Additive Manufacturing in Biological Context  
+   - Stereolithography (SLA) for bioprinting scaffolds
+   - Layer-by-layer deposition of cells, cell-laden hydrogels, or biomolecules  
+   - Bioprinting materials: hydrogels, cell suspensions, bioinks  
+   - Process parameters: print speed, layer thickness, temperature, nozzle design  
+   - Challenges in cell viability, structural integrity, and post-processing  
+
+5. Process Design & Optimization Using Simulation Tools  
+   - Computational fluid dynamics (CFD) for modeling fluid flow in bioreactors and microfluidic systems  
+   - Finite element analysis (FEA) for stress and deformation analysis at micro/nano scales in biological constructs  
+   - Real-time simulation for bioreactor design, mixing efficiency, and mass transfer  
+   - Integration of simulation with process control and feedback loops  
+   - Validation of simulation outputs against experimental data  
+
+6. Sustainable Manufacturing Practices with Green Design Principles  
+   - Life cycle assessment (LCA) of bio-manufactured products 
+   - Environmental impact metrics: carbon footprint, water usage, energy consumption  
+   - Green chemistry principles in biomanufacturing: atom economy, waste minimization, renewable feedstocks  
+   - Circular economy approaches: reuse, recycling, closed-loop systems  
+   - Sustainability trade-offs in material choice and process design  
+
+7. Quality Control and Metrology (Geometric Dimensioning & Tolerancing)  
+   - Measurement techniques for biological components at micro-scale precision 
+   - Tools and instruments: optical microscopy, confocal microscopy, atomic force microscopy (AFM)  
+   - Geometric dimensioning and tolerancing (GD&T) for biological structures  
+   - Ensuring consistency, repeatability, and reproducibility in biomanufactured products  
+   - Metrological challenges in heterogeneous biological materials  
+
+8. Critical Thinking in Material-Process Interactions  
+   - Evaluation of trade-offs between performance, cost, scalability, and sustainability
+   - Decision-making frameworks for material selection and process optimization  
+   - Risk assessment in biomanufacturing: contamination, failure modes, variability  
+
+9. Hands-on Laboratory Experience  
+   - Lab modules on bioprinting: preparation of bioinks, printing, post-processing, and viability assessment  
+   - Lab modules on fermentation systems: microbial growth, nutrient optimization, product yield monitoring  
+

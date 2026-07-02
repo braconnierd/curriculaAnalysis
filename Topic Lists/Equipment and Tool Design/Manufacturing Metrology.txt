@@ -1,0 +1,60 @@
+1. Fundamentals of Gage Design (20%)
+   - Definition and purpose of gages  
+   - Types of gages (go/no-go, limit, comparative)  
+   - Tolerance stack-up and its impact on gage design  
+   - Role of gages in quality control and inspection  
+
+2. Geometric Dimensioning and Tolerancing (GD&T) (20%)  
+   - Principles of GD&T (datum, feature control frames)  
+   - Application of GD&T in gage design for part verification  
+   - Interpreting engineering drawings with GD&T  
+
+3. Material Selection and Properties (20%)
+   - Mechanical properties of gage materials (hardness, wear resistance, yield strength, fatigue resistance)  
+   - Selection criteria based on application (temperature, load, environmental exposure, corrosion resistance)  
+   - Common materials (steel, stainless steel, hardened alloys, ceramics, polymers)  
+   - Trade-offs between material properties and cost  
+
+4. Gage Function and Measurement Principles  
+   - Types of measurement (linear, diameter, depth, profile, angle, surface)  
+   - Sensitivity, resolution, and repeatability in measurement systems  
+   - Calibration and traceability requirements (traceability to national standards)  
+   - Influence of measurement principle on gage design (contact vs. non-contact, mechanical vs. optical)  
+
+5. Design for Manufacturing and Assembly (DFMA)
+   - Minimizing design complexity and cost (reducing part count, simplifying geometry)  
+   - Integration with manufacturing processes (CNC machining, injection molding, casting, turning)  
+   - Ease of maintenance and repair (accessibility, modularity, replaceability)  
+   - Design for assembly (DFA) principles in gage construction  
+
+6. Digital Tools and CAD/CAE/CAM Integration  
+   - Using CAD to model gage parts (parametric modeling, toleranced design, feature creation)  
+   - CAE for simulation of measurement accuracy (finite element analysis of deformation, thermal effects, contact stress)  
+   - CAM for generating toolpaths and manufacturing instructions (tool selection, cutting parameters, machine constraints)  
+   - Digital workflow integration (from concept to production, including virtual prototyping)  
+
+7. Error Analysis and Uncertainty  
+   - Sources of measurement error (systematic, random, environmental, operator-induced)  
+   - Statistical analysis of gage performance (mean, standard deviation, bias, repeatability)  
+   - Uncertainty propagation in measurement chains (Monte Carlo simulation, error propagation models)  
+   - Evaluation of gage performance under real-world conditions  
+
+8. Case Studies in Gage Design  
+   - Real-world examples from fiber extrusion and mini-mill systems  
+   - Design challenges and solutions in small-scale manufacturing (thermal expansion, material variability, precision requirements)  
+   - Comparative analysis of gage designs across different production environments  
+   - Lessons learned from failure modes and iterative improvements  
+
+9. Validation and Testing Protocols  
+   - Laboratory testing of gages (static and dynamic performance tests)  
+   - Verification against reference standards (master gages, calibrated instruments)  
+   - Documentation and reporting standards (test records, traceability logs, compliance reports)  
+   - Acceptance criteria and performance benchmarks  
+
+10. Regulatory and Industry Standards  
+   - ISO 2768 (tolerance classification for general tolerances)  
+   - ASME B89.4.3 (gaging and measurement standards)  
+   - ISO 9001 (quality management systems and inspection requirements)  
+   - ANSI/ASME B89.1 (gaging systems and their use)  
+   - Compliance in design and certification (audit readiness, documentation, traceability)  
+   - Application of standards to specific gage types and measurement functions

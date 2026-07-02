@@ -1,0 +1,64 @@
+1. Supply Chain Fundamentals (20%)
+   - Structure of supply chains (raw materials to end customer)  
+   - Key actors (suppliers, manufacturers, distributors, retailers)  
+   - Flow of goods, information, and finances  
+   - Supply chain types (make-to-stock, make-to-order, assemble-to-order)  
+   - Supply chain lifecycle (design, planning, execution, control)  
+
+2. Demand Forecasting and Planning (20%) 
+   - Time-series and causal forecasting methods  
+   - Moving averages, exponential smoothing, ARIMA  
+   - Demand signal processing and lead time estimation  
+   - Safety stock calculation and service level targets  
+
+3. Inventory Management  (20%)
+   - ABC analysis and EOQ model  
+   - Just-in-time (JIT) vs. safety stock strategies  
+   - Inventory turnover and carrying cost analysis  
+   - Multi-echelon inventory systems  
+
+4. Logistics Operations  
+   - Transportation modes (road, rail, air, sea)  
+   - Route optimization and freight cost modeling  
+   - Warehouse layout and picking strategies  
+   - Order fulfillment and last-mile delivery  
+
+5. Supply Chain Design and Network Optimization  
+   - Facility location models (gravity, p-median)  
+   - Network design under uncertainty  
+   - Capacity planning and bottleneck analysis  
+
+6. Supply Chain Risk Management  
+   - Risk identification (disruptions, supplier failure)  
+   - Contingency planning and resilience strategies  
+   - Scenario analysis and stress testing  
+
+7. Quality Management in Supply Chains  
+   - Statistical Process Control (SPC) – X-bar and R charts  
+   - Root cause analysis (5 Whys, Fishbone)  
+   - Quality metrics (Cpk, Ppk, defect rate)  
+   - Continuous improvement (PDCA, Kaizen)  
+
+8. Sustainability and Ethical Supply Chains  
+   - Environmental impact assessment (carbon footprint)  
+   - Ethical sourcing and labor practices  
+   - Circular economy and waste reduction  
+
+9. Technology Integration  
+   - ERP and SCM software (SAP, Oracle)  
+   - IoT and real-time tracking  
+   - Digital twins and simulation tools  
+
+10. Project Management in Supply Chains  
+   - Gantt charts, critical path method (CPM)  
+   - Scope, time, cost, and risk management  
+   - Stakeholder communication  
+
+11. Experiential Learning & Simulation  
+   - Hands-on manufacturing exercises (Manufacturing Squares)  
+   - Business simulation games (supply chain games)  
+   - SAP-based logistics labs  
+
+12. Ethics and Decision-Making in Supply Chains  
+   - Ethical dilemmas in sourcing and distribution  
+   - Stakeholder equity and transparency

@@ -1,0 +1,32 @@
+1. Foundations of Digital Twin (18%)
+   - Definition and evolution of digital twin concept  
+   - Core components: physical object, virtual model, data flow, real-time synchronization  
+   - Lifecycle stages: design, operation, maintenance, decommissioning  
+
+2. Mathematical and Analytical Foundations (18%)
+   - Differential equations and system dynamics  
+   - Optimization techniques in engineering design  
+   - Sensitivity analysis and uncertainty modeling  
+   - Application to additive manufacturing design  
+
+3. Real-Time Data Acquisition and Sensor Integration (18%)
+   - Sensor types and placement in manufacturing systems  
+   - Data streams and signal processing  
+   - IoT integration and edge computing in real-time monitoring
+   - Interoperability standards: OPC UA, MQTT, and industrial protocols
+
+4. Virtual Simulation and Modeling  (18%)
+   - 3D modeling and CAD integration  
+   - Simulation/visualization of manufacturing processes (CAM programming)  
+   - Serious game-based simulation for training
+   - Virtual reality (VR) for immersive learning and sustainability assessment 
+
+5. Feedback Loops and Adaptive Control  
+   - Closed-loop control systems in digital twin environments  
+   - Machine learning for predictive maintenance  
+   - Real-time decision-making and anomaly detection  
+
+6. Human-Centric Design and Sustainability 
+   - User interface design for digital twin systems  
+   - Human-in-the-loop decision making  
+   - Sustainable manufacturing metrics and lifecycle analysis  

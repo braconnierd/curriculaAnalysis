@@ -1,0 +1,42 @@
+1. Foundations of Joining  (20%)
+   - Welding (GMAW, TIG, MIG, SMAW)  
+   - Fastening (bolts, rivets, adhesives)  
+   - Joining materials compatibility  
+   - Joint design principles (bevels, fillets)  
+   - Defects and inspection (porosity, cracks)  
+   - Safety protocols in joining operations  
+
+2. Fabrication Processes  (20%)
+   - Cutting (laser, plasma, waterjet)  
+   - Forming (bending, rolling, pressing)  
+   - Machining (turning, milling, grinding)  
+   - Sheet metal fabrication (cutting, bending, assembly)  
+   - Tool selection and tool wear  
+   - Process planning and workflow design  
+
+3. Additive Manufacturing (AM)  
+   - AM technologies (FDM, SLS, SLA, binder jetting)  
+   - Material selection for AM  
+   - Layer-by-layer process mechanics  
+   - Post-processing (sintering, polishing, heat treatment)  
+   - AM design for manufacturability (DFM)  
+   - AM quality control and defect analysis  
+
+4. Finishing Techniques  (20%)
+   - Surface finishing (grinding, polishing, sandblasting)  
+   - Coating and plating (electroplating, PVD, CVD)  
+   - Surface treatment (anodizing, heat treatment)  
+   - Dimensional and surface tolerance control  
+   - Finishing equipment operation and maintenance  
+
+5. Design for Manufacturing (DFM)  
+   - DFM principles in joining, fabrication, and finishing  
+   - Process integration and workflow optimization  
+   - Material selection based on process constraints  
+   - Cost-benefit analysis of fabrication methods  
+
+6. Sustainable and Green Manufacturing  
+   - Energy efficiency in processes  
+   - Waste reduction in joining and fabrication  
+   - Lifecycle assessment of materials and processes  
+   - Environmental impact of finishing techniques  
