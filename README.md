@@ -15,22 +15,22 @@ This script was originally designed for MacOS, and there has been limited testin
 Install Ollama at https://ollama.com/download. The default models used within the project are qwen3:4b-instruct-2507-q4_k_M and qwen2.5vl:3b.
 
 # Project Workflow
-Load Topics
-      │
-      ▼
-Generate Topic Embeddings
-      │
-      ▼
-Load Documents
-      │
-      ▼
-Chunk Documents
-      │
-      ▼
-Compare Chunks to Topics
-      │
-      ▼
-Extract Evidence
-      │
-      ▼
-Write Output Files
+1. Load topic lists and/or generate your topic lists
+      - Use topic_list_generation.py to generate your own topic lists. Feel free to incorporate your own weighting structure within the topic lists by including a percentage next to the item
+         - ex: Sandcasting (20%)
+      - We have also included the txt files that we included within our research in the repository. 
+2. Convert course content into txt files
+      - Use course_content_handling.py to convert your course materials into text files. 
+      - This script only converts PDFs into text files - please convert any non-PDF files into PDFs before using this script.
+      - It is recommended that you structure your course material like so:
+        -  SchoolName --|
+            - CourseName1 --|
+                  - course_material_1.pdf
+                  - course_material_2.pdf
+            - CourseName2 --|
+                  - course_material_1.pdf
+                  - course_material_2.pdf
+3. Organize your folders to fit with the analysis
+4. Complete the analysis
+      - Use full_lta.py to compare between the course content and topic lists.
+   
