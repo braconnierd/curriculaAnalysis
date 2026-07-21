@@ -13,7 +13,7 @@ Analytical tool developed for topic based curricular analysis to enable systemat
 This script was originally designed for MacOS, and there has been limited testing on Windows.
 
 Install Ollama at https://ollama.com/download. The default models used within the project are qwen3:4b-instruct-2507-q4_k_M and qwen2.5vl:3b.
-
+```text
 # Project Workflow
 1. Load topic lists and/or generate your topic lists
       - Use topic_list_generation.py to generate your own topic lists. Feel free to incorporate your own weighting structure within the topic lists by including a percentage next to the item
