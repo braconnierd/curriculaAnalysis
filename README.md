@@ -39,3 +39,7 @@ Install Ollama at https://ollama.com/download. The default models used within th
 Generally, all of the scripts have their parameters at the top of the script, after the imports.
 
 ## topic_list_generation.py
+- Within the paper the qwen3:4b-instruct-2507-q4_k_M model was used for generating lists and consolidating lists, but this can be changed in the parameters.
+
+## course_content_handling.py
+- 
