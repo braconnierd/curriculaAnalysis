@@ -1,3 +1,6 @@
+# ------------------------------------------------------------------------------
+# Import and Library Management
+# ------------------------------------------------------------------------------
 import ollama
 from pathlib import Path
 from ollama_utils import ensure_ollama_running, stop_ollama
@@ -7,14 +10,15 @@ import pdfplumber
 import os
 
 # -----------------------------------
-# CONFIGURE INPUT AND OUTPUT FOLDERS
+# Script Parameters
 # -----------------------------------
-input_folder = Path("/Raw")       # where PDFs are
-output_folder = Path("/Processed")     # where TXT files go
+input_folder = Path("")       # where PDFs are
+output_folder = Path("")     # where TXT files go
 output_folder.mkdir(parents=True, exist_ok=True)
+llm_transcription_model="qwen2.5vl:3b" # model used to the handwriting transcription
 
 # -----------------------------
-# LLM TRANSCRIPTION FUNCTIONS
+# LLM Transcription Functions
 # -----------------------------
 def transcribe_image(image_path):
     """Use a visual LLM to transcribe and structure handwritten notes."""
@@ -34,7 +38,7 @@ def transcribe_image(image_path):
         )
 
     response = ollama.generate(
-        model="qwen2.5vl:3b",
+        model=llm_transcription_model,
         
         options={
            "temperature": 0,
@@ -77,7 +81,7 @@ def transcribe_pdf_as_image(pdf_path):
     return "\n".join(all_text)
 
 # -----------------------------
-# PDF TRANSCRIPTION FUNCTION
+# PDF Transcription Function
 # -----------------------------
 def extract_text_from_pdf(pdf_path):
     text_chunks = []
@@ -100,7 +104,7 @@ def extract_text_from_pdf(pdf_path):
 
 
 # -----------------------------
-# KEY FUNCTIONS
+# Key Functions
 # -----------------------------
 def process_course_content(input_root: str, output_root: str):
     """
@@ -178,7 +182,7 @@ def convert_file_to_txt(input_path: Path, output_path: Path) -> None:
         return
 
 # -----------------------------
-# MAIN LOOP
+# Main Loop
 # -----------------------------
 
 
