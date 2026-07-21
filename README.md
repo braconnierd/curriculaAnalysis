@@ -23,13 +23,14 @@ Install Ollama at https://ollama.com/download. The default models used within th
       - Use course_content_handling.py to convert your course materials into text files. 
       - This script only converts PDFs into text files - please convert any non-PDF files into PDFs before using this script.
       - It is recommended that you structure your course material like so:
-        -  SchoolName --|
-            - CourseName1 --|
-                  - course_material_1.pdf
-                  - course_material_2.pdf
-            - CourseName2 --|
-                  - course_material_1.pdf
-                  - course_material_2.pdf
+      - SchoolName/
+            ├── CourseName1/
+            │   ├── course_material_1.pdf
+            │   └── course_material_2.pdf
+            ├── CourseName1/
+            │   ├── course_material_1.pdf
+            │   └── course_material_2.pdf
+
 3. Organize your folders to fit with the analysis
 4. Complete the analysis
       - Use full_lta.py to compare between the course content and topic lists.
