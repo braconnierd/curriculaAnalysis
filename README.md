@@ -35,3 +35,7 @@ Install Ollama at https://ollama.com/download. The default models used within th
 4. Complete the analysis
       - Use full_lta.py to compare between the course content and topic lists.
    
+# Script-Specific Notes
+Generally, all of the scripts have their parameters at the top of the script, after the imports.
+
+## topic_list_generation.py
