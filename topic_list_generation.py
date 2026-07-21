@@ -19,7 +19,7 @@ from datetime import datetime
 # -------------------------------------------------------------------------------
 final_topic_list_folder = Path("") # Set the output destination for the final topic list
 session_log_folder = Path("") # Set the output destination for the session logs (This stores the information from each individual iteration)
-basemodel = 'qwen3:4b-instruct-2507-q4_k_M' # base model used to generate the list
+basemodel = 'qwen3:4b-instruct-2507-q4_k_M' # base model that has the PDFs within the system message and is used to generate the list
 genericmodel = "qwen3:4b-instruct-2507-q4_k_M" # generic model used to consolidate all the lists together
 iter = 2 # How many iterations the model should make before it makes a final list
 
