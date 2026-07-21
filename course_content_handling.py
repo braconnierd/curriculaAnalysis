@@ -185,7 +185,6 @@ def convert_file_to_txt(input_path: Path, output_path: Path) -> None:
 # Main Loop
 # -----------------------------
 
-
 # Turn Ollama on 
 ensure_ollama_running()
 
