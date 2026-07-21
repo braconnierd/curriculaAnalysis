@@ -84,6 +84,7 @@ def transcribe_pdf_as_image(pdf_path):
 # PDF Transcription Function
 # -----------------------------
 def extract_text_from_pdf(pdf_path):
+    """Use pdfplumber to extract all the text from the pdf"""
     text_chunks = []
 
     try:
@@ -101,7 +102,6 @@ def extract_text_from_pdf(pdf_path):
         return ""
                     
     return "\n".join(text_chunks).strip()
-
 
 # -----------------------------
 # Key Functions
