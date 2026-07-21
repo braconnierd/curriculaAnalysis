@@ -15,6 +15,15 @@ from pathlib import Path
 from datetime import datetime
 
 # -------------------------------------------------------------------------------
+# Script Parameters 
+# -------------------------------------------------------------------------------
+final_topic_list_folder = Path("") # Set the output destination for the final topic list
+session_log_folder = Path("") # Set the output destination for the session logs (This stores the information from each individual iteration)
+basemodel = 'qwen3:4b-instruct-2507-q4_k_M' # base model used to generate the list
+genericmodel = "qwen3:4b-instruct-2507-q4_k_M" # generic model used to consolidate all the lists together
+iter = 2 # How many iterations the model should make before it makes a final list
+
+# -------------------------------------------------------------------------------
 # Utility Functions
 # -------------------------------------------------------------------------------
 
@@ -145,15 +154,16 @@ def train_ollama(base_model,new_model_name,reset_model=False):
 # File Ingestion Ollama Functions
 # -------------------------------------------------------------------------------
 
-def make_topic_list(topic,iterations,new_model_name,pdf_names, output_folder, genericmodel="qwen3:4b-instruct-2507-q4_k_M"):
+def make_topic_list(topic,iterations,new_model_name,pdf_names, output_folder, final_list_folder, genericmodel):
     """ Send prompt n times, save all of the responses in the output folder as a session, then send the list to the LLM to delete duplicates. Return the topic list. """
 
     output_folder.mkdir(parents=True, exist_ok=True)
+    final_list_folder.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.now().strftime("%m-%d-%Y %H-%M-%S")
     
     
     # Ollama Session Log
-    file_path = output_folder / f"Ollama Session - {timestamp}.txt"
+    file_path = output_folder / f"Ollama Session on {topic} - {timestamp}.txt"
     
     with open(file_path, "w", encoding="utf-8") as m:
         timestamp = datetime.now().strftime("%m/%d/%Y %H:%M:%S")
@@ -176,6 +186,7 @@ def make_topic_list(topic,iterations,new_model_name,pdf_names, output_folder, ge
     
     masterlist = []
     totalstart = time.time()
+    iterations = iterations - 1
 
     for i in range(iterations): 
         iterstart = time.time()
@@ -188,7 +199,7 @@ def make_topic_list(topic,iterations,new_model_name,pdf_names, output_folder, ge
             f.write(f"Iteration {(i+1)} \n")
             f.write(f"{summary} \n\n")
         iterend = time.time()
-        print(f"Completed iteration number {i}. Check the output file to see the output. Time taken: {iterend - iterstart:.2f} seconds")
+        print(f"Completed iteration number {(i+1)}. Check the output file to see the output. Time taken: {iterend - iterstart:.2f} seconds")
 
 
     # Join all summaries into one string
@@ -203,7 +214,7 @@ def make_topic_list(topic,iterations,new_model_name,pdf_names, output_folder, ge
         genericmodel,
         f"{prompt}\n\nConsolidate the following list of relevant topics and subtopics to delete duplicates and group similar ideas together, making one masterlist. Ensure that every subtopic and topic originally included in the list is represented. The topics and subtopics should be listed in order of importance. Keep the formatting the same as the individual lists (Do not make a syllabus). *Only output the list*, do not give any conversational response. \n\n Here is the combined list:\n\n{combined_list}"
     )
-    list_path = output_folder / f"{topic}.txt"
+    list_path = final_list_folder / f"{topic}.txt"
     with open(list_path, 'w', encoding='utf-8') as f:
         f.write(f"{topic_list}")
     print(topic_list)
@@ -219,8 +230,7 @@ def make_topic_list(topic,iterations,new_model_name,pdf_names, output_folder, ge
 
 ensure_ollama_running()
 
-output_folder = Path("JMSE Paper/JMSE data/Ollama Sessions/") ## Set the output destination for the session log - This stores the information from each individual iteration)
-new_model_name, pdf_names = train_ollama(base_model='qwen3:4b-instruct-2507-q4_k_M', new_model_name='PDF_LLM', reset_model=True)
+new_model_name, pdf_names = train_ollama(base_model=basemodel, new_model_name='PDF_LLM', reset_model=True)
 
 while True:
     topic = None
@@ -236,6 +246,6 @@ while True:
 
     if user_input.strip() != '':
         topic = user_input.strip()
-        make_topic_list(topic, 3, new_model_name, pdf_names, output_folder)
+        make_topic_list(topic, iter, new_model_name, pdf_names, session_log_folder, final_topic_list_folder, genericmodel)
     else:
         print("Please enter a valid topic or type /exit to quit.\n")
