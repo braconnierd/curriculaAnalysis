@@ -66,7 +66,10 @@ Generally, all of the scripts have their parameters at the top of the script, af
       │   └── course_material_2.txt
   ```
 ## full_lta.py
-- Within the paper Google's [EmbeddingGemma](https://ai.google.dev/gemma/docs/embeddinggemma) model was used for generating the sentence embeddings.
+### Parameters
+- Within the paper Google's [EmbeddingGemma](https://ai.google.dev/gemma/docs/embeddinggemma) model was used for generating the sentence embeddings. This can be changed in the parameters section.
+- The cosine similarity thresholds are also set in the parameters section, but they can be tuned to make the system stricter and/or more lenient.
+- Batch size and docs_per_chunk are the batching parameters used to ensure that the system doesn't run out of memory when it is run locally. When being run on a M4 Pro MacBook Pro with 24GB RAM, a batch size of 16 and 5 documents per chunk were used. 
 - The input_folder should be the path to your course content as txt files. It should be structured like so:
   ```text
       Input_Folder/
