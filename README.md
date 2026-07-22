@@ -12,7 +12,7 @@ Analytical tool developed for topic based curricular analysis to enable systemat
 - Additional python libraries as specified within the requirements file
 This script was originally designed for MacOS, and there has been limited testing on Windows.
 
-Install Ollama at https://ollama.com/download. The default models used within the project are qwen3:4b-instruct-2507-q4_k_M and qwen2.5vl:3b.
+Install [Ollama](https://ollama.com/download) at https://ollama.com/download. The default models used within the project are [qwen3:4b-instruct-2507-q4_k_M](https://ollama.com/library/qwen3:4b-instruct-2507-q4_K_M) and [qwen2.5vl:3b](https://ollama.com/library/qwen2.5vl:3b).
 
 # Project Workflow
 1. Load topic lists and/or generate your topic lists
@@ -31,6 +31,7 @@ Install Ollama at https://ollama.com/download. The default models used within th
             ├── CourseName2/
             │   ├── course_material_1.pdf
             │   └── course_material_2.pdf
+          ```
 3. Organize your folders to fit with the analysis
 4. Complete the analysis
       - Use full_lta.py to compare between the course content and topic lists.
@@ -39,7 +40,7 @@ Install Ollama at https://ollama.com/download. The default models used within th
 Generally, all of the scripts have their parameters at the top of the script, after the imports.
 
 ## topic_list_generation.py
-- Within the paper the qwen3:4b-instruct-2507-q4_k_M model was used for generating lists and consolidating lists, but this can be changed in the parameters section.
+- Within the paper the [qwen3:4b-instruct-2507-q4_k_M model](https://ollama.com/library/qwen3:4b-instruct-2507-q4_K_M) was used for generating lists and consolidating lists, but this can be changed in the parameters section.
 
 ## course_content_handling.py
 - Note that this script turns *exclusively* PDFs into txt files. It will skip over any files that are not PDFs.
@@ -53,6 +54,7 @@ Generally, all of the scripts have their parameters at the top of the script, af
       ├── CourseName2/
       │   ├── course_material_1.pdf
       │   └── course_material_2.pdf
+  ```
 - The output folder will be made to mirror the input folder, so given the previous example, the output will look like this:
   ```text
       OutputFolder/
@@ -62,8 +64,9 @@ Generally, all of the scripts have their parameters at the top of the script, af
       ├── CourseName2/
       │   ├── course_material_1.txt
       │   └── course_material_2.txt
-
+  ```
 ## full_lta.py
+- Within the paper Google's [EmbeddingGemma](https://ai.google.dev/gemma/docs/embeddinggemma) model was used for generating the sentence embeddings.
 - The input_folder should be the path to your course content as txt files. It should be structured like so:
   ```text
       Input_Folder/
@@ -73,6 +76,7 @@ Generally, all of the scripts have their parameters at the top of the script, af
       ├── CourseName2/
       │   ├── course_material_1.txt
       │   └── course_material_2.txt
+  ```
 - The topics_folder should be the path to the folder of topic lists. It should be structured like so:
     ```text
       Topics_Folder/
@@ -82,4 +86,32 @@ Generally, all of the scripts have their parameters at the top of the script, af
       ├── Building_Block_2/
       │   ├── topic_list_1.txt
       │   └── topic_list_2.txt
-- The evidence_folder should be the path to where you want to store all the evidence. After running the script, it will result in a corresponding output. 
+    ```
+- The evidence_folder should be the path to the folder where you want to store all the evidence/documentation. After running the script, it will result in an output corresponding to the structure of the folder of topic lists. Based on the sample topic list folder structure, this would be the structure of the evidence folder.
+    ```text
+      Evidence_Folder/
+      ├── Building_Block_1/
+      │   ├── topic_list_1_Evidence.txt
+      │   └── topic_list_2_Evidence.txt
+      ├── Building_Block_2/
+      │   ├── topic_list_1_Evidence.txt
+      │   └── topic_list_2_Evidence.txt
+      └── SchoolName.json
+   ```
+   - Each evidence file includes the final score for the corresponding topic list, as well as the hits found in for each sub-topic, and the closest miss for sub-topics that are completely missed.
+   - The json file includes the percentage of coverage for each topic list. It is structured like so:
+     ```text
+     "school_name": "Program/School Name",
+     "results": {
+        "Building Block 1": {
+           "Topic List 1": xx.xx,
+           "Topic List 2": xx.xx,
+         },
+         "Building Block 2": {
+           "Topic List 1": xx.xx,
+           "Topic List 2": xx.xx,
+         },
+     ```
+
+### Matching Schema
+The cosine similarity of sentence embeddings of the topic lists and course content are used throughout this process to determine whether sub-topics are addressed within the course content. There are 3 kinds of comparisons that are made. 
