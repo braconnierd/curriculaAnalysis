@@ -762,7 +762,7 @@ def lexical_match(atom_heads: list[str], sentence: str) -> bool:
 
 
 # ------------------------------------------------------------------------------
-# Evidence File Generation + Result Management
+#  File Generation + Result Management
 # ------------------------------------------------------------------------------
 
 def merge_lta_results(partial_results_list):
@@ -831,7 +831,7 @@ def write_evidence_txt(lta_results, evidence_root):
     Writes hierarchical evidence files.
 
     Returns:
-        Text files are located at Evidence/[Building Block]/[Topic Name] Evidence.txt
+        Text files are located at Evidence/[Building Block]/[Topic Name]_Evidence.txt
     """
 
     from collections import defaultdict
@@ -849,7 +849,7 @@ def write_evidence_txt(lta_results, evidence_root):
 
             out_path = os.path.join(
                 discipline_dir,
-                f"{topic_name} Evidence.txt"
+                f"{topic_name}_Evidence.txt"
             )
 
             # -------- Group by subtopic --------
