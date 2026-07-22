@@ -28,7 +28,7 @@ Install Ollama at https://ollama.com/download. The default models used within th
             ├── CourseName1/
             │   ├── course_material_1.pdf
             │   └── course_material_2.pdf
-            ├── CourseName1/
+            ├── CourseName2/
             │   ├── course_material_1.pdf
             │   └── course_material_2.pdf
 3. Organize your folders to fit with the analysis
@@ -49,7 +49,7 @@ Generally, all of the scripts have their parameters at the top of the script, af
       ├── CourseName1/
       │   ├── course_material_1.pdf
       │   └── course_material_2.pdf
-      ├── CourseName1/
+      ├── CourseName2/
       │   ├── course_material_1.pdf
       │   └── course_material_2.pdf
 Note that this script turns *exclusively* PDFs into txt files. It will skip over any files that are not PDFs.
@@ -59,6 +59,6 @@ The output folder will be made to mirror the input folder, so given the previous
       ├── CourseName1/
       │   ├── course_material_1.txt
       │   └── course_material_2.txt
-      ├── CourseName1/
+      ├── CourseName2/
       │   ├── course_material_1.txt
       │   └── course_material_2.txt
