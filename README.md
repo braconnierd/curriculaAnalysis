@@ -117,4 +117,6 @@ Generally, all of the scripts have their parameters at the top of the script, af
      ```
 
 ### Matching Schema
-The cosine similarity of sentence embeddings of the topic lists and course content are used throughout this process to determine whether sub-topics are addressed within the course content. There are 3 kinds of comparisons that are made. 
+The cosine similarity of sentence embeddings of the topic lists and course content are used throughout this process to determine whether sub-topics are addressed within the course content. 
+
+There are 3 kinds of comparisons that are made. 
