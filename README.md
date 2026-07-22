@@ -62,3 +62,24 @@ Generally, all of the scripts have their parameters at the top of the script, af
       ├── CourseName2/
       │   ├── course_material_1.txt
       │   └── course_material_2.txt
+
+## full_lta.py
+- The input_folder should be the path to your course content as txt files. It should be structured like so:
+  ```text
+      Input_Folder/
+      ├── CourseName1/
+      │   ├── course_material_1.txt
+      │   └── course_material_2.txt
+      ├── CourseName2/
+      │   ├── course_material_1.txt
+      │   └── course_material_2.txt
+- The topics_folder should be the path to the folder of topic lists. It should be structured like so:
+    ```text
+      Topics_Folder/
+      ├── Building_Block_1/
+      │   ├── topic_list_1.txt
+      │   └── topic_list_2.txt
+      ├── Building_Block_2/
+      │   ├── topic_list_1.txt
+      │   └── topic_list_2.txt
+- The evidence_folder should be the path to where you want to store all the evidence. After running the script, it will result in a corresponding output. 
