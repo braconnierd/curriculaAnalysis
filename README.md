@@ -42,6 +42,7 @@ Generally, all of the scripts have their parameters at the top of the script, af
 - Within the paper the qwen3:4b-instruct-2507-q4_k_M model was used for generating lists and consolidating lists, but this can be changed in the parameters section.
 
 ## course_content_handling.py
+- Note that this script turns *exclusively* PDFs into txt files. It will skip over any files that are not PDFs.
 - Within the paper the qwen2.5vl:3b model was used to do turn the handwriting into text - this can be changed in the parameters section.
 - It is recommended that you structure your course material like so:
   ```text
@@ -52,8 +53,7 @@ Generally, all of the scripts have their parameters at the top of the script, af
       ├── CourseName2/
       │   ├── course_material_1.pdf
       │   └── course_material_2.pdf
-Note that this script turns *exclusively* PDFs into txt files. It will skip over any files that are not PDFs.
-The output folder will be made to mirror the input folder, so given the previous example, the output will look like this:
+- The output folder will be made to mirror the input folder, so given the previous example, the output will look like this:
   ```text
       OutputFolder/
       ├── CourseName1/
