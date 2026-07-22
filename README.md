@@ -39,7 +39,26 @@ Install Ollama at https://ollama.com/download. The default models used within th
 Generally, all of the scripts have their parameters at the top of the script, after the imports.
 
 ## topic_list_generation.py
-- Within the paper the qwen3:4b-instruct-2507-q4_k_M model was used for generating lists and consolidating lists, but this can be changed in the parameters.
+- Within the paper the qwen3:4b-instruct-2507-q4_k_M model was used for generating lists and consolidating lists, but this can be changed in the parameters section.
 
 ## course_content_handling.py
-- 
+- Within the paper the qwen2.5vl:3b model was used to do turn the handwriting into text - this can be changed in the parameters section.
+- It is recommended that you structure your course material like so:
+  ```text
+  - InputFolder/
+      ├── CourseName1/
+      │   ├── course_material_1.pdf
+      │   └── course_material_2.pdf
+      ├── CourseName1/
+      │   ├── course_material_1.pdf
+      │   └── course_material_2.pdf
+Note that this script turns *exclusively* PDFs into txt files. It will skip over any files that are not PDFs.
+The output folder will be made to mirror the input folder, so given the previous example, the output will look like this:
+  ```text
+  - OutputFolder/
+      ├── CourseName1/
+      │   ├── course_material_1.txt
+      │   └── course_material_2.txt
+      ├── CourseName1/
+      │   ├── course_material_1.txt
+      │   └── course_material_2.txt
