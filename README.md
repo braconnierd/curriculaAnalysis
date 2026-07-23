@@ -44,7 +44,7 @@ Generally, all of the scripts have their parameters at the top of the script, af
 
 ## course_content_handling.py
 - Note that this script turns *exclusively* PDFs into txt files. It will skip over any files that are not PDFs.
-- Within the paper the qwen2.5vl:3b model was used to do turn the handwriting into text - this can be changed in the parameters section.
+- Within the paper the qwen2.5vl:3b model was used to turn the handwriting into text - this can be changed in the parameters section.
 - It is recommended that you structure your course material like so:
   ```text
       InputFolder/
@@ -69,7 +69,9 @@ Generally, all of the scripts have their parameters at the top of the script, af
 ### Parameters
 - Within the paper Google's [EmbeddingGemma](https://ai.google.dev/gemma/docs/embeddinggemma) model was used for generating the sentence embeddings. This can be changed in the parameters section.
 - The cosine similarity thresholds are also set in the parameters section, but they can be tuned to make the system stricter and/or more lenient. More details about these thresholds are included below. 
-- `batch_size` and `docs_per_chunk` are the batching parameters used to ensure that the system doesn't run out of memory when it is run locally. When being run on a M4 Pro MacBook Pro with 24GB RAM, a batch size of 16 and 5 documents per chunk were used. 
+- `batch_size` and `docs_per_chunk` are the batching parameters used to ensure that the system doesn't run out of memory when it is run locally. When being run on a M4 Pro MacBook Pro with 24GB RAM, a batch size of 16 and 5 documents per chunk were used.
+    - `batch_size` refers to the number of strings that are sent to the embedding model at once. 
+    - `docs_per_chunk` refers to the number of documents within the course content that are compared to the topic lists before the cache is emptied.  
 - The `input_folder` should be the path to your course content as txt files. It should be structured like so:
   ```text
       Input_Folder/
