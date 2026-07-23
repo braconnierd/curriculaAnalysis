@@ -69,8 +69,8 @@ Generally, all of the scripts have their parameters at the top of the script, af
 ### Parameters
 - Within the paper Google's [EmbeddingGemma](https://ai.google.dev/gemma/docs/embeddinggemma) model was used for generating the sentence embeddings. This can be changed in the parameters section.
 - The cosine similarity thresholds are also set in the parameters section, but they can be tuned to make the system stricter and/or more lenient. More details about these thresholds are included below. 
-- Batch size and docs_per_chunk are the batching parameters used to ensure that the system doesn't run out of memory when it is run locally. When being run on a M4 Pro MacBook Pro with 24GB RAM, a batch size of 16 and 5 documents per chunk were used. 
-- The input_folder should be the path to your course content as txt files. It should be structured like so:
+- `batch_size` and `docs_per_chunk` are the batching parameters used to ensure that the system doesn't run out of memory when it is run locally. When being run on a M4 Pro MacBook Pro with 24GB RAM, a batch size of 16 and 5 documents per chunk were used. 
+- The `input_folder` should be the path to your course content as txt files. It should be structured like so:
   ```text
       Input_Folder/
       ├── CourseName1/
@@ -80,7 +80,7 @@ Generally, all of the scripts have their parameters at the top of the script, af
       │   ├── course_material_1.txt
       │   └── course_material_2.txt
   ```
-- The topics_folder should be the path to the folder of topic lists. It should be structured like so:
+- The `topics_folder` should be the path to the folder of topic lists. It should be structured like so:
     ```text
       Topics_Folder/
       ├── Building_Block_1/
@@ -90,7 +90,7 @@ Generally, all of the scripts have their parameters at the top of the script, af
       │   ├── topic_list_1.txt
       │   └── topic_list_2.txt
     ```
-- The evidence_folder should be the path to the folder where you want to store all the evidence/documentation. After running the script, it will result in an output corresponding to the structure of the folder of topic lists. Based on the sample topic list folder structure, this would be the structure of the evidence folder.
+- The `evidence_folder` should be the path to the folder where you want to store all the evidence/documentation. After running the script, it will result in an output corresponding to the structure of the folder of topic lists. Based on the sample topic list folder structure, this would be the structure of the evidence folder.
     ```text
       Evidence_Folder/
       ├── Building_Block_1/
@@ -119,4 +119,6 @@ Generally, all of the scripts have their parameters at the top of the script, af
 ### Matching Schema
 The cosine similarity of sentence embeddings of the topic lists and course content are used throughout this process to determine whether sub-topics are addressed within the course content. 
 
-There are 3 kinds of comparisons that are made. 
+When the topic lists are parsed, they are parsed to find an atomic query and a full context query. As an example, within a list about metals, *yield strength* would be an atom, while the full context query would be *Content about yield strength as it relates to Mechanical Behavior of Metals*.
+
+There are two kinds of matches included within the schema: lexical and semantic matching. **Semantic matching** means that the cosine similarity between the atom and query exceed the threshold - in other words, based on similarity, the topic has been determined to be mentioned within the text. These thresholds are controlled by `atom_threshold`, which sets the needed cosine similarity to the atom, and `query_threshold`, which sets the needed cosine similarity to the full context query. **Lexical matching** means that the atom and/or keywords from the phrase have been mentioned exactly within the text. This includes common variations on the word (i.e. plurals and verb conjugations count for the word as well). In order to ensure that the atom is appearing in the appropriate context, it still compares the full query to the sentence embeddings, and for it to be considered covered within the content, it must exhibit a cosine similarity above `context_threshold`. Note that some atomic topics are excluded from semantic matching. If atoms are identified as acronyms or names, they are only considered covered if they are mentioned exactly within the text (i.e. only lexical matches are considered). Lastly, the efficacy of the thresholds can be evaluated by looking through the evidence files. They will show what passed the threshold and if nothing passed the threshold, what was the closest to passing, as well as its score. This allows you to adjust the thresholds to match the expected outcome. 
