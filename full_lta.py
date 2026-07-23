@@ -18,7 +18,10 @@ input_folder = Path("")     # where input TXT files of course content are
 topics_folder = Path("")    # where TXT files of topics lists are
 evidence_folder = Path("")  # where the output with the individual scores folder
 evidence_folder.mkdir(parents=True, exist_ok=True)
-SchoolName = "" # Name of School (mainly used for file naming purposes)
+SchoolName = ""             # Name of School (mainly used for file naming purposes)
+atom_threshold=0.55         # cosine similarity threshold for the atom for it to be counted as being covered within the course content (semantic matching)
+query_threshold=0.45        # cosine similarity threshold for the full query (semantic matching)
+context_threshold=0.36      # cosine similarity threshold for the context (lexical matching)
 
 # ---------------------------
 # Configuration / thresholds
